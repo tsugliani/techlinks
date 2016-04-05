@@ -4,7 +4,7 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr//atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr//"/>
- <updated>2016-04-05T19:08:21+02:00</updated>
+ <updated>2016-04-05T23:16:37+02:00</updated>
  <id>http://techlinks.tsugliani.fr/</id>
  <author>
    <name>Timo Sugliani</name>
@@ -24,7 +24,7 @@
 &lt;a href=&quot;https://fojta.wordpress.com/2016/04/05/vcloud-networking-and-security-upgrade-to-nsx-in-vcloud-director-environments/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;vSphere Integrated Containers is now OSS -
 &lt;a href=&quot;https://github.com/vmware/vic&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Two Factor Authentication for vSphere – RSA SecurID - 
+  &lt;li&gt;Two Factor Authentication for vSphere – RSA SecurID -
 &lt;a href=&quot;https://blogs.vmware.com/vsphere/2016/04/two-factor-authentication-for-vsphere-rsa-securid.html&quot; target=&quot;_blank&quot;&gt;Part 1&lt;/a&gt; |
 &lt;a href=&quot;http://blogs.vmware.com/vsphere/2016/04/two-factor-authentication-for-vsphere-rsa-securid-part-2.html&quot; target=&quot;_blank&quot;&gt;Part 2&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;ESXi Embedded Host Client v7 released -
@@ -40,7 +40,7 @@
 &lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Nice monitoring/dashboard tool -
+  &lt;li&gt;Netdata - Nice monitoring/dashboard tool -
 &lt;a href=&quot;https://github.com/firehol/netdata&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Infrastructure as code: running microservices on AWS using Docker, Terraform, and ECS -
 &lt;a href=&quot;http://www.ybrikman.com/writing/2016/03/31/infrastructure-as-code-microservices-aws-docker-terraform-ecs/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;

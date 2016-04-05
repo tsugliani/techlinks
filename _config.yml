@@ -1,27 +1,26 @@
-
-markdown:            kramdown
-highlighter:         rouge
-
+# Display
+markdown:           kramdown
+highlighter:        rouge
 
 # Permalinks
-permalink: pretty
-# relative_permalinks: true
+permalink:          pretty
 
 # Setup
-title:               'Tech Links'
-tagline:             'Recent findings & interesting articles'
-description:         'Passionate Technologist sharing his findings with the community'
-url:                 http://techlinks.tsugliani.fr/
-baseurl:             ''
-paginate:            10
+title:              'Tech Links'
+tagline:            'Recent findings & interesting articles'
+description:        'Passionate Technologist sharing his findings with the community'
+url:                http://techlinks.tsugliani.fr/
+baseurl:            ''
+paginate:           10
 
 # About/contact
-author:
-  name:              Timo Sugliani
-  url:               https://twitter.com/tsugliani
-  email:             timo.sugliani@gmail.com
+author:ÒÒ
+  name:             Timo Sugliani
+  url:              https://twitter.com/tsugliani
+  email:            timo.sugliani@gmail.com
 
 # Custom vars
-version:             1.0.0
+version:            1.0.0
 
-gems: [jekyll-paginate]
+# Dependencies
+gems:               [jekyll-paginate]
