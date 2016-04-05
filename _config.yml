@@ -9,8 +9,8 @@ permalink: pretty
 
 # Setup
 title:               'Tech Links'
-tagline:             'Recent interesting articles and findings'
-description:         'My Tech findings.'
+tagline:             'Recent findings & interesting articles'
+description:         'Passionate Technologist sharing his findings with the community'
 url:                 http://techlinks.tsugliani.fr/
 baseurl:             ''
 paginate:            10
