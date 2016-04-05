@@ -14,7 +14,7 @@ baseurl:            ''
 paginate:           10
 
 # About/contact
-author:ÒÒ
+author:
   name:             Timo Sugliani
   url:              https://twitter.com/tsugliani
   email:            timo.sugliani@gmail.com

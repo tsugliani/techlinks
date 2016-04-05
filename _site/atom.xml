@@ -4,7 +4,7 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr//atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr//"/>
- <updated>2016-04-05T23:16:37+02:00</updated>
+ <updated>2016-04-06T00:04:06+02:00</updated>
  <id>http://techlinks.tsugliani.fr/</id>
  <author>
    <name>Timo Sugliani</name>
@@ -70,7 +70,7 @@
   &lt;li&gt;First Touch Down with Docker for Mac -
 &lt;a href=&quot;http://blog.hypriot.com/post/first-touch-down-with-docker-for-mac/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Creating a good, secure Docker base image -
-&lt;a href=&quot;http://heiber.im/post/creating-a-solid-docker-base-image/&quot; targer=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&quot;http://heiber.im/post/creating-a-solid-docker-base-image/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Next Level portable HomeLab -
 &lt;a href=&quot;http://blog.infrageeks.com/blog/2016/3/29/my-new-mobile-lab.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
