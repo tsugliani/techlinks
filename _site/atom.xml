@@ -4,7 +4,7 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr//atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr//"/>
- <updated>2016-04-05T15:57:10+02:00</updated>
+ <updated>2016-04-05T18:17:56+02:00</updated>
  <id>http://techlinks.tsugliani.fr/</id>
  <author>
    <name>Timo Sugliani</name>
@@ -13,12 +13,66 @@
 
  
  <entry>
-   <title>Week 14</title>
-   <link href="http://techlinks.tsugliani.fr//2016/04/05/Week-14/"/>
+   <title>Week 15</title>
+   <link href="http://techlinks.tsugliani.fr//2016/04/05/Week-15/"/>
    <updated>2016-04-05T00:00:00+02:00</updated>
-   <id>http://techlinks.tsugliani.fr//2016/04/05/Week-14</id>
-   <content type="html">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.ybrikman.com/writing/2016/03/31/infrastructure-as-code-microservices-aws-docker-terraform-ecs/&quot;&gt;Infrastructure as code: running microservices on AWS using Docker, Terraform, and ECS&lt;/a&gt;&lt;/li&gt;
+   <id>http://techlinks.tsugliani.fr//2016/04/05/Week-15</id>
+   <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;vCloud Networking and Security Upgrade to NSX in vCloud Director Environments -
+&lt;a href=&quot;https://fojta.wordpress.com/2016/04/05/vcloud-networking-and-security-upgrade-to-nsx-in-vcloud-director-environments/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSphere Integrated Containers is now OSS -
+&lt;a href=&quot;https://github.com/vmware/vic&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Two Factor Authentication for vSphere – RSA SecurID
+&lt;a href=&quot;https://blogs.vmware.com/vsphere/2016/04/two-factor-authentication-for-vsphere-rsa-securid.html&quot; target=&quot;_blank&quot;&gt;Part 1&lt;/a&gt; |
+&lt;a href=&quot;http://blogs.vmware.com/vsphere/2016/04/two-factor-authentication-for-vsphere-rsa-securid-part-2.html&quot; target=&quot;_blank&quot;&gt;Part 2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ESXi Embedded Host Client v7 released -
+&lt;a href=&quot;https://labs.vmware.com/flings/esxi-embedded-host-client#change-log&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VSAN 6.2 Upgrade – Failed to realign objects -
+&lt;a href=&quot;http://cormachogan.com/2016/03/31/vsan-6-2-upgrade-failed-realign-objects/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VSAN 6.2 Part 12 – VSAN 6.1 to 6.2 Upgrade Steps -
+&lt;a href=&quot;http://cormachogan.com/2016/04/05/vsan-6-2-part-12-vsan-6-1-6-2-upgrade-steps/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Try the new #vSphere HTML5 Web Client
+&lt;a href=&quot;http://cloudmaniac.net/vsphere-html5-client/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Nice monitoring/dashboard tool -
+&lt;a href=&quot;https://github.com/firehol/netdata&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Infrastructure as code: running microservices on AWS using Docker, Terraform, and ECS -
+&lt;a href=&quot;http://www.ybrikman.com/writing/2016/03/31/infrastructure-as-code-microservices-aws-docker-terraform-ecs/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Week 14</title>
+   <link href="http://techlinks.tsugliani.fr//2016/03/27/Week-14/"/>
+   <updated>2016-03-27T00:00:00+01:00</updated>
+   <id>http://techlinks.tsugliani.fr//2016/03/27/Week-14</id>
+   <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Migrating from Hybrid to All-Flash VSAN -
+&lt;a href=&quot;http://vmwa.re/1u5&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;API Documentation with Platypus -
+&lt;a href=&quot;http://cloudmaniac.net/platypus-api/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Functional USB 3.0 Ethernet Adapter (NIC) driver for ESXi 5.5/6.0 -
+&lt;a href=&quot;http://ift.tt/1ojSKz0&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;First Touch Down with Docker for Mac -
+&lt;a href=&quot;http://blog.hypriot.com/post/first-touch-down-with-docker-for-mac/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Creating a good, secure Docker base image -
+&lt;a href=&quot;http://heiber.im/post/creating-a-solid-docker-base-image/&quot; targer=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Next Level portable HomeLab -
+&lt;a href=&quot;http://blog.infrageeks.com/blog/2016/3/29/my-new-mobile-lab.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
  </entry>
