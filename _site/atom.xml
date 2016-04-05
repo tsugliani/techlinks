@@ -4,7 +4,7 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr//atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr//"/>
- <updated>2016-04-06T00:04:06+02:00</updated>
+ <updated>2016-04-06T00:43:05+02:00</updated>
  <id>http://techlinks.tsugliani.fr/</id>
  <author>
    <name>Timo Sugliani</name>
@@ -73,6 +73,8 @@
 &lt;a href=&quot;http://heiber.im/post/creating-a-solid-docker-base-image/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Next Level portable HomeLab -
 &lt;a href=&quot;http://blog.infrageeks.com/blog/2016/3/29/my-new-mobile-lab.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;SSH for Clusters and Teams -
+&lt;a href=&quot;http://gravitational.com/teleport/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
  </entry>
