@@ -4,16 +4,14 @@ highlighter:         rouge
 
 
 # Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+permalink: pretty
 # relative_permalinks: true
 
 # Setup
 title:               'Tech Links'
 tagline:             'Recent interesting articles and findings'
 description:         'My Tech findings.'
-url:                 http://techlinks.tsugliani.fr
+url:                 http://techlinks.tsugliani.fr/
 baseurl:             ''
 paginate:            10
 
