@@ -4,7 +4,7 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr//atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr//"/>
- <updated>2016-04-05T18:17:56+02:00</updated>
+ <updated>2016-04-05T18:27:21+02:00</updated>
  <id>http://techlinks.tsugliani.fr/</id>
  <author>
    <name>Timo Sugliani</name>
@@ -24,7 +24,7 @@
 &lt;a href=&quot;https://fojta.wordpress.com/2016/04/05/vcloud-networking-and-security-upgrade-to-nsx-in-vcloud-director-environments/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;vSphere Integrated Containers is now OSS -
 &lt;a href=&quot;https://github.com/vmware/vic&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Two Factor Authentication for vSphere – RSA SecurID
+  &lt;li&gt;Two Factor Authentication for vSphere – RSA SecurID - 
 &lt;a href=&quot;https://blogs.vmware.com/vsphere/2016/04/two-factor-authentication-for-vsphere-rsa-securid.html&quot; target=&quot;_blank&quot;&gt;Part 1&lt;/a&gt; |
 &lt;a href=&quot;http://blogs.vmware.com/vsphere/2016/04/two-factor-authentication-for-vsphere-rsa-securid-part-2.html&quot; target=&quot;_blank&quot;&gt;Part 2&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;ESXi Embedded Host Client v7 released -
@@ -33,7 +33,7 @@
 &lt;a href=&quot;http://cormachogan.com/2016/03/31/vsan-6-2-upgrade-failed-realign-objects/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;VSAN 6.2 Part 12 – VSAN 6.1 to 6.2 Upgrade Steps -
 &lt;a href=&quot;http://cormachogan.com/2016/04/05/vsan-6-2-part-12-vsan-6-1-6-2-upgrade-steps/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Try the new #vSphere HTML5 Web Client
+  &lt;li&gt;Try the new #vSphere HTML5 Web Client -
 &lt;a href=&quot;http://cloudmaniac.net/vsphere-html5-client/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
