@@ -4,13 +4,81 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr//atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr//"/>
- <updated>2016-04-07T21:15:07+02:00</updated>
+ <updated>2016-04-07T21:24:47+02:00</updated>
  <id>http://techlinks.tsugliani.fr/</id>
  <author>
    <name>Timo Sugliani</name>
    <email>timo.sugliani@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Week 15</title>
+   <link href="http://techlinks.tsugliani.fr//2016/04/08/Week-15/"/>
+   <updated>2016-04-08T00:00:00+02:00</updated>
+   <id>http://techlinks.tsugliani.fr//2016/04/08/Week-15</id>
+   <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;vCNS Upgrade to NSX in vCloud Director Environments -
+&lt;a href=&quot;https://fojta.wordpress.com/2016/04/05/vcloud-networking-and-security-upgrade-to-nsx-in-vcloud-director-environments/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSphere Integrated Containers is now OSS -
+&lt;a href=&quot;https://github.com/vmware/vic&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Two Factor Authentication for vSphere – RSA SecurID -
+&lt;a href=&quot;https://blogs.vmware.com/vsphere/2016/04/two-factor-authentication-for-vsphere-rsa-securid.html&quot; target=&quot;_blank&quot;&gt;Part 1&lt;/a&gt; |
+&lt;a href=&quot;http://blogs.vmware.com/vsphere/2016/04/two-factor-authentication-for-vsphere-rsa-securid-part-2.html&quot; target=&quot;_blank&quot;&gt;Part 2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ESXi Embedded Host Client v7 released -
+&lt;a href=&quot;https://labs.vmware.com/flings/esxi-embedded-host-client#change-log&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VSAN 6.2 Upgrade – Failed to realign objects -
+&lt;a href=&quot;http://cormachogan.com/2016/03/31/vsan-6-2-upgrade-failed-realign-objects/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VSAN 6.2 Part 12 – VSAN 6.1 to 6.2 Upgrade Steps -
+&lt;a href=&quot;http://cormachogan.com/2016/04/05/vsan-6-2-part-12-vsan-6-1-6-2-upgrade-steps/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Try the new #vSphere HTML5 Web Client -
+&lt;a href=&quot;http://cloudmaniac.net/vsphere-html5-client/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Important – vCNS and NSX end of availability/support notifications -
+&lt;a href=&quot;http://anthonyspiteri.net/vcns-and-nsx-end-of-life-notifications/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Project Bonneville: Exploding the Linux Container Host -
+&lt;a href=&quot;http://www.infoq.com/presentations/bonneville&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Onyx for the Web Client - Updated for vSphere 6.0 U2 -
+&lt;a href=&quot;https://labs.vmware.com/flings/onyx-for-the-web-client&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Getting started with Photon OS and vSphere Integrated Containers -
+&lt;a href=&quot;http://cormachogan.com/2016/04/07/getting-started-photon-os-vsphere-integrated-containers/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Horizon View 7 on VSAN – Policies Revisited -
+&lt;a href=&quot;http://cormachogan.com/2016/04/06/horizon-view-7-vsan-revisited-policies/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Asciinema - Record/Share your terminal sessions, the right way -
+&lt;a href=&quot;https://asciinema.org/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Netdata - Nice monitoring/dashboard tool -
+&lt;a href=&quot;https://github.com/firehol/netdata&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Infrastructure as code: running microservices on AWS using Docker, Terraform, and ECS -
+&lt;a href=&quot;http://www.ybrikman.com/writing/2016/03/31/infrastructure-as-code-microservices-aws-docker-terraform-ecs/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Building a Style Guide with Jekyll -
+&lt;a href=&quot;https://mademistakes.com/articles/jekyll-style-guide/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How I’m Using Jekyll in 2016 -
+&lt;a href=&quot;https://mademistakes.com/articles/using-jekyll-2016/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Running CoreOS on VMware -
+&lt;a href=&quot;https://coreos.com/os/docs/latest/booting-on-vmware.html#alpha&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Installing and running a Chef client on Windows Nano Server -
+&lt;a href=&quot;http://www.hurryupandwait.io/blog/instal&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Docker for Mac vs. Docker Toolbox -
+&lt;a href=&quot;https://beta.docker.com/docs/mac/docker-toolbox/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Rancher 1.0: Complete Platform for Running Containers -
+&lt;a href=&quot;http://rancher.com/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;What if collecting data center telemetry was a snap? -
+&lt;a href=&quot;http://nickapedia.com/2015/12/02/what-if-collecting-data-center-telemetry-was-a-snap/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;My How-to for the Snap Telemetry Framework -
+&lt;a href=&quot;https://medium.com/intel-sdi/my-how-to-for-the-snap-telemetry-framework-e3bb641bc740#.uqgs9zfop&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Snap’s first GUI is Grafana! -
+&lt;a href=&quot;https://medium.com/intel-sdi/snap-first-gui-is-grafana-40bb92df2660#.7j74yryxy&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Creating a good, secure Docker base image -
+&lt;a href=&quot;http://heiber.im/post/creating-a-solid-docker-base-image/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Week 14</title>
