@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Tech Links</title>
- <link href="http://techlinks.tsugliani.fr//atom.xml" rel="self"/>
- <link href="http://techlinks.tsugliani.fr//"/>
- <updated>2016-04-08T11:26:16+02:00</updated>
- <id>http://techlinks.tsugliani.fr/</id>
+ <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
+ <link href="http://techlinks.tsugliani.fr/"/>
+ <updated>2016-04-08T11:58:02+02:00</updated>
+ <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
    <email>timo.sugliani@gmail.com</email>
@@ -13,10 +13,10 @@
 
  
  <entry>
-   <title>Week 15</title>
-   <link href="http://techlinks.tsugliani.fr//2016/04/08/Week-15/"/>
+   <title>Tech News - Week 15</title>
+   <link href="http://techlinks.tsugliani.fr/2016/Week-15/"/>
    <updated>2016-04-08T00:00:00+02:00</updated>
-   <id>http://techlinks.tsugliani.fr//2016/04/08/Week-15</id>
+   <id>http://techlinks.tsugliani.fr/2016/Week-15</id>
    <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
 
 &lt;ul&gt;
@@ -85,10 +85,10 @@
  </entry>
  
  <entry>
-   <title>Week 14</title>
-   <link href="http://techlinks.tsugliani.fr//2016/03/27/Week-14/"/>
+   <title>Tech News - Week 14</title>
+   <link href="http://techlinks.tsugliani.fr/2016/Week-14/"/>
    <updated>2016-03-27T00:00:00+01:00</updated>
-   <id>http://techlinks.tsugliani.fr//2016/03/27/Week-14</id>
+   <id>http://techlinks.tsugliani.fr/2016/Week-14</id>
    <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
 
 &lt;ul&gt;
