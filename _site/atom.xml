@@ -4,7 +4,7 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-04-08T12:17:36+02:00</updated>
+ <updated>2016-04-08T12:19:18+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
@@ -37,6 +37,8 @@
 &lt;a href=&quot;http://cloudmaniac.net/vsphere-html5-client/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Important – vCNS and NSX end of availability/support notifications -
 &lt;a href=&quot;http://anthonyspiteri.net/vcns-and-nsx-end-of-life-notifications/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Running CoreOS on VMware -
+&lt;a href=&quot;https://coreos.com/os/docs/latest/booting-on-vmware.html#alpha&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Project Bonneville: Exploding the Linux Container Host -
 &lt;a href=&quot;http://www.infoq.com/presentations/bonneville&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Onyx for the Web Client - Updated for vSphere 6.0 U2 -
@@ -66,8 +68,6 @@
 &lt;a href=&quot;https://mademistakes.com/articles/jekyll-style-guide/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;How I’m Using Jekyll in 2016 -
 &lt;a href=&quot;https://mademistakes.com/articles/using-jekyll-2016/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Running CoreOS on VMware -
-&lt;a href=&quot;https://coreos.com/os/docs/latest/booting-on-vmware.html#alpha&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Installing and running a Chef client on Windows Nano Server -
 &lt;a href=&quot;http://www.hurryupandwait.io/blog/instal&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Docker for Mac vs. Docker Toolbox -
