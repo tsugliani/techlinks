@@ -4,7 +4,7 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-04-08T12:19:18+02:00</updated>
+ <updated>2016-04-08T19:33:25+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
@@ -53,6 +53,8 @@
 &lt;a href=&quot;http://frankdenneman.nl/2016/04/08/vsphere-design-pocketbook-v3-available/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Handy VMware Tools Versions Matrix -
 &lt;a href=&quot;https://packages.vmware.com/tools/versions&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Slick way of deploying OVF/OVA directly to ESXi &amp;amp; vCenter Server using govc CLI -
+&lt;a href=&quot;https://t.co/7o0KEj7JHK&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
