@@ -4,7 +4,7 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr//atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr//"/>
- <updated>2016-04-07T21:37:45+02:00</updated>
+ <updated>2016-04-08T11:26:16+02:00</updated>
  <id>http://techlinks.tsugliani.fr/</id>
  <author>
    <name>Timo Sugliani</name>
@@ -47,6 +47,8 @@
 &lt;a href=&quot;http://cormachogan.com/2016/04/06/horizon-view-7-vsan-revisited-policies/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Clustering the VMware vRO Cluster Database using SQL Server -
 &lt;a href=&quot;http://kaloferov.com/blog/clustering-the-vro-cluster-database-using-sql-server-poc-skkb1027/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSphere Design Pocketbook v3 available -
+&lt;a href=&quot;http://frankdenneman.nl/2016/04/08/vsphere-design-pocketbook-v3-available/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
