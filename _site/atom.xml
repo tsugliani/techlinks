@@ -4,7 +4,7 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-04-11T16:09:22+02:00</updated>
+ <updated>2016-04-11T16:34:26+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
@@ -53,6 +53,8 @@
 &lt;a href=&quot;http://code.haleby.se/2016/02/12/why-we-chose-kubernetes/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Kubernetes Caveats and Workarounds -
 &lt;a href=&quot;http://code.haleby.se/2016/03/04/kubernetes-caveats-and-workarounds/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Introducing the Keybase filesystem -
+&lt;a href=&quot;https://keybase.io/docs/kbfs&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
  </entry>
