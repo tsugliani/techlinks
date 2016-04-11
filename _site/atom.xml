@@ -4,13 +4,52 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-04-08T19:33:25+02:00</updated>
+ <updated>2016-04-11T12:46:54+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
    <email>timo.sugliani@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Tech News - Week 16</title>
+   <link href="http://techlinks.tsugliani.fr/2016/Week-16/"/>
+   <updated>2016-04-15T00:00:00+02:00</updated>
+   <id>http://techlinks.tsugliani.fr/2016/Week-16</id>
+   <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;VMware Product Release Tracker (vTracker) -
+&lt;a href=&quot;http://www.virten.net/vmware/product-release-tracker/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware Virtual SAN Automated Deployments with PowerCLI -
+&lt;a href=&quot;http://www.punchingclouds.com/2016/03/24/vmware-virtual-san-automated-deployments-powercli/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware Virtual SAN Stretched Cluster Automated Deployments with PowerCLI -
+&lt;a href=&quot;http://www.punchingclouds.com/2016/04/06/vmware-virtual-san-stretched-cluster-automated-deployments-powercli/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Update sequence for vSphere 6.0 and its compatible VMware products (2109760) -
+&lt;a href=&quot;https://kb.vmware.com/kb/2109760&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Minimal docker : run your NodeJS app in &amp;lt;25mb of an image -
+&lt;a href=&quot;http://odino.org/minimal-docker-run-your-nodejs-app-in-25mb-of-an-image/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Containers and VMs Together -
+&lt;a href=&quot;https://blog.docker.com/2016/04/containers-and-vms-together/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Hitler uses Docker (funny parody) -
+&lt;a href=&quot;https://www.youtube.com/watch?v=PivpCKEiQOQ&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Some Web Design Patterns -
+&lt;a href=&quot;http://codepen.io/patterns&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Build terminal dashboards using ascii/ansi art and javascript -
+&lt;a href=&quot;https://github.com/yaronn/blessed-contrib&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Setting up a pipeline for creating Packer .box files -
+&lt;a href=&quot;https://sdorsett.github.io/2015/12/22/pipeline-for-creating-packer-box-files/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Evaluating Container Platforms at Scale -
+&lt;a href=&quot;https://medium.com/on-docker/evaluating-container-platforms-at-scale-5e7b44d93f2c#.xwy4cwbax&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Tech News - Week 15</title>
