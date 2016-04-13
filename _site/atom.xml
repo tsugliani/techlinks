@@ -4,7 +4,7 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-04-11T16:45:15+02:00</updated>
+ <updated>2016-04-13T17:40:13+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
@@ -26,8 +26,22 @@
 &lt;a href=&quot;http://www.punchingclouds.com/2016/03/24/vmware-virtual-san-automated-deployments-powercli/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;VMware Virtual SAN Stretched Cluster Automated Deployments with PowerCLI -
 &lt;a href=&quot;http://www.punchingclouds.com/2016/04/06/vmware-virtual-san-stretched-cluster-automated-deployments-powercli/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Can I still provision VMs when a VSAN Stretched Cluster site has failed? -
+&lt;a href=&quot;http://www.yellow-bricks.com/2016/04/13/can-still-provision-vms-vsan-stretched-cluster-site-failed/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How to SSH between ESXi 6.0U2 hosts without providing a password -
+&lt;a href=&quot;http://cormachogan.com/2016/04/13/ssh-esxi-hosts-without-providing-password/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Migrating from Embedded SSO to External PSC -
+&lt;a href=&quot;https://haveyoutriedreinstalling.com/2016/04/10/migrating-from-embedded-sso-to-external-psc/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Update sequence for vSphere 6.0 and its compatible VMware products (2109760) -
 &lt;a href=&quot;https://kb.vmware.com/kb/2109760&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;NSX L2 Bridging Options -
+&lt;a href=&quot;https://fojta.wordpress.com/2016/04/12/nsx-l2-bridging-options/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Adjust timeout value ESXi Embedded Host Client -
+&lt;a href=&quot;http://frankdenneman.nl/2016/04/12/adjust-timeout-value-esxi-embedded-host-client/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSphere 6.0 Update 2 – What’s New -
+&lt;a href=&quot;http://blogs.vmware.com/vsphere/2016/04/vsphere-6-0-update-2-whats-new.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Caveat when deploying Photon Controller Installer (v0.8) OVA to vCenter Server -
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/04/caveat-when-deploying-photon-controller-installer-v0-8-ova-to-vcenter-server.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
@@ -55,8 +69,12 @@
 &lt;a href=&quot;http://code.haleby.se/2016/03/04/kubernetes-caveats-and-workarounds/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Introducing the Keybase filesystem -
 &lt;a href=&quot;https://keybase.io/docs/kbfs&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;lnav: The Log File Navigator (used in VMware vcsa) -
+  &lt;li&gt;lnav: The Log File Navigator (Used in VMware vcsa) -
 &lt;a href=&quot;http://lnav.org/features/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;My Serverless Blog Posts -
+&lt;a href=&quot;https://medium.com/@PaulDJohnston/my-serverless-blog-posts-4f84ee5dced#.jevqui6jv&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;pfSense 2.3-RELEASE Now Available! -
+&lt;a href=&quot;https://blog.pfsense.org/?p=2008&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
  </entry>
