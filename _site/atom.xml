@@ -4,7 +4,7 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-04-13T17:40:13+02:00</updated>
+ <updated>2016-04-15T13:17:09+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
@@ -42,6 +42,16 @@
 &lt;a href=&quot;http://blogs.vmware.com/vsphere/2016/04/vsphere-6-0-update-2-whats-new.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Caveat when deploying Photon Controller Installer (v0.8) OVA to vCenter Server -
 &lt;a href=&quot;http://www.virtuallyghetto.com/2016/04/caveat-when-deploying-photon-controller-installer-v0-8-ova-to-vcenter-server.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Test driving VMware Photon Controller Part 1: Installation -
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/04/test-driving-vmware-photon-controller-part-1-installation.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Do I need a hardware VTEP for my NSX for vSphere? -
+&lt;a href=&quot;https://telecomoccasionally.wordpress.com/2016/04/14/do-i-need-a-hardware-vtep-for-my-nsx-for-vsphere/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Streamlining Customer On-Boarding with NSX L2 VPN Services -
+&lt;a href=&quot;http://www.vmware.com/files/pdf/vcloud-air/VMware-Customer-Onboarding-with-NSX-L2VPN-Services.pdf&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VSAN Management SDK for Perl is now published. Python, Ruby, Java, C#, and now Perl -
+&lt;a href=&quot;https://developercenter.vmware.com/sdks&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Upping my homelab game -
+&lt;a href=&quot;https://virtualhobbit.com/2016/04/13/upping-my-homelab-game/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
