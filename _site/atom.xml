@@ -4,7 +4,7 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-04-19T11:23:58+02:00</updated>
+ <updated>2016-04-19T12:52:53+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
@@ -20,9 +20,9 @@
    <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;vSphere HTML5 Web Client Fling Hidden Features
+  &lt;li&gt;vSphere HTML5 Web Client Fling Hidden Features -
 &lt;a href=&quot;http://emadyounis.com/vcenter/vsphere-html5-web-client-fling-hidden-features/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;StarWind Virtual SAN review (Part 1-7 series)
+  &lt;li&gt;StarWind Virtual SAN review (Part 1-7 series) - 
 &lt;a href=&quot;http://vmnomad.blogspot.fr/2016/04/starwind-virtual-san-on-esxi-review-part-1.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
