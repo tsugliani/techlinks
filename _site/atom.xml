@@ -4,13 +4,68 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-04-15T13:34:01+02:00</updated>
+ <updated>2016-04-19T11:23:58+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
    <email>timo.sugliani@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Tech News - Week 17</title>
+   <link href="http://techlinks.tsugliani.fr/2016/Week-17/"/>
+   <updated>2016-04-22T00:00:00+02:00</updated>
+   <id>http://techlinks.tsugliani.fr/2016/Week-17</id>
+   <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;vSphere HTML5 Web Client Fling Hidden Features
+&lt;a href=&quot;http://emadyounis.com/vcenter/vsphere-html5-web-client-fling-hidden-features/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;StarWind Virtual SAN review (Part 1-7 series)
+&lt;a href=&quot;http://vmnomad.blogspot.fr/2016/04/starwind-virtual-san-on-esxi-review-part-1.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Why aren’t we using SSH for everything? -
+&lt;a href=&quot;https://medium.com/@shazow/ssh-how-does-it-even-9e43586e4ffc#.6hqazgwgi&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How to maintain a successful open source project -
+&lt;a href=&quot;https://medium.com/code-zen/how-to-maintain-a-successful-open-source-project-aaa2a5437d3a#.uyoobaeap&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How I design JSON API responses -
+&lt;a href=&quot;https://medium.com/@shazow/how-i-design-json-api-responses-71900f00f2db#.t0zxte80j&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Linux Troubleshooting Cheatsheet: strace, htop, lsof, tcpdump, iftop &amp;amp; sysdig -
+&lt;a href=&quot;https://sysdig.com/blog/linux-troubleshooting-cheatsheet/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Building Blue-Green Deployment with Docker -
+&lt;a href=&quot;https://botleg.com/stories/blue-green-deployment-with-docker/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Raft: Understandable Distributed Consensus (Animated explanation) -
+&lt;a href=&quot;http://thesecretlivesofdata.com/raft/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The bedrock of hassle free microservices infrastructure -
+&lt;a href=&quot;http://mantl.io/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt; |
+&lt;a href=&quot;https://www.youtube.com/watch?v=FYoAQeQmvMU&quot; target=&quot;_blank&quot;&gt;Install Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Shipped: Your idea running in production in 5 minutes -
+&lt;a href=&quot;https://ciscoshipped.io/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A Charge of Bots — The Tech World As We Know It Is About To Be Rewritten -
+&lt;a href=&quot;https://medium.com/@plibin/a-charge-of-bots-9ee33bb3b868#.qpif2fcbb&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How We Monitor and Run Kafka At Scale -
+&lt;a href=&quot;http://www.confluent.io/blog/how-we-monitor-and-run-kafka-at-scale-signalfx&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Why Enterprises Want Containers Now — And Why You Should Too -
+&lt;a href=&quot;http://thenewstack.io/enterprises-want-containers-now/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How We Use Slack at Viget -
+&lt;a href=&quot;https://www.viget.com/articles/how-we-use-slack&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Is The Linux Kernel Scheduler Worse Than People Realize? -
+&lt;a href=&quot;http://www.phoronix.com/scan.php?page=news_item&amp;amp;px=Linux-Kernel-Scheduler-Bad&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;SDN with Underlay – Overlay visibility via VSAP -
+&lt;a href=&quot;https://filipv.net/2016/01/10/sdn-with-underlay-overlay-visibility-via-vsap/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Fortinet integration with Nuage Networks SDN -
+&lt;a href=&quot;https://filipv.net/2016/04/17/fortinet-integration-with-nuage-networks-sdn/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;TMUX - The Terminal Multiplexer -
+&lt;a href=&quot;http://blog.hawkhost.com/2010/06/28/tmux-the-terminal-multiplexer/&quot; target=&quot;_blank&quot;&gt;Part 1&lt;/a&gt; |
+&lt;a href=&quot;http://blog.hawkhost.com/2010/07/02/tmux-%E2%80%93-the-terminal-multiplexer-part-2/&quot; target=&quot;_blank&quot;&gt;Part 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Tech News - Week 16</title>
