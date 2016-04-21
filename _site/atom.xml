@@ -4,7 +4,7 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-04-21T12:26:18+02:00</updated>
+ <updated>2016-04-21T16:53:35+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
@@ -26,6 +26,8 @@
 &lt;a href=&quot;http://vmnomad.blogspot.fr/2016/04/starwind-virtual-san-on-esxi-review-part-1.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Test driving VMware Photon Controller Part 2: Deploying first VM -
 &lt;a href=&quot;http://www.virtuallyghetto.com/2016/04/test-driving-vmware-photon-controller-part-2-deploying-first-vm.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Test driving VMware Photon Controller Part 3a: Deploying Kubernetes -
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/04/test-driving-vmware-photon-controller-part-3a-deploying-kubernetes.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Recovering from a full VSAN datastore scenario -
 &lt;a href=&quot;http://cormachogan.com/2016/04/19/recovering-full-vsan-datastore-scenario/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;VMware Photon OS Release Candidate 1.0 available -
@@ -34,6 +36,10 @@
 &lt;a href=&quot;http://anthonyspiteri.net/critical-security-issue-client-integration-plugin-vcloud-director-5-5-6-released/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Technical Preview of the CLI for VMware vCenter Orchestrator 7.0+ -
 &lt;a href=&quot;https://communities.vmware.com/docs/DOC-31702&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Maximizing performance with the correct drivers - Intel PCIe NVMe driver -
+&lt;a href=&quot;http://frankdenneman.nl/2016/04/19/maximizing-performance-with-the-correct-drivers-intel-pcie-nvme-driver/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Managing your virtual datacenter and home lab with a MAC -
+&lt;a href=&quot;http://frankdenneman.nl/2016/04/21/managing-your-virtual-datacenter-and-home-lab-with-a-mac/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
