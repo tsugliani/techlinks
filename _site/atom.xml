@@ -4,7 +4,7 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-04-21T11:59:06+02:00</updated>
+ <updated>2016-04-21T12:26:18+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
@@ -32,6 +32,8 @@
 &lt;a href=&quot;http://vmware.github.io/photon/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;VMware vCloud Director 5.5.6 Released -
 &lt;a href=&quot;http://anthonyspiteri.net/critical-security-issue-client-integration-plugin-vcloud-director-5-5-6-released/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Technical Preview of the CLI for VMware vCenter Orchestrator 7.0+ -
+&lt;a href=&quot;https://communities.vmware.com/docs/DOC-31702&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
