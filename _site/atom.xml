@@ -4,7 +4,7 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-04-19T12:52:53+02:00</updated>
+ <updated>2016-04-21T11:59:06+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
@@ -22,8 +22,16 @@
 &lt;ul&gt;
   &lt;li&gt;vSphere HTML5 Web Client Fling Hidden Features -
 &lt;a href=&quot;http://emadyounis.com/vcenter/vsphere-html5-web-client-fling-hidden-features/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;StarWind Virtual SAN review (Part 1-7 series) - 
+  &lt;li&gt;StarWind Virtual SAN review (Part 1-7 series) -
 &lt;a href=&quot;http://vmnomad.blogspot.fr/2016/04/starwind-virtual-san-on-esxi-review-part-1.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Test driving VMware Photon Controller Part 2: Deploying first VM -
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/04/test-driving-vmware-photon-controller-part-2-deploying-first-vm.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Recovering from a full VSAN datastore scenario -
+&lt;a href=&quot;http://cormachogan.com/2016/04/19/recovering-full-vsan-datastore-scenario/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware Photon OS Release Candidate 1.0 available -
+&lt;a href=&quot;http://vmware.github.io/photon/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware vCloud Director 5.5.6 Released -
+&lt;a href=&quot;http://anthonyspiteri.net/critical-security-issue-client-integration-plugin-vcloud-director-5-5-6-released/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
@@ -63,6 +71,16 @@
   &lt;li&gt;TMUX - The Terminal Multiplexer -
 &lt;a href=&quot;http://blog.hawkhost.com/2010/06/28/tmux-the-terminal-multiplexer/&quot; target=&quot;_blank&quot;&gt;Part 1&lt;/a&gt; |
 &lt;a href=&quot;http://blog.hawkhost.com/2010/07/02/tmux-%E2%80%93-the-terminal-multiplexer-part-2/&quot; target=&quot;_blank&quot;&gt;Part 2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Mesosphere Launches new Open Source DCOS.io Platform -
+&lt;a href=&quot;https://dcos.io&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Go Version Manager tool (GVM) -
+&lt;a href=&quot;https://github.com/moovweb/gvm&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Visual Studio Code Tips and Tricks -
+&lt;a href=&quot;https://github.com/Microsoft/vscode-tips-and-tricks&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Better erasure coding for scale-out &amp;amp; cloud storage -
+&lt;a href=&quot;http://silvertonconsulting.com/blog/2016/04/20/better-erasure-coding-for-scale-out-cloud-storage/#sthash.ZGMKdwbT.dpuf&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Mirantis OpenStack 7.0 - Contrail 3.0 Fuel Plugin -
+&lt;a href=&quot;http://www.yet.org/2016/04/mos7-contrail3/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
  </entry>
