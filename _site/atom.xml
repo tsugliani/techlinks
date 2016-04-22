@@ -4,7 +4,7 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-04-21T16:53:35+02:00</updated>
+ <updated>2016-04-22T14:25:58+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
@@ -40,6 +40,8 @@
 &lt;a href=&quot;http://frankdenneman.nl/2016/04/19/maximizing-performance-with-the-correct-drivers-intel-pcie-nvme-driver/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Managing your virtual datacenter and home lab with a MAC -
 &lt;a href=&quot;http://frankdenneman.nl/2016/04/21/managing-your-virtual-datacenter-and-home-lab-with-a-mac/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Enhanced Disaster Recovery with Cross-VC NSX and SRM -
+&lt;a href=&quot;http://blogs.vmware.com/networkvirtualization/2016/04/enhanced-disaster-recovery-with-nsx-and-srm.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
