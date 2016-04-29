@@ -4,7 +4,7 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-04-29T11:53:05+02:00</updated>
+ <updated>2016-04-29T11:53:51+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
@@ -24,7 +24,7 @@
 &lt;a href=&quot;http://blogs.vmware.com/workstation/2016/04/workstation-12-1-1-available-now.html&quot; target=&quot;_blank&quot;&gt;Win&lt;/a&gt; |
 &lt;a href=&quot;http://blogs.vmware.com/teamfusion/2016/04/fusion-8-1-1-available-now.html&quot; target=&quot;_blank&quot;&gt;Mac&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;VMware vRealize Operations Manager 6.2.1 -
-&lt;a href=&quot;http://pubs.vmware.com/Release_Notes/en/vrops/62/vrops-621-release-notes.html&quot; target=&quot;_blank&quot;&gt;Changelog&lt;/a&gt;
+&lt;a href=&quot;http://pubs.vmware.com/Release_Notes/en/vrops/62/vrops-621-release-notes.html&quot; target=&quot;_blank&quot;&gt;Changelog&lt;/a&gt; | 
 &lt;a href=&quot;https://my.vmware.com/group/vmware/get-download?downloadGroup=VROPS-621&quot; target=&quot;_blank&quot;&gt;Download&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;vSphere HTML5 Web Client 1.3 -
 &lt;a href=&quot;https://labs.vmware.com/flings/vsphere-html5-web-client#changelog&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
