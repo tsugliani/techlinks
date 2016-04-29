@@ -4,13 +4,94 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-04-22T14:25:58+02:00</updated>
+ <updated>2016-04-29T11:35:33+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
    <email>timo.sugliani@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Tech News - Week 18</title>
+   <link href="http://techlinks.tsugliani.fr/2016/Week-18/"/>
+   <updated>2016-04-29T00:00:00+02:00</updated>
+   <id>http://techlinks.tsugliani.fr/2016/Week-18</id>
+   <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;VMware Workstation 12.1.1 &amp;amp; Fusion 8.1.1 (Fixes portforwarding/NAT #Vagrant) -
+&lt;a href=&quot;http://blogs.vmware.com/workstation/2016/04/workstation-12-1-1-available-now.html&quot; target=&quot;_blank&quot;&gt;Win&lt;/a&gt; |
+&lt;a href=&quot;http://blogs.vmware.com/teamfusion/2016/04/fusion-8-1-1-available-now.html&quot; target=&quot;_blank&quot;&gt;Mac&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSphere HTML5 Web Client 1.3 -
+&lt;a href=&quot;https://labs.vmware.com/flings/vsphere-html5-web-client#changelog&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Managing VIO(VMware Integrated OpenStack) with viocli -
+&lt;a href=&quot;http://blog.jreypo.io/openstack/vmware/managing-vio-with-viocli/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Attention IT Recruiters – VCDX | VCIX | VCAP | VCP – Letters That Add Value! -
+&lt;a href=&quot;http://anthonyspiteri.net/attention-it-recruiters-vcdx-vcix-vcap-and-vcp-letters-that-add-value/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Test driving VMware Photon Controller Part 3b: Deploying Mesos -
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/04/test-driving-vmware-photon-controller-part-3b-deploying-mesos.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Test driving VMware Photon Controller Part 3c: Deploying Docker Swarm -
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/04/test-driving-vmware-photon-controller-part-3c-deploying-docker-swarm.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Override the default CPU/Memory when deploying Photon Controller Management VM? -
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/04/how-to-override-the-default-cpumemory-when-deploying-photon-controller-management-vm.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ESXi Version Information now available as JSON (incl. Script example) -
+&lt;a href=&quot;http://www.virten.net/2016/04/esxi-version-information-now-available-as-json-incl-script-example&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Certification of Dell PERC H730 and FD332-PERC Controllers with VSAN 6.x (2144614) -
+&lt;a href=&quot;https://kb.vmware.com/kb/2144614&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Automating Security Group and Policy Creation with NSX REST API -
+&lt;a href=&quot;http://blogs.vmware.com/networkvirtualization/2016/04/nsx-automating-security-group.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware Virtual SAN 6.2 Network Design Guide -
+&lt;a href=&quot;http://www.vmware.com/files/pdf/products/vsan/VMware-Virtual-SAN-Network-Design-Guide.pdf&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Expanding on VSAN 2-node, 3-node and 4-node configuration considerations -
+&lt;a href=&quot;http://cormachogan.com/2016/04/28/expanding-vsan-2-node-3-node-4-node-configuration-considerations/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How HA handles a VSAN Stretched Cluster Site Partition -
+&lt;a href=&quot;http://www.yellow-bricks.com/2016/04/25/17233/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Why accurate IO block size frequency and workload distribution metrics are so valuable -
+&lt;a href=&quot;http://frankdenneman.nl/2016/04/26/why-accurate-io-block-size-frequency-and-workload-distribution-metrics-are-so-valuable/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Vagrant, Jekyll and Github Pages for streamlined content creation -
+&lt;a href=&quot;http://kappataumu.com/articles/vagrant-jekyll-github-pages-streamlined-content-creation.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Continuous Deployment with Containers -
+&lt;a href=&quot;http://www.infoq.com/articles/continuous-deployment-containers&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Understanding and Hardening Linux Containers -
+&lt;a href=&quot;https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2016/april/understanding-and-hardening-linux-containers/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Introducing DGit - 
+&lt;a href=&quot;http://githubengineering.com/introducing-dgit/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Scalable CI/CD with Jenkins and Nomad -
+&lt;a href=&quot;http://www.ivoverberk.nl/scalable-ci-cd-with-nomad-and-jenkins/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Is Hedvig the solution to all our (storage) problems? -
+&lt;a href=&quot;http://www.kamshin.com/2016/04/is-hedvig-the-solution-to-all-our-storage-problems/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How to live inside a docker container? -
+&lt;a href=&quot;https://scene-si.org/2016/04/01/how-to-live-inside-a-docker-container/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Running Docker behind a proxy -
+&lt;a href=&quot;https://crondev.com/running-docker-behind-proxy/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Docker for Windows Beta Slides from Stefan Scherer -
+&lt;a href=&quot;http://stefanscherer.github.io/talks/20160428_DockerMeetupBamberg_DockerForWindowsBeta&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Docker on Windows Server 2016 Technical Preview 5 -
+&lt;a href=&quot;https://blog.docker.com/2016/04/docker-windows-server-tp5/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;First impressions of Docker on Windows 2016 TP5 -
+&lt;a href=&quot;https://stefanscherer.github.io/first-impressions-of-windows-2016-tp5/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Joyent TRITON - Elastic Container Infrastructure -
+&lt;a href=&quot;https://www.joyent.com/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Making DSC beautiful -
+&lt;a href=&quot;https://flynnbundy.com/2016/04/06/making-dsc-beautiful/&quot; target=&quot;_blank&quot;&gt;Part 1&lt;/a&gt; |
+&lt;a href=&quot;https://flynnbundy.com/2016/04/11/making-dsc-beautiful-part-2/&quot; target=&quot;_blank&quot;&gt;Part 2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Windows Server Containers with DSC and Git -
+&lt;a href=&quot;https://flynnbundy.com/2016/04/17/windows-server-containers-with-dsc-and-git/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Lessons learned from a year of using live migration in production on Google Cloud -
+&lt;a href=&quot;https://cloudplatform.googleblog.com/2016/04/lessons-learned-from-a-year-of-using-live-migration-in-production-on-Google-Cloud.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Kubernetes on an Intel NUC -
+&lt;a href=&quot;http://therandomsecurityguy.com/kubernetes-intel-nuc/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Official Hashicorp Consul Docker Image -
+&lt;a href=&quot;https://hub.docker.com/r/_/consul/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Tech News - Week 17</title>
