@@ -4,13 +4,68 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-04-29T11:53:51+02:00</updated>
+ <updated>2016-05-07T02:31:24+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
    <email>timo.sugliani@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Tech News - Week 19</title>
+   <link href="http://techlinks.tsugliani.fr/2016/Week-19/"/>
+   <updated>2016-05-06T00:00:00+02:00</updated>
+   <id>http://techlinks.tsugliani.fr/2016/Week-19</id>
+   <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Universal PowerCLI Loader -
+&lt;a href=&quot;http://www.lucd.info/2016/05/05/universal-powercli-loader/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Load Balancing vSphere Clusters with DRS -
+&lt;a href=&quot;http://blogs.vmware.com/vsphere/2016/05/load-balancing-vsphere-clusters-with-drs.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Query IP address (and other info) of Virtual Machine -
+&lt;a href=&quot;http://networkinferno.net/query-ip-address-and-other-info-of-virtual-machine&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;PowerCLI Script for Executing plink.exe Against ESXi Hosts -
+&lt;a href=&quot;https://virtuallyunderstood.com/2016/04/30/powercli-script-for-executing-plink-exe-against-esxi-hosts/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSphere HTML5 Web Client 1.4 (New features) -
+&lt;a href=&quot;https://labs.vmware.com/flings/vsphere-html5-web-client#changelog&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMFork using the Managed Object Browser (MOB) -
+&lt;a href=&quot;https://www.higebu.com/2016-04-27-vmfork-using-mob-en.html#.VytXzRV974N&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Photon Controller – Image Issues – 413 Request Entity Too Large -
+&lt;a href=&quot;http://cormachogan.com/2016/05/04/photon-controller-image-issues-413-request-entity-large/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Using PowerShell with the VMware Log Insight REST API -
+&lt;a href=&quot;http://www.codyhosterman.com/2016/05/using-powershell-with-the-vmware-log-insight-rest-api/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Docker Cheat Sheet -
+&lt;a href=&quot;https://github.com/therandomsecurityguy/docker-cheat-sheet&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Slack bot token leakage exposing business critical information -
+&lt;a href=&quot;https://labs.detectify.com/2016/04/28/slack-bot-token-leakage-exposing-business-critical-information/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Surprises from 4 years of SSD experience at Google -
+&lt;a href=&quot;http://silvertonconsulting.com/blog/2016/04/28/surprises-from-4-years-of-ssd-experience-at-google/#sthash.9mQAcqc6.zxZGnz2B.dpbs&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;RDP Replay -
+&lt;a href=&quot;http://www.contextis.com/resources/blog/rdp-replay/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Go best practices, six years in -
+&lt;a href=&quot;https://peter.bourgon.org/go-best-practices-2016/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Setup a local Windows 2016 TP5 Docker VM -
+&lt;a href=&quot;https://stefanscherer.github.io/setup-local-windows-2016-tp5-docker-vm/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Yet Another Padding Oracle in OpenSSL CBC Ciphersuites -
+&lt;a href=&quot;https://blog.cloudflare.com/yet-another-padding-oracle-in-openssl-cbc-ciphersuites/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;uvloop: Blazing fast Python networking -
+&lt;a href=&quot;http://magic.io/blog/uvloop-make-python-networking-great-again/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Official Consul Docker Image announcement -
+&lt;a href=&quot;https://www.hashicorp.com/blog/official-consul-docker-image.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Is Go an Object Oriented language? -
+&lt;a href=&quot;http://spf13.com/post/is-go-object-oriented/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Mac OS X application installation automation -
+&lt;a href=&quot;http://www.vreference.com/2016/05/05/mac-os-x-application-installation-automation/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Tech News - Week 18</title>
