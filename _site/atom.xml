@@ -4,13 +4,97 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-05-07T02:44:16+02:00</updated>
+ <updated>2016-05-13T16:07:40+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
    <email>timo.sugliani@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Tech News - Week 20</title>
+   <link href="http://techlinks.tsugliani.fr/2016/Week-20/"/>
+   <updated>2016-05-13T00:00:00+02:00</updated>
+   <id>http://techlinks.tsugliani.fr/2016/Week-20</id>
+   <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;vSphere HTML5 Web Client 1.5 -
+&lt;a href=&quot;https://labs.vmware.com/flings/vsphere-html5-web-client#changelog&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Home Automation with vRealize Orchestrator and Wink -
+&lt;a href=&quot;http://dailyhypervisor.com/home-automation-with-vrealize-orchestrator-and-wink/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Working with Recommendations and Statistics in vR OPs with PowerCLI -
+&lt;a href=&quot;http://blogs.vmware.com/PowerCLI/2016/05/working-recommendations-statistics-vr-ops-powercli.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Moving VMs is not solving your SDDC Management Problems! -
+&lt;a href=&quot;http://blogs.vmware.com/management/2016/05/moving-vms-is-not-solving-your-sddc-management-problems.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Send NSX Edge Gateway Statistics to Graphite -
+&lt;a href=&quot;http://www.virten.net/2016/05/send-nsx-edge-gateway-statistics-to-graphite/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Resetting the Photon Controller Deployer configuration -
+&lt;a href=&quot;http://cormachogan.com/2016/05/11/resetting-photon-controller-deployer/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Selecting a particular portgroup for frameworks on Photon Controller -
+&lt;a href=&quot;http://cormachogan.com/2016/05/12/selecting-particular-portgroup-frameworks-photon-controller/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Monitor EMC Avamar with vRealize Operations Manager -
+&lt;a href=&quot;https://stevehegarty.wordpress.com/2016/05/12/monitor-emc-avamar-with-vrealize-operations-manager/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;PowerNSX Log Insight Segmenter -
+&lt;a href=&quot;http://networkinferno.net/powernsx-log-insight-segmenter&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Noisy Neighbor Analysis -
+&lt;a href=&quot;http://frankdenneman.nl/2016/05/13/noisy-neighbor-analysis/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;SSH for Fun and Profit -
+&lt;a href=&quot;https://karla.io/2016/04/30/ssh-for-fun-and-profit.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Anatomy of a Modern Production Stack -
+&lt;a href=&quot;https://www.eightypercent.net/post/layers-in-the-stack.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Real World Microservices: When Services Stop Playing Well and Start Getting Real -
+&lt;a href=&quot;https://blog.buoyant.io/2016/05/04/real-world-microservices-when-services-stop-playing-well-and-start-getting-real/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Amazing Go learning Website - Going Go Programming -
+&lt;a href=&quot;https://www.goinggo.net/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Pragmatic Debian packaging -
+&lt;a href=&quot;http://vincent.bernat.im/en/blog/2016-pragmatic-debian-packaging.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;They Write the Right Stuff -
+&lt;a href=&quot;http://www.fastcompany.com/28121/they-write-right-stuff&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Identifying and Paying Off Technical Debt -
+&lt;a href=&quot;http://wahlnetwork.com/2016/05/09/identifying-paying-off-technical-debt/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Docker as a Personal Application Runner -
+&lt;a href=&quot;https://blog.ouseful.info/2016/05/09/docker-as-a-personal-application-runner/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;High availability with ExaBGP -
+&lt;a href=&quot;http://vincent.bernat.im/en/blog/2013-exabgp-highavailability.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Death of TRILL -
+&lt;a href=&quot;https://networkingnerd.net/2016/05/11/the-death-of-trill/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Git from the inside out -
+&lt;a href=&quot;https://codewords.recurse.com/issues/two/git-from-the-inside-out&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Introducing HTTP Testing in ToDD  -
+&lt;a href=&quot;https://keepingitclassless.net/2016/05/http-testing-todd/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Visual Studio Code 1.1 Released -
+&lt;a href=&quot;https://code.visualstudio.com/Updates&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;PowerShell Language Support for Visual Studio Code 0.6 Released -
+&lt;a href=&quot;https://github.com/PowerShell/vscode-powershell/blob/master/CHANGELOG.md#060&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Sublime Text 3 Build 3114 Released -
+&lt;a href=&quot;https://www.sublimetext.com/3&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;What Are The Problems with Broadcom Tomahawk? We Don’t Know -
+&lt;a href=&quot;http://blog.ipspace.net/2016/05/what-are-problems-with-broadcom.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;GitKraken 1.3 Released -
+&lt;a href=&quot;https://www.gitkraken.com/features&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt; |
+&lt;a href=&quot;https://www.gitkraken.com/release-notes&quot; target=&quot;_blank&quot;&gt;Changelog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;GitHub - Introducing unlimited private repositories -
+&lt;a href=&quot;https://github.com/blog/2164-introducing-unlimited-private-repositories&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;gitsome: A supercharged Git/shell autocompleter with GitHub integration -
+&lt;a href=&quot;https://github.com/donnemartin/gitsome&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;My Standing Desk is One of My Secret Weapons -
+&lt;a href=&quot;https://woorkup.com/standing-desk/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Faster Docker initialization through Slacker snapshots &amp;amp; NFS storage -
+&lt;a href=&quot;http://silvertonconsulting.com/blog/2016/05/06/faster-docker-initialization-through-slacker-snapshots-nfs-storage/#sthash.qZ7f6Tsz.C0TMEFim.dpuf&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Whither Kubernetes? -
+&lt;a href=&quot;https://medium.com/@cloud_opinion/whither-kubernetes-d71c436ec0ca#.ilcfedeli&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Electron 1.0 is here -
+&lt;a href=&quot;https://github.com/blog/2167-electron-1-0-is-here&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Tech News - Week 19</title>
