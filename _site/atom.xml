@@ -4,7 +4,7 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-05-13T16:07:40+02:00</updated>
+ <updated>2016-05-13T17:03:01+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
@@ -22,10 +22,14 @@
 &lt;ul&gt;
   &lt;li&gt;vSphere HTML5 Web Client 1.5 -
 &lt;a href=&quot;https://labs.vmware.com/flings/vsphere-html5-web-client#changelog&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ESXi Embedded Host Client v8 Released -
+&lt;a href=&quot;https://labs.vmware.com/flings/esxi-embedded-host-client#changelog&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Home Automation with vRealize Orchestrator and Wink -
 &lt;a href=&quot;http://dailyhypervisor.com/home-automation-with-vrealize-orchestrator-and-wink/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Working with Recommendations and Statistics in vR OPs with PowerCLI -
 &lt;a href=&quot;http://blogs.vmware.com/PowerCLI/2016/05/working-recommendations-statistics-vr-ops-powercli.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Generating vCenter Server &amp;amp; Platform Services Controller deployment topology diagrams -
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/05/generating-vcenter-server-platform-services-controller-deployment-topology-diagrams.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Moving VMs is not solving your SDDC Management Problems! -
 &lt;a href=&quot;http://blogs.vmware.com/management/2016/05/moving-vms-is-not-solving-your-sddc-management-problems.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Send NSX Edge Gateway Statistics to Graphite -
@@ -92,6 +96,14 @@
 &lt;a href=&quot;https://medium.com/@cloud_opinion/whither-kubernetes-d71c436ec0ca#.ilcfedeli&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Electron 1.0 is here -
 &lt;a href=&quot;https://github.com/blog/2167-electron-1-0-is-here&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;HogWatch: find out what’s hogging your internet connection -
+&lt;a href=&quot;https://github.com/akshayKMR/hogwatch&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Can We Build Agile Infrastructure with the Overlay/Underlay Model? -
+&lt;a href=&quot;http://blog.cimicorp.com/?p=2629&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;autovpn: Script to create an OpenVPN Endpoint on AWS -
+&lt;a href=&quot;https://github.com/ttlequals0/autovpn&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ideal HTTP Performance -
+&lt;a href=&quot;https://www.mnot.net/blog/2016/04/22/ideal-http&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
  </entry>
