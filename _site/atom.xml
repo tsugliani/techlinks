@@ -4,13 +4,114 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-05-13T17:03:01+02:00</updated>
+ <updated>2016-05-20T16:31:10+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
    <email>timo.sugliani@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Tech News - Week 21</title>
+   <link href="http://techlinks.tsugliani.fr/2016/Week-21/"/>
+   <updated>2016-05-20T00:00:00+02:00</updated>
+   <id>http://techlinks.tsugliani.fr/2016/Week-21</id>
+   <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;vSphere HTML5 Web Client 1.6 -
+&lt;a href=&quot;https://labs.vmware.com/flings/vsphere-html5-web-client#changelog&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Some changes to deploying VIC – vSphere Integrated Containers -
+&lt;a href=&quot;http://cormachogan.com/2016/05/20/changes-deploying-vic-vsphere-integrated-containers/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;C# Client is officially dead… -
+&lt;a href=&quot;http://www.yellow-bricks.com/2016/05/19/c-client-officially-dead/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Partition / Isolation and VM flip flopping between hosts? -
+&lt;a href=&quot;http://www.yellow-bricks.com/2016/05/16/partition-isolation-vm-flip-flopping-hosts/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Send dvSwitch Port Statistics to Graphite -
+&lt;a href=&quot;http://www.virten.net/2016/05/send-dvswitch-port-statistics-to-graphite/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Want a USB Ethernet driver for ESXi? You can have two -
+&lt;a href=&quot;http://www.devtty.uk/homelab/Want-a-USB-Ethernet-driver-for-ESXi-You-can-have-two/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Photon Controller – Deployment and Troubleshooting Tips -
+&lt;a href=&quot;http://cormachogan.com/2016/05/17/photon-controller-deployment-troubleshooting-tips/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;600GB write buffer limit for VSAN? -
+&lt;a href=&quot;http://www.yellow-bricks.com/2016/05/17/600gb-write-buffer-limit-vsan/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Visual Studio Code and PowerCLI (Updated) -
+&lt;a href=&quot;http://www.lucd.info/2016/04/23/visual-studio-code-powercli/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;New VMware vROps Management Pack for vCloud Director v4.0 -
+&lt;a href=&quot;https://solutionexchange.vmware.com/store/products/management-pack-for-vcloud-director&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt; |
+&lt;a href=&quot;https://c368768.ssl.cf1.rackcdn.com/product_files/27147/original/MP_For_vCD_4_0_Guide342ac31a0b7b4feaf28336b2e32ea2ae.pdf&quot; target=&quot;_blank&quot;&gt;User Guide&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Gaining insight into SQL Server Maintenance Plan workload characteristics -
+&lt;a href=&quot;http://frankdenneman.nl/2016/05/18/gaining-insight-into-sql-server-maintenance-plan-workload-characteristics/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Understanding Virtual SAN on-disk formating versions (2145267) -
+&lt;a href=&quot;https://kb.vmware.com/kb/2145267&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Getting Comfortable with vPostgres and the vCenter Server Appliance -
+&lt;a href=&quot;http://blogs.vmware.com/vsphere/2016/03/getting-comfortable-with-vpostgres-and-the-vcenter-server-appliance-part-1.html&quot; target=&quot;_blank&quot;&gt;Part 1&lt;/a&gt; |
+&lt;a href=&quot;http://blogs.vmware.com/vsphere/2016/05/getting-comfortable-with-vpostgres-and-the-vcenter-server-appliance-part-2.html&quot; target=&quot;_blank&quot;&gt;Part 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Solarize your Home Lab, and your Home -
+&lt;a href=&quot;https://vmpete.com/2016/05/15/solarize-your-home-lab-and-your-home/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Monitoring power consumption of your home lab with a smart plug -
+&lt;a href=&quot;http://frankdenneman.nl/2016/05/19/monitoring-power-consumption-of-your-home-lab-with-a-smart-plug/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Intelligent Vagrant and Ansible files -
+&lt;a href=&quot;https://www.simonholywell.com/post/2016/02/intelligent-vagrant-and-ansible-files/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Skull Canyon NUC is Here! -
+&lt;a href=&quot;http://nucblog.net/2016/05/skull-canyon-nuc-is-here-nuc6i7kyk/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Intel Releases BIOS Version 0044 for Skylake NUCs (NVMe SSD Fix) -
+&lt;a href=&quot;http://www.anandtech.com/show/10327/intel-releases-bios-version-0044-for-skylake-nucs&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How to write good README and why should you care -
+&lt;a href=&quot;http://thejunkland.com/blog/how-to-write-good-readme.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;GitLab -
+&lt;a href=&quot;https://about.gitlab.com/features/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Bank Job -
+&lt;a href=&quot;https://boris.in/blog/2016/the-bank-job/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Docker ❤ Parse -
+&lt;a href=&quot;https://medium.com/@katopz/docker-parse-782d27761e24#.9cfhmbdih&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Microsoft releases “convenience rollup” update for Windows 7 and Windows Server 2008 R2 -
+&lt;a href=&quot;http://www.neowin.net/news/microsoft-releases-convenience-rollup-update-for-windows-7-and-windows-server-2008-r2&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;SexiGraf update: 0.99c codename “Citadel” -
+&lt;a href=&quot;http://www.sexigraf.fr/you-are-now-using-version-0-99c-citadel/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;HTTP Prompt (HTTPie based) -
+&lt;a href=&quot;https://github.com/eliangcs/http-prompt#http-prompt&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt; |
+&lt;a href=&quot;https://asciinema.org/a/46131&quot; target=&quot;_blank&quot;&gt;Demo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vprof: Visual Python profiler -
+&lt;a href=&quot;https://github.com/nvdv/vprof#vprof&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Running Go executables (Consul, Telegraf, …) as windows services -
+&lt;a href=&quot;https://www.ricardclau.com/2016/03/running-go-executables-consul-telegraf-as-windows-services/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Road to NoOps: Serverless Computing is Quickly Gaining Momentum -
+&lt;a href=&quot;http://thenewstack.io/serverless-computing-growing-quickly/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Træfɪk: Free modern HTTP reverse proxy and load balancer with REST API -
+&lt;a href=&quot;https://traefik.io/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Helm: The package manager for Kubernetes -
+&lt;a href=&quot;https://helm.sh/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;apk-file (Alpine Linux) -
+&lt;a href=&quot;https://github.com/jfrazelle/apk-file#apk-file&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Building Microservices with Docker and the Rails API gem -
+&lt;a href=&quot;https://medium.com/connect-the-dots/building-microservices-with-docker-and-the-rails-api-gem-2a463862f5d#.zd7jkvxi8&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;It’s Fine. Don’t Fight It. Six Steps to Programmer’s Zen -
+&lt;a href=&quot;http://blog.lunarlogic.io/2016/six-steps-to-programmers-zen/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;TensorFlow / TensorBoard: Graph Visualization -
+&lt;a href=&quot;https://www.tensorflow.org/versions/r0.8/how_tos/graph_viz/index.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;sysdig: Universal System Visibility With Native Container Support -
+&lt;a href=&quot;http://www.sysdig.org/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt; |
+&lt;a href=&quot;https://www.youtube.com/watch?v=UJ4wVrbP-Q8&quot; target=&quot;_blank&quot;&gt;Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Best Sublime Text 3 Themes of 2015 and 2016 -
+&lt;a href=&quot;https://scotch.io/bar-talk/best-sublime-text-3-themes-of-2015-and-2016&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Best of Atom: Features, Plugins, Acting Like Sublime Text -
+&lt;a href=&quot;https://scotch.io/bar-talk/best-of-atom-features-plugins-acting-like-sublime-text&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Speed up your RESTful API development in Node.js with Swagger -
+&lt;a href=&quot;https://scotch.io/tutorials/speed-up-your-restful-api-development-in-node-js-with-swagger&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Shrink your Go Binaries with this one weird trick -
+&lt;a href=&quot;https://blog.filippo.io/shrink-your-go-binaries-with-this-one-weird-trick/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Technology Short Take #66 -
+&lt;a href=&quot;http://blog.scottlowe.org/2016/05/13/technology-short-take-66/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Tech News - Week 20</title>
