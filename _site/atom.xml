@@ -4,13 +4,107 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-05-20T16:31:10+02:00</updated>
+ <updated>2016-05-27T15:35:10+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
    <email>timo.sugliani@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Tech News - Week 22</title>
+   <link href="http://techlinks.tsugliani.fr/2016/Week-22/"/>
+   <updated>2016-05-27T00:00:00+02:00</updated>
+   <id>http://techlinks.tsugliani.fr/2016/Week-22</id>
+   <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;vCloud Director SP 8.10 released with full NSX Support and UI Additions ! -
+&lt;a href=&quot;http://anthonyspiteri.net/released-vcloud-director-sp-8-10-ui-additions/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vCloud Director: Share Console Proxy IP with UI/API IP Address -
+&lt;a href=&quot;https://fojta.wordpress.com/2016/05/27/vcloud-director-share-console-proxy-ip-with-uiapi-ip-address/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSphere HTML5 Web Client 1.7 -
+&lt;a href=&quot;https://labs.vmware.com/flings/vsphere-html5-web-client#changelog&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Performance Issues Due To Virtual SCSI Device Queue Depths -
+&lt;a href=&quot;http://longwhiteclouds.com/2016/05/24/performance-issues-due-to-virtual-scsi-device-queue-depths/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How to fix “SRA command discoverArrays failed” in SRM with RecoverPoint -
+&lt;a href=&quot;https://miketabor.com/fix-sra-command-discoverarrays-failed-srm-recoverpoint/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Docker SWARM on Photon Controller -
+&lt;a href=&quot;http://cormachogan.com/2016/05/26/docker-swarm-photon-controller/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Configuring the vMotion TCP/IP Stack for Layer 3 vMotion Across ESXi Hosts -
+&lt;a href=&quot;http://wahlnetwork.com/2016/05/26/vmotion-tcpip-stack-layer-3-vmotion/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vCloud Director PowerCLI to Visio Diagram script -
+&lt;a href=&quot;https://github.com/skyscape-cloud-services/skyscape-powershell-vcloud-to-visio&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VSAN and Log Insight custom alerting example -
+&lt;a href=&quot;http://anthonyspiteri.net/vsan-log-insight-custom-alerting-example/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSphere Platform Services Controller (PSC) Topology and Omnigraffle -
+&lt;a href=&quot;http://vninja.net/virtualization/vsphere-platform-services-controller-psc-topology-and-omnigraffle/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ESXi Installation on NUC6i7KYK fails with “Fatal error: 10 (Out of resources)” -
+&lt;a href=&quot;http://www.virten.net/2016/05/esxi-installation-on-nuc6i7kyk-fails-with-fatal-error-10-out-of-resources/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Intel NUC Skull Canyon (NUC6I7KYK) and ESXi 6.0 -
+&lt;a href=&quot;http://www.bussink.ch/?p=1729&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ESXi on the new Intel NUC Skull Canyon (Updated) -
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/05/heads-up-esxi-not-working-on-the-new-intel-nuc-skull-canyon.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Automating Cross vCenter vMotion (xVC-vMotion) between the same &amp;amp; different SSO Domain -
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/05/automating-cross-vcenter-vmotion-xvc-vmotion-between-the-same-different-sso-domain.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Customizing the ESXi DCUI to show number of VMs -
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/05/customizing-the-esxi-dcui-to-show-number-of-vms.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Disabled vCenter Server Continues to Accept vCloud Director Operations (2145610) -
+&lt;a href=&quot;https://kb.vmware.com/kb/2145610&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;No network connection after re-registering VCSA using the I’ve copied it answer -
+&lt;a href=&quot;http://frankdenneman.nl/2016/05/24/no-network-connection-after-re-registering-vcsa-using-the-ive-copied-it-answer/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Developers, Learn To Say No.
+&lt;a href=&quot;https://medium.com/@akosma/developers-learn-to-say-no-777fe571b38d#.pjnvpi12d&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Building Fast &amp;amp; Resilient Web Applications -
+&lt;a href=&quot;https://www.igvita.com/2016/05/20/building-fast-and-resilient-web-applications/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;An Oral History of Our Week Without Slack -
+&lt;a href=&quot;http://motherboard.vice.com/read/an-oral-history-of-our-week-without-slack&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;What is Falcor? -
+&lt;a href=&quot;https://netflix.github.io/falcor/starter/what-is-falcor.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;GitLab Container Registry -
+&lt;a href=&quot;https://about.gitlab.com/2016/05/23/gitlab-container-registry/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Setting up an OpenStack Cloud using Ansible -
+&lt;a href=&quot;https://www.reversengineered.com/2016/05/09/setting-up-an-openstack-cloud-using-ansible/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Building An Open Source Process Historian -
+&lt;a href=&quot;http://coussej.github.io/2016/04/18/Building-An-Open-Source-Process-Historian/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Bash: Quotes and escaping -
+&lt;a href=&quot;http://wiki.bash-hackers.org/syntax/quoting&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Making of HypriotOS -
+&lt;a href=&quot;http://blog.hypriot.com/post/making-of-hypriotos/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How do I get to the next level -
+&lt;a href=&quot;http://www.yellow-bricks.com/2015/02/24/how-do-i-get-to-the-next-level/&quot; target=&quot;_blank&quot;&gt;Part 1&lt;/a&gt; |
+&lt;a href=&quot;http://www.yellow-bricks.com/2016/05/26/get-next-level-part-2/&quot; target=&quot;_blank&quot;&gt;Part 2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;atocker: Atom 1.7 Editor with go-tools bundled in Docker -
+&lt;a href=&quot;https://github.com/ulrichSchreiner/atocker&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Stylelint: The Style Sheet Linter We’ve Always Wanted -
+&lt;a href=&quot;https://www.smashingmagazine.com/2016/05/stylelint-the-style-sheet-linter-weve-always-wanted/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Seagull: friendly Web UI to manage and monitor docker with full features -
+&lt;a href=&quot;https://github.com/tobegit3hub/seagull#seagull----&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Provision a Cluster on Google Cloud with Terraform -
+&lt;a href=&quot;https://lincolnloop.com/blog/provision-cluster-google-cloud-terraform/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;6 Ways Ansible makes docker-compose better -
+&lt;a href=&quot;https://www.ansible.com/blog/six-ways-ansible-makes-docker-compose-better&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Optimizing Multi Data Center Deployments Using Docker Registry -
+&lt;a href=&quot;http://www.infobip.com/en/engineering/optimizing-multi-data-center-deployments-using-docker-registry&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;AWS CLI in a Docker Container -
+&lt;a href=&quot;https://blog.flowlog-stats.com/2016/05/03/aws-cli-in-a-docker-container/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Introducing Ansible 2.1: Networking, Windows, Azure, and Containers -
+&lt;a href=&quot;https://www.ansible.com/blog/ansible-2.1&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Chocolatey: The package manager for Windows -
+&lt;a href=&quot;https://chocolatey.org/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;PowerCLITools Community Module -
+&lt;a href=&quot;https://github.com/jonathanmedd/PowerCLITools&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Powershell snippet to help extract the SSL Thumbprint (SHA1) of a remote system -
+&lt;a href=&quot;https://gist.github.com/lamw/988e4599c0f88d9fc25c9f2af8b72c92&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Tech News - Week 21</title>
