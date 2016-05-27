@@ -4,7 +4,7 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-05-27T15:35:10+02:00</updated>
+ <updated>2016-05-27T17:47:12+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
@@ -24,6 +24,8 @@
 &lt;a href=&quot;http://anthonyspiteri.net/released-vcloud-director-sp-8-10-ui-additions/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;vCloud Director: Share Console Proxy IP with UI/API IP Address -
 &lt;a href=&quot;https://fojta.wordpress.com/2016/05/27/vcloud-director-share-console-proxy-ip-with-uiapi-ip-address/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Import Running VM to vCloud Director -
+&lt;a href=&quot;https://fojta.wordpress.com/2016/05/27/import-running-vm-to-vcloud-director/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;vSphere HTML5 Web Client 1.7 -
 &lt;a href=&quot;https://labs.vmware.com/flings/vsphere-html5-web-client#changelog&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Performance Issues Due To Virtual SCSI Device Queue Depths -
