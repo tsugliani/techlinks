@@ -4,7 +4,7 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-06-03T15:27:02+02:00</updated>
+ <updated>2016-06-03T15:48:53+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
@@ -50,7 +50,7 @@
 &lt;a href=&quot;http://cormachogan.com/2016/05/30/mesos-photon-controller/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Docker Volume Driver for vSphere -
 &lt;a href=&quot;http://cormachogan.com/2016/06/01/docker-volume-driver-vsphere/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt; |
-&lt;a href=&quot;https://youtu.be/nLjAF0OjJ1M&quot; target=&quot;_blank&quot;&gt;Video&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&quot;https://youtu.be/jVrq_HV46LE&quot; target=&quot;_blank&quot;&gt;Video&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Home Lab fundamentals: Time Sync -
 &lt;a href=&quot;http://frankdenneman.nl/2016/06/03/home-lab-fundamentals-time-sync/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;PyNSXv is a high level python based library and CLI tool to control NSX for vSphere -
