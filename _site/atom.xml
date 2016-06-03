@@ -4,7 +4,7 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-06-03T14:10:57+02:00</updated>
+ <updated>2016-06-03T15:27:02+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
@@ -57,6 +57,8 @@
 &lt;a href=&quot;https://github.com/vmware/pynsxv&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;WARNING - Microsoft Convenience Update and VMware VMXNET 3 Incompatibilities -
 &lt;a href=&quot;http://blogs.vmware.com/apps/2016/06/rush-post-microsoft-convenience-update-and-vmware-vmxnet3-incompatibilities.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Heads Up: OVF/OVA always deployed as Thick on VSAN when using vSphere Web Client -
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/06/heads-up-ovfova-always-deployed-as-thick-on-vsan-when-using-vsphere-web-client.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
