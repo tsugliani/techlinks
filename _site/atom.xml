@@ -4,7 +4,7 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-06-10T12:30:12+02:00</updated>
+ <updated>2016-06-10T12:36:12+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
@@ -20,6 +20,8 @@
    <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;vCloud Director Fundamentals E-learning Course -
+&lt;a href=&quot;https://fojta.wordpress.com/2016/06/10/vcloud-director-fundamentals-e-learning-course/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;What’s new in NSX 6.2.3? Hint: not the average minor release! -
 &lt;a href=&quot;http://cloudmaniac.net/whats-new-in-nsx-for-vsphere-6-2-3/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt; |
 &lt;a href=&quot;https://t.co/Y4M5BRxMQF&quot; target=&quot;_blank&quot;&gt;Download&lt;/a&gt;&lt;/li&gt;
