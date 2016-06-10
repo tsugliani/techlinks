@@ -4,13 +4,109 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-06-03T15:48:53+02:00</updated>
+ <updated>2016-06-10T11:58:41+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
    <email>timo.sugliani@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Tech News - Week 24</title>
+   <link href="http://techlinks.tsugliani.fr/2016/Week-24/"/>
+   <updated>2016-06-10T00:00:00+02:00</updated>
+   <id>http://techlinks.tsugliani.fr/2016/Week-24</id>
+   <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What’s new in NSX 6.2.3? Hint: not the average minor release! -
+&lt;a href=&quot;http://cloudmaniac.net/whats-new-in-nsx-for-vsphere-6-2-3/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt; |
+&lt;a href=&quot;https://t.co/Y4M5BRxMQF&quot; target=&quot;_blank&quot;&gt;Download&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Log Insight 3.3.2 Released -
+&lt;a href=&quot;https://t.co/Ci5hbz2bYA&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt; |
+&lt;a href=&quot;https://t.co/XoMJVdoLzo&quot; target=&quot;_blank&quot;&gt;Download&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;OpenStack 2.5: VMware Integrated OpenStack 2.5 is GA – What’s New? -
+&lt;a href=&quot;http://blogs.vmware.com/openstack/vmware-integrated-openstack-2-5-is-ga-whats-new/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt; |
+&lt;a href=&quot;https://my.vmware.com/group/vmware/details?downloadGroup=VIO_2-5&amp;amp;productId=587&amp;amp;rPId=11148&quot; target=&quot;_blank&quot;&gt;Download&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Replicate VM to vCloud Air using vSphere Replication -
+&lt;a href=&quot;https://alexhunt86.wordpress.com/2016/06/03/replicate-vm-to-vcloud-air-using-vsphere-replication/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How to run a script from a vCenter Alarm action in the VCSA? -
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/06/how-to-run-a-script-from-a-vcenter-alarm-action-in-the-vcsa.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Can all VSAN Witness VMs for ROBO be in the same VLAN? -
+&lt;a href=&quot;http://www.yellow-bricks.com/2016/06/09/can-vsan-witness-vms-robo-vlan/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Looking for the VROps VSAN Content Pack? -
+&lt;a href=&quot;http://www.yellow-bricks.com/2016/06/07/looking-vrops-vsan-content-pack/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Getting a 404 error with the Host Client -
+&lt;a href=&quot;http://www.yellow-bricks.com/2016/06/10/getting-404-error-host-client/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSphere HTML5 Web Client 1.9 -
+&lt;a href=&quot;https://labs.vmware.com/flings/vsphere-html5-web-client#changelog&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ESXi Embedded Host Client 1.5. -
+&lt;a href=&quot;https://labs.vmware.com/flings/esxi-embedded-host-client#changelog&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Docker Volume Driver for vSphere on Virtual SAN -
+&lt;a href=&quot;http://cormachogan.com/2016/06/09/docker-volume-driver-vsphere-virtual-san-vsan/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Preparing Photon OS for deploying frameworks on Photon Controller  -
+&lt;a href=&quot;http://cormachogan.com/2016/06/08/preparing-photon-os-deploying-on-photon-controller/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Powershell/PowerCLI - Get-InventoryPlus – Inventory of all vSphere objects -
+&lt;a href=&quot;http://www.lucd.info/2016/06/03/get-inventoryplus-inventory-all-vsphere-objects/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Powershell/PowerCLI - vSphere Object by Path -
+&lt;a href=&quot;http://www.lucd.info/2016/06/03/vsphere-object-path/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Powershell/PowerCLI - vSphereDSC – Intro -
+&lt;a href=&quot;http://www.lucd.info/2016/06/04/vspheredsc-intro/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Powershell/PowerCLI - vSphereDSC – VmwFolder -
+&lt;a href=&quot;http://www.lucd.info/2016/06/05/vspheredsc-vmwfolder/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Powershell/PowerCLI - vSphereDSC – VmwDatacenter -
+&lt;a href=&quot;http://www.lucd.info/2016/06/06/vspheredsc-vmwdatacenter/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Powershell/PowerCLI - vSphereDSC – Principles of Operation -
+&lt;a href=&quot;http://www.lucd.info/2016/06/07/vspheredsc-principles-operation/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Using vSphere Tags to Drive Automation Tasks with PowerCLI -
+&lt;a href=&quot;http://wahlnetwork.com/2016/06/08/vsphere-tags-powercli/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Virtual SAN – Easy to Use Proactive Tests -
+&lt;a href=&quot;http://www.mrvsan.com/virtual-san-easy-use-proactive-tests/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Enhancements To The VM Tools Version-Mapping File -
+&lt;a href=&quot;http://blogs.vmware.com/vsphere/2016/06/enhancements-to-the-vm-tools-version-mapping-file.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Accurate Analytics is Painful -
+&lt;a href=&quot;https://www.baekdal.com/insights/accurate-analytics-is-painful/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Fucking Open Web -
+&lt;a href=&quot;https://hueniverse.com/2016/06/08/the-fucking-open-web/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Serverlessconf 2016 – New York City: a personal report -
+&lt;a href=&quot;http://www.it20.info/2016/06/serverlessconf-2016-new-york-city-a-personal-report/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Common OVF Tool (COT) 1.5.1 Released -
+&lt;a href=&quot;https://github.com/glennmatthews/cot#common-ovf-tool-cot&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Docker Swarm: Native Docker Clustering (Free Course) -
+&lt;a href=&quot;https://www.pluralsight.com/courses/docker-swarm-native-docker-clustering&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Comparing the speed of VM creation and SSH access of cloud providers -
+&lt;a href=&quot;http://blog.cloud66.com/part-2-comparing-the-speed-of-vm-creation-and-ssh-access-on-aws-digitalocean-linode-vexxhost-google-cloud-rackspace-packet-cloud-a-and-microsoft-azure/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Docker networking with IPVLAN and Cumulus Linux -
+&lt;a href=&quot;http://blog.sflow.com/2016/06/docker-networking-with-ipvlan-and.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Go Tooling in Action -
+&lt;a href=&quot;https://medium.com/google-cloud/go-tooling-in-action-eca6882ff3bc#.qlmz721ot&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;PyKafka: Fast, Pythonic Kafka, at Last! -
+&lt;a href=&quot;http://blog.parsely.com/post/3886/pykafka-now/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Calls come to Slack -
+&lt;a href=&quot;https://slackhq.com/calls-come-to-slack-ad333ce98acf#.oaq62fwf0&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Distributing Docker Cache across Hosts -
+&lt;a href=&quot;http://blog.runnable.com/post/145362675491/distributing-docker-cache-across-hosts&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Running Example Voting App in Docker Cloud -
+&lt;a href=&quot;http://sirile.github.io/2016/06/08/running-example-voting-app-in-docker-cloud.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How to assign fixed IP addresses in Neutron -
+&lt;a href=&quot;http://blog.jreypo.io/openstack/networking/how-to-assign-fixed-ip-addresses-in-neutron/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;HTTPS for GitHub Pages -
+&lt;a href=&quot;https://github.com/blog/2186-https-for-github-pages&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Explaining Docker Image IDs -
+&lt;a href=&quot;http://www.windsock.io/explaining-docker-image-ids/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Is BGP Really that complex ? -
+&lt;a href=&quot;http://blog.ipspace.net/2016/06/is-bgp-really-that-complex.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Changing American Diet -
+&lt;a href=&quot;http://flowingdata.com/2016/05/17/the-changing-american-diet/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Tech News - Week 23</title>
