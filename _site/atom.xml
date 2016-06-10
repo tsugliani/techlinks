@@ -4,7 +4,7 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-06-10T11:58:41+02:00</updated>
+ <updated>2016-06-10T12:30:12+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
@@ -41,7 +41,7 @@
 &lt;a href=&quot;http://www.yellow-bricks.com/2016/06/10/getting-404-error-host-client/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;vSphere HTML5 Web Client 1.9 -
 &lt;a href=&quot;https://labs.vmware.com/flings/vsphere-html5-web-client#changelog&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;ESXi Embedded Host Client 1.5. -
+  &lt;li&gt;ESXi Embedded Host Client 1.5 -
 &lt;a href=&quot;https://labs.vmware.com/flings/esxi-embedded-host-client#changelog&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Docker Volume Driver for vSphere on Virtual SAN -
 &lt;a href=&quot;http://cormachogan.com/2016/06/09/docker-volume-driver-vsphere-virtual-san-vsan/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
