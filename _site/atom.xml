@@ -4,13 +4,106 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-06-10T12:36:12+02:00</updated>
+ <updated>2016-06-17T17:57:00+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
    <email>timo.sugliani@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Tech News - Week 25</title>
+   <link href="http://techlinks.tsugliani.fr/2016/Week-25/"/>
+   <updated>2016-06-17T00:00:00+02:00</updated>
+   <id>http://techlinks.tsugliani.fr/2016/Week-25</id>
+   <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Veeam 9.5: Beefed up support for vCloud Director -
+&lt;a href=&quot;http://anthonyspiteri.net/veeam-9-5-beefed-support-vcloud-director/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware’s Photon OS 1.0 Now Available -
+&lt;a href=&quot;http://blogs.vmware.com/cloudnative/vmwares-photon-os-1-0-now-available/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt; |
+&lt;a href=&quot;https://bintray.com/vmware/photon/&quot; target=&quot;_blank&quot;&gt;Download&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Released: PernixData FVP 3.5 and Architect 1.1 -
+&lt;a href=&quot;http://anthonyspiteri.net/released-pernixdata-fvp-3-5-architect-1-1/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Can I select VSAN as my placeholder datastore with SRM? -
+&lt;a href=&quot;http://www.yellow-bricks.com/2016/06/13/can-i-select-vsan-as-my-placeholder-datastore/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Using the vSphere API to remotely collect ESXi esxcfg-info -
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/06/using-the-vsphere-api-to-remotely-collect-esxi-esxcfg-info.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Using the vSphere API to remotely generate ESXi performance support bundles -
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/06/using-the-vsphere-api-to-remotely-generate-esxi-performance-support-bundles.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Enabling Virtual SAN, and stretched cluster demo -
+&lt;a href=&quot;https://youtu.be/4Tm3LLSQp6Y&quot; target=&quot;_blank&quot;&gt;Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Playing around with EMC CloudArray on VSAN -
+&lt;a href=&quot;http://www.yellow-bricks.com/2016/06/14/playing-around-emc-cloudarray-vsan/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSphere HTML5 Web Client 1.10 (Simplified Upgrade) -
+&lt;a href=&quot;https://labs.vmware.com/flings/vsphere-html5-web-client#changelog&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VSAN - Disk format version 4.0 update to 2.0 suggested -
+&lt;a href=&quot;http://www.yellow-bricks.com/2016/06/15/disk-format-version-4-0-update-2-0-suggested/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Released: NSX 6.2.3 – Packed full of new features! -
+&lt;a href=&quot;http://vcloud.sx/released-nsx-v-6-2-3-packed-full-new-features/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Deploying Kubernetes using kube-up/down on Photon Controller -
+&lt;a href=&quot;http://cormachogan.com/2016/06/14/deploying-kubernetes-using-kube-updown-photon-controller/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;docker-machine driver plugin for Photon Controller -
+&lt;a href=&quot;http://cormachogan.com/2016/06/17/docker-machine-photon-controller/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Remediating vSphere Configuration Drift with PowerShell Pester Tests -
+&lt;a href=&quot;http://wahlnetwork.com/2016/06/16/remediating-vsphere-configuration-drift-powershell-pester-tests/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Fun with Legos and Intel NUCs -
+&lt;a href=&quot;https://roguevcdx.com/2016/06/10/fun-with-legos-and-intel-nucs/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Home Lab Fundamentals: DNS Reverse Lookup Zones -
+&lt;a href=&quot;http://frankdenneman.nl/2016/06/13/home-lab-fundamentals-dns-reverse-lookup-zones/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How to Change the Package Signing Certificate of a vRO Appliance (SKKB1029) -
+&lt;a href=&quot;http://kaloferov.com/blog/how-to-change-the-package-signing-certificate-of-a-vro-appliance-skkb1029/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Recovering access to vCenter after blocking it with NSX DFW -
+&lt;a href=&quot;https://avillargarea.wordpress.com/2016/06/17/recovering-access-to-vcenter-after-blocking-it-with-nsx-dfw/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;WARNING: Express Patch 6 for ESXi 6 can break your Backup (CBT Bug)! -
+&lt;a href=&quot;http://www.running-system.com/take-care-express-patch-6-esxi-6-can-break-backup-cbt-bug/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How To Roll Out New Features Without Hurting Loyal Users -
+&lt;a href=&quot;https://www.smashingmagazine.com/2016/06/rolling-features-without-hurting-loyal-users/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Most commonly used git tips and tricks -
+&lt;a href=&quot;https://github.com/git-tips/tips#git-tips&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;First Look at Docker SwarmKit -
+&lt;a href=&quot;https://blog.replicated.com/2016/06/08/first-look-at-swarmkit/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Using Shipyard To Manage Docker Containers -
+&lt;a href=&quot;http://jerrygamblin.com/2016/06/10/using-shipyard-to-manage-docker-containers/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Memory Adventures with InfluxDB -
+&lt;a href=&quot;https://cobe.io/blog/posts/memory-adventures-with-influxdb/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Chef Launches Habitat, New Open Source Project to Automate Applications -
+&lt;a href=&quot;https://www.habitat.sh/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt; |
+&lt;a href=&quot;https://www.habitat.sh/about/announcement/&quot; target=&quot;_blank&quot;&gt;Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Go and Package Versioning -
+&lt;a href=&quot;http://zduck.com/2014/go-and-package-versioning/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ContainerX - Free version available -
+&lt;a href=&quot;http://containerx.io/our-product/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Configuring Linux Policy Routing using Ansible -
+&lt;a href=&quot;http://blog.scottlowe.org/2016/06/16/configuring-linux-policy-routing-ansible/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Debugging Distributed Systems -
+&lt;a href=&quot;http://queue.acm.org/detail.cfm?id=2940294&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;My First 10 Minutes On a Server - Primer for Securing Ubuntu -
+&lt;a href=&quot;http://www.codelitt.com/blog/my-first-10-minutes-on-a-server-primer-for-securing-ubuntu/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Write Less Code -
+&lt;a href=&quot;http://codeahoy.com/2016/06/03/write-less-code/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Shortcuts And Tips For Improving Your Productivity With Sublime Text -
+&lt;a href=&quot;https://www.smashingmagazine.com/2016/06/shortcuts-and-tips-for-improving-your-productivity-with-sublime-text/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;9 Common Dockerfile mistakes -
+&lt;a href=&quot;http://blog.runnable.com/post/145895165446/9-common-dockerfile-mistakes&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Open Source at Docker, Part 3: The Tooling and Automation -
+&lt;a href=&quot;https://blog.docker.com/2016/06/open-source-docker-tooling-automation/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Hashicorp Vault 0.6 released -
+&lt;a href=&quot;https://www.hashicorp.com/blog/vault-0.6.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Hashicorp Vagrant 1.8.4 released -
+&lt;a href=&quot;https://www.vagrantup.com/downloads.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Container Market Survey -
+&lt;a href=&quot;https://clusterhq.com/assets/pdfs/state-of-container-usage-june-2016.pdf&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Tech News - Week 24</title>
