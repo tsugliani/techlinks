@@ -4,7 +4,7 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-06-17T17:57:00+02:00</updated>
+ <updated>2016-06-17T18:00:40+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
@@ -99,6 +99,8 @@
 &lt;a href=&quot;https://www.hashicorp.com/blog/vault-0.6.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Hashicorp Vagrant 1.8.4 released -
 &lt;a href=&quot;https://www.vagrantup.com/downloads.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;EdgeMAX EdgeRouter software release v1.8.5 -
+&lt;a href=&quot;http://community.ubnt.com/t5/EdgeMAX-Updates-Blog/EdgeMAX-EdgeRouter-software-release-v1-8-5/ba-p/1591710&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Container Market Survey -
 &lt;a href=&quot;https://clusterhq.com/assets/pdfs/state-of-container-usage-june-2016.pdf&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
