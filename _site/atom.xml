@@ -4,13 +4,142 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-06-17T18:00:40+02:00</updated>
+ <updated>2016-06-24T14:18:42+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
    <email>timo.sugliani@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Tech News - Week 26</title>
+   <link href="http://techlinks.tsugliani.fr/2016/Week-26/"/>
+   <updated>2016-06-24T00:00:00+02:00</updated>
+   <id>http://techlinks.tsugliani.fr/2016/Week-26</id>
+   <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Docker Volume vSphere - Beta Released -
+&lt;a href=&quot;https://github.com/vmware/docker-volume-vsphere/releases/tag/1.0.beta&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Installing and configuring EMC ScaleIO 2.0 and PernixData FVP – Part 1: ScaleIO -
+&lt;a href=&quot;https://virtualhobbit.com/2016/05/31/installing-and-configuring-emc-scaleio-2-0-and-pernixdata-fvp-part-1-scaleio/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Automation Leveraging NSX REST API Guide (PDF) -
+&lt;a href=&quot;https://communities.vmware.com/servlet/JiveServlet/downloadBody/31921-102-2-43550/Automation%20Leveraging%20NSX%20REST%20API.pdf&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSphere HTML5 Web Client 1.11 -
+&lt;a href=&quot;https://labs.vmware.com/flings/vsphere-html5-web-client#changelog&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSphere Integrated Containers Version v0.3.0 -
+&lt;a href=&quot;https://github.com/vmware/vic/releases/tag/v0.3.0&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Using the vSphere API to remotely collect ESXi configuration file (esx.conf) -
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/06/using-the-vsphere-api-to-remotely-collect-esxi-configuration-file-esx-conf.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Test driving ContainerX on VMware vSphere -
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/06/test-driving-containerx-on-vmware-vsphere.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The mobile SDDC and EUC lab environment - 
+&lt;a href=&quot;http://www.ivobeerens.nl/2016/06/23/sddc-mobile-lab-environment/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;New Home Lab Hardware - Dual Socket Xeon v4 -
+&lt;a href=&quot;http://frankdenneman.nl/2016/06/22/new-home-lab-hardware-dual-socket-xeon-v4/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;PernixCloud Data: FVP Latency Compared To SAN Latency -
+&lt;a href=&quot;http://frankdenneman.nl/2016/06/17/pernixcloud-data-fvp-latency-compared-san-latency/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Hitachi Unified Compute Platform demo impressed me -
+&lt;a href=&quot;http://www.yellow-bricks.com/2016/06/23/hitachi-unified-compute-platform-demo-impressed/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;F5 Reference Architecture for VMware NSX - 
+&lt;a href=&quot;http://www.ntpro.nl/blog/archives/3102-F5-Reference-Architecture-for-VMware-NSX.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;New and updated KB articles for NSX for vSphere 6.2.3 -
+&lt;a href=&quot;http://blogs.vmware.com/kb/2016/06/new-and-updated-kb-articles-for-nsx-for-vsphere-6-2-3.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CBT Bugs VMware Can’t keep letting this happen -
+&lt;a href=&quot;http://anthonyspiteri.net/cbt-bugs-vmware-cant-keep-letting-happen/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Why do we work so hard ? - 
+&lt;a href=&quot;https://www.1843magazine.com/features/why-do-we-work-so-hard&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The macOS Sierra developer preview: Different name, same ol’ Mac - 
+&lt;a href=&quot;http://arstechnica.com/apple/2016/06/the-macos-sierra-developer-preview-different-name-same-ol-mac/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;About Kubernetes -
+&lt;a href=&quot;http://www.yet.org/2016/06/kubernetes/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Kubernetes step by step -
+&lt;a href=&quot;http://www.yet.org/2016/06/tectonic/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Independence from L2 Data Centers -
+&lt;a href=&quot;https://cumulusnetworks.com/blog/independence-l2-data-centers/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Developing Inside Docker Containers with OS X (2016) -
+&lt;a href=&quot;https://hharnisc.github.io/2016/06/16/developing-inside-docker-containers-with-osx-2016.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Integration Testing With Docker Compose -
+&lt;a href=&quot;https://hharnisc.github.io/2016/06/19/integration-testing-with-docker-compose.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;DockerCon 2016 Day 1 Keynote -
+  &lt;a href=&quot;http://blog.scottlowe.org/2016/06/20/dockercon-2016-day-1-keynote/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt; |
+  &lt;a href=&quot;http://www.ustream.tv/recorded/88610090&quot; target=&quot;_blank&quot;&gt;Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;DockerCon 2016 Day 2 Keynote - 
+&lt;a href=&quot;http://blog.scottlowe.org/2016/06/21/dockercon-2016-day-2-keynote/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;DockerCon 2016 Vendor Meetings - 
+&lt;a href=&quot;http://blog.scottlowe.org/2016/06/21/dockercon-2016-vendor-meetings/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;What’s New in Docker: Swarm Mode, Built in Orchestration, Services, Healthchecks, DAB - 
+&lt;a href=&quot;https://blog.codeship.com/whats-new-docker/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Docker 1.12 orchestration built-in -
+&lt;a href=&quot;http://gianarb.it/blog/docker-1-12-orchestration-built-in#.V2h5x_zZhjk.twitter&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;More Microservices Bliss with Docker 1.12 and Swarm only -
+&lt;a href=&quot;http://blog.hypriot.com/post/more-microservice-bliss-with-docker-1-12/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Docker Engine 1.12 comes with built-in Distribution &amp;amp; Orchestration System -
+&lt;a href=&quot;http://collabnix.com/archives/1317&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Docker for Mac and Windows out of private beta -
+&lt;a href=&quot;https://www.docker.com/products/docker#/mac&quot; target=&quot;_blank&quot;&gt;Mac&lt;/a&gt; | 
+&lt;a href=&quot;https://www.docker.com/products/docker#/windows&quot; target=&quot;_blank&quot;&gt;Windows&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Introducing the Docker Store Private Beta - 
+&lt;a href=&quot;https://blog.docker.com/2016/06/docker-store/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Refactoring a Dockerfile for image size - 
+&lt;a href=&quot;https://blog.replicated.com/2016/02/05/refactoring-a-dockerfile-for-image-size/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Docker Datacenter in AWS and Azure in a few clicks - 
+&lt;a href=&quot;https://blog.docker.com/2016/06/docker-datacenter-aws-azure-cloud/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Introducing Experimental Distributed Application Bundles - 
+&lt;a href=&quot;https://blog.docker.com/2016/06/docker-app-bundle/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;DockerCon US 2016 - Docker Networking deep dive -
+&lt;a href=&quot;http://www.slideshare.net/MadhuVenugopal2/dockercon-us-2016-docker-networking-deep-dive&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;An Asynchronous Shell Prompt -
+&lt;a href=&quot;http://www.anishathalye.com/2015/02/07/an-asynchronous-shell-prompt/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The New Normal: Minimize risk by maximizing change -
+&lt;a href=&quot;http://blog.cognitect.com/blog/2016/3/3/the-new-normal-minimize-risk-by-maximizing-change&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;1 year, lessons learned from a 0 to Kubernetes transition -
+&lt;a href=&quot;https://acotten.com/post/1year-kubernetes&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;One year using Kubernetes in production: Lessons learned -
+&lt;a href=&quot;http://techbeacon.com/one-year-using-kubernetes-production-lessons-learned&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Power of Platform9: Managed Kubernetes -
+&lt;a href=&quot;https://www.virtuallifestyle.nl/2016/06/power-platform9-managed-kubernetes/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Running #Minecraft in a Windows Container using #Docker -
+&lt;a href=&quot;http://dille.name/blog/2016/06/21/running-minecraft-in-a-windows-container-using-docker/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Monitoring de votre serveur avec Telegraf, InfluxDB et Grafana (&lt;em&gt;French&lt;/em&gt;) -
+&lt;a href=&quot;https://www.guillaume-leduc.fr/monitoring-de-votre-serveur-avec-telegraf-influxdb-et-grafana.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A Packer template for Windows Nano server weighing 300MB -
+&lt;a href=&quot;http://www.hurryupandwait.io/blog/a-packer-template-for-windows-nano-server-weighing-300mb&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Stop saying learning to code is easy -
+&lt;a href=&quot;http://www.hanselman.com/blog/StopSayingLearningToCodeIsEasy.aspx&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Data visualization made easy - 
+&lt;a href=&quot;http://d3plus.org/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt; |
+&lt;a href=&quot;http://d3plus.org/examples/basic/9042919/&quot; target=&quot;_blank&quot;&gt;Sample 1&lt;/a&gt; | 
+&lt;a href=&quot;http://d3plus.org/examples/advanced/9956853/&quot; target=&quot;_blank&quot;&gt;Sample 2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How To Harness The Machines: Being Productive With Task Runners -
+&lt;a href=&quot;https://www.smashingmagazine.com/2016/06/harness-machines-productive-task-runners/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Code usage examples in your editor, as you type -
+&lt;a href=&quot;https://text.sourcegraph.com/code-usage-examples-in-your-editor-as-you-type-f7fc89d894dd#.yabzg9mlu&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;watchmen: a service monitor for node.js -
+&lt;a href=&quot;https://github.com/iloire/watchmen#watchmen-a-service-monitor-for-nodejs&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Distraction-Free Split View with Sublime Text - 
+&lt;a href=&quot;http://cbednarski.com/articles/sublime-distraction-free-splitscreen/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Hueman WordPress Theme: Free and Feature-packed -
+&lt;a href=&quot;http://www.noupe.com/wordpress/hueman-wordpress-theme-98153.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Monitoring and Tuning the Linux Networking Stack: Receiving Data -
+&lt;a href=&quot;http://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Oceanic Next Color Scheme - 
+&lt;a href=&quot;https://github.com/voronianski/oceanic-next-color-scheme&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Grafana 3.1 Beta Released -
+&lt;a href=&quot;http://grafana.org/blog/2016/06/23/grafana-3-1-beta-released.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;SnappySnippet -
+&lt;a href=&quot;https://github.com/kdzwinel/SnappySnippet#snappysnippet&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;diff-so-fancy - 
+&lt;a href=&quot;https://github.com/so-fancy/diff-so-fancy#diff-so-fancy----&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Tech News - Week 25</title>
