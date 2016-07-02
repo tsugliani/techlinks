@@ -4,13 +4,102 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-06-24T14:18:42+02:00</updated>
+ <updated>2016-07-02T16:14:41+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
    <email>timo.sugliani@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Tech News - Week 27</title>
+   <link href="http://techlinks.tsugliani.fr/2016/Week-27/"/>
+   <updated>2016-07-01T00:00:00+02:00</updated>
+   <id>http://techlinks.tsugliani.fr/2016/Week-27</id>
+   <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;VCD SP 8.10 New Features Part 2 – Affinity Rules and new API functions -
+&lt;a href=&quot;http://anthonyspiteri.net/vcd-sp-8-10-new-features-part-2-affinity-rules-and-new-api-functions/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vOneCloud 2.0 de OpenNebula, le vCloud Director killer ? (&lt;em&gt;French&lt;/em&gt;) - 
+&lt;a href=&quot;https://vblog.io/?p=3841&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;New VMware Fling: DRS Doctor -
+&lt;a href=&quot;https://labs.vmware.com/flings/drsdoctor#summary&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSphere HTML5 Web Client 1.12 -
+&lt;a href=&quot;https://labs.vmware.com/flings/vsphere-html5-web-client#changelog&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Virtual SAN 6.2 Performance with OLTP and VDI Workloads -
+&lt;a href=&quot;http://blogs.vmware.com/performance/2016/06/virtual-san-6-2-performance-with-oltp-and-vdi-workloads.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;NSX for vSphere 6.2 Troubleshooting guide -
+&lt;a href=&quot;https://pubs.vmware.com/NSX-62/topic/com.vmware.ICbase/PDF/nsx_62_troubleshooting.pdf&quot; target=&quot;_blank&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;An Exciting Innovation In Big Data: A New Cloudera Director Plugin For VMware VSphere - 
+&lt;a href=&quot;http://blogs.vmware.com/vsphere/2016/06/an-exciting-innovation-in-big-data-a-new-cloudera-director-plugin-for-vmware-vsphere.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Compare and Contrast: Photon Controller vs VIC (vSphere Integrated Containers) - 
+&lt;a href=&quot;http://cormachogan.com/2016/06/28/compare-contrast-photon-controller-vs-vic-vsphere-integrated-containers/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Deploy Docker Swarm using docker-machine with Consul on Photon Controller -
+&lt;a href=&quot;http://cormachogan.com/2016/06/29/deploy-docker-swarm-consul-photon-controller/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Increase the performance of your Veeam backups in network mode -
+&lt;a href=&quot;http://www.virtualtothecore.com/en/increase-the-performance-of-your-veeam-backups-in-network-mode/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How thermal paste can impact VM performance -
+&lt;a href=&quot;http://www.yellow-bricks.com/2016/06/30/thermal-paste-can-impact-vm-performance/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;NSX Bytes: 6.1.x General support extended and 6.2.3 Edges Upgrade Issues -
+&lt;a href=&quot;http://anthonyspiteri.net/nsx-bytes-6-1-x-general-support-extended-6-2-3-upgrade-issues/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware Fusion: Fix for installing macOS Sierra as a VM -
+&lt;a href=&quot;http://blogs.vmware.com/teamfusion/2016/06/fix-for-installing-macos-sierra-as-a-vm.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Tips for running an Intel NUC Based VMware Homelab -
+&lt;a href=&quot;http://www.virten.net/2016/06/tips-for-running-an-intel-nuc-based-vmware-homelab/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Correlating build numbers and versions of VMware products (1014508) - 
+&lt;a href=&quot;https://kb.vmware.com/kb/1014508&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;GCE vs AWS in 2016: Why you should NEVER use Amazon! -
+&lt;a href=&quot;https://thehftguy.wordpress.com/2016/06/15/gce-vs-aws-in-2016-why-you-should-never-use-amazon/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A ZFS developer’s analysis of the good and bad in Apple’s new APFS file system -
+&lt;a href=&quot;http://arstechnica.com/apple/2016/06/a-zfs-developers-analysis-of-the-good-and-bad-in-apples-new-apfs-file-system/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A Case Study in Attacking KeePass - 
+&lt;a href=&quot;http://www.harmj0y.net/blog/redteaming/a-case-study-in-attacking-keepass/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How to deliver 410 Gbps in under 48 hours -
+&lt;a href=&quot;https://medium.com/@cdn77/how-to-deliver-410-gbps-in-under-48-hours-8d2837a48c83#.vvo0dk6rs&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;DockerCon 2016 Videos: Day 1 and 2 general sessions
+&lt;a href=&quot;https://blog.docker.com/2016/06/dockercon-general-session-video/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;DockerCon 2016: Part 1 of TOP 10 Videos - 
+&lt;a href=&quot;https://blog.docker.com/2016/06/dockercon-part-1-top-10-video/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Dockercon 2016 – Seattle: a personal report - 
+&lt;a href=&quot;http://www.it20.info/2016/06/dockercon-2016-seattle-a-personal-report/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Kubespray: Setup a kubernetes cluster with Ansible -
+&lt;a href=&quot;https://github.com/kubespray/kargo#deploy-a-production-ready-kubernetes-cluster&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Container Monitoring: Top Docker Metrics to Watch - 
+&lt;a href=&quot;https://sematext.com/blog/2016/06/28/top-docker-metrics-to-watch/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Prometheus - From metrics to insight - 
+&lt;a href=&quot;https://prometheus.io/docs/introduction/overview/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Automated, large-scale deployments with Ansible’s pull-mode -
+&lt;a href=&quot;https://www.stavros.io/posts/automated-large-scale-deployments-ansibles-pull-mo/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;5 reasons we started the Ansible Container Project -
+&lt;a href=&quot;https://www.ansible.com/blog/ansible-container-project&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;awesome-kubernetes: A curated list for awesome kubernetes sources -
+&lt;a href=&quot;https://ramitsurana.gitbooks.io/awesome-kubernetes/content/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Glances is a cross-platform curses-based system monitoring tool written in Python - 
+&lt;a href=&quot;https://nicolargo.github.io/glances/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Monitoring EMC Elastic Cloud Storage with Grafana - 
+&lt;a href=&quot;https://blog.emccode.com/2016/06/27/monitoring-emc-elastic-cloud-storage-with-grafana/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Plex Blog - The long and winding road to v1.0 -
+&lt;a href=&quot;https://www.plex.tv/blog/long-winding-road-v1-0/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Keeping Guest Additions Up to Date with the vagrant-vbguest Plugin -
+&lt;a href=&quot;http://discoposse.com/2016/05/23/autoupdating-virtualbox-guest-additions-with-vagrant-vbguest/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;pgcli: Postgres CLI with autocompletion and syntax highlighting -
+&lt;a href=&quot;https://github.com/dbcli/pgcli#a-repl-for-postgres&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Microsoft releases .NET Core 1.0 -
+&lt;a href=&quot;https://www.microsoft.com/net/core&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Micro - a microservices toolkit - 
+&lt;a href=&quot;https://blog.micro.mu/2016/03/20/micro.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Hashicorp Nomad 0.4 Released -
+&lt;a href=&quot;https://www.hashicorp.com/blog/nomad-0-4.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Tech News - Week 26</title>
