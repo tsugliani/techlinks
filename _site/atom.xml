@@ -4,13 +4,114 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-07-02T16:14:41+02:00</updated>
+ <updated>2016-07-09T13:55:25+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
    <email>timo.sugliani@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Tech News - Week 28</title>
+   <link href="http://techlinks.tsugliani.fr/2016/Week-28/"/>
+   <updated>2016-07-08T00:00:00+02:00</updated>
+   <id>http://techlinks.tsugliani.fr/2016/Week-28</id>
+   <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Quick post: VLAN Trunking with vCloud Director -
+&lt;a href=&quot;http://anthonyspiteri.net/quick-post-vlan-trunking-vcloud-director/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vCloud Networking and Security Upgrade to NSX in vCloud Director Environments - 
+&lt;a href=&quot;https://fojta.wordpress.com/2016/07/05/vcloud-networking-and-security-upgrade-to-nsx-in-vcloud-director-environments-update/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;@DuncanYB’s recommended reads part 1 - 
+&lt;a href=&quot;http://www.yellow-bricks.com/2016/07/07/recommended-reads-pt-1/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;NUMA Deep Dive Part 1: From UMA to NUMA -
+&lt;a href=&quot;http://frankdenneman.nl/2016/07/07/numa-deep-dive-part-1-uma-numa/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;NUMA Deep Dive Part 2: System Architecture -
+&lt;a href=&quot;http://frankdenneman.nl/2016/07/08/numa-deep-dive-part-2-system-architecture/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;New Fling: Horizon Service Installer for NSX -
+&lt;a href=&quot;https://labs.vmware.com/flings/horizon-service-installer-for-nsx&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSphere HTML5 Web Client 1.13 -
+&lt;a href=&quot;https://labs.vmware.com/flings/vsphere-html5-web-client#changelog&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Quick Tip – How to quickly find the VM Display Name of your vCenter Server? -
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/07/quick-tip-how-to-quickly-find-the-vm-display-name-of-your-vcenter-server.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware Fusion memory overcommit -
+&lt;a href=&quot;http://networkinferno.net/vmware-fusion-memory-overcommit&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Adding vCenter appliance to Fusion -
+&lt;a href=&quot;http://networkinferno.net/adding-vcenter-appliance-to-fusion&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Homelab: Avoid extra clicks accessing vCenter! -
+&lt;a href=&quot;https://notesfrommwhite.net/2016/07/07/avoid-extra-clicks-accessing-vcenter/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Homelab: Netgear ProSAFE XS708T: Quiet 8-Port 10GBASE-T Switch - 
+&lt;a href=&quot;http://www.servethehome.com/netgear-prosafe-xs708t-review-quiet-8-port-10gbase-t-switch/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;NSX: Central CLI - Host Health - 
+&lt;a href=&quot;http://www.m80arm.co.uk/2016/07/central-cli-host-health.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware Realize Orchestrator OVF Transfer Plug-In Version 3 released -
+&lt;a href=&quot;http://www.vcoportal.de/2016/07/vmware-realize-orchestrator-ovf-transfer-plug-in-version-3-released/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;An Interview with the Top 5 vBloggers - 
+&lt;a href=&quot;http://www.rubrik.com/interview-top-5-vbloggers/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vagrant-vcenter 0.3.3 released -
+&lt;a href=&quot;https://github.com/frapposelli/vagrant-vcenter#vagrant-provider-for-vmware-vcenter&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Kubernetes by Ansible -
+&lt;a href=&quot;http://www.yet.org/2016/07/kargo/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Kubernetes The Hard Way -
+&lt;a href=&quot;https://github.com/kelseyhightower/kubernetes-the-hard-way#kubernetes-the-hard-way&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Deploy Kubernetes w/ Ansible &amp;amp; Terraform - 
+&lt;a href=&quot;https://rsmitty.github.io/Terraform-Ansible-Kubernetes/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Scalable and resilient Django with Kubernetes -
+&lt;a href=&quot;https://harishnarayanan.org/writing/kubernetes-django/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Kubernetes and AWS VPC Peering -
+&lt;a href=&quot;http://ben.straub.cc/2015/08/19/kubernetes-aws-vpc-peering/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Comparison of Networking Solutions for Kubernetes - 
+&lt;a href=&quot;http://machinezone.github.io/research/networking-solutions-for-kubernetes/#&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Children’s Illustrated Guide to Kubernetes -
+&lt;a href=&quot;https://deis.com/blog/2016/kubernetes-illustrated-guide/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Architectural Considerations for Open-Source PaaS and Container Platforms - 
+&lt;a href=&quot;http://wikibon.com/architectural-considerations-for-open-source-paas-and-container-platforms/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Kubernetes 1.3: Bridging Cloud Native and Enterprise Workloads - 
+&lt;a href=&quot;http://blog.kubernetes.io/2016/07/kubernetes-1.3-bridging-cloud-native-and-enterprise-workloads.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Kubernetes 1.3: Updates to Performance and Scalability (2,000 node 60,000 pod clusters) - 
+&lt;a href=&quot;http://blog.kubernetes.io/2016/07/kubernetes-updates-to-performance-and-scalability-in-1.3.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;InfluxDB Tops Cassandra in Time-Series Data &amp;amp; Metrics Benchmark - 
+&lt;a href=&quot;https://influxdata.com/blog/influxdb-vs-cassandra-benchmark-time-series-metrics/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How we reindexed 36 billion documents in 5 days within the same Elasticsearch cluster -
+&lt;a href=&quot;https://www.elcurator.net/articles/f3e5f760-how-we-reindexed-36-billion-documents-in-5-days-within-the-same-elasticsearch-cluster-fred-thoughts&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;My first try with DAB (aka Distributed Application Bundle) - 
+&lt;a href=&quot;http://lucjuggery.com/blog/?p=632&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A checklist for Docker in the Enterprise - 
+&lt;a href=&quot;https://zwischenzugs.wordpress.com/2016/07/08/a-checklist-for-docker-in-the-enterprise/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Monkit: Package monkit is a flexible code instrumenting and data collection library -
+&lt;a href=&quot;https://github.com/spacemonkeygo/monkit#monkit&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Mastering your product backlog - 
+&lt;a href=&quot;https://medium.com/@ZenHubIO/mastering-your-product-backlog-9ab93935f76f#.xoh9q9up3&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;What good code is? -
+&lt;a href=&quot;http://carlosbecker.com/posts/good-code/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;What is ChatOps? -
+&lt;a href=&quot;https://docs.stackstorm.com/chatops/chatops.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A Women’s History of Silicon Valley -
+&lt;a href=&quot;https://backchannel.com/a-womens-history-of-silicon-valley-feea9279d88a#.19ls5k8e2&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;12-Factor Apps and the HashiStack -
+&lt;a href=&quot;https://www.youtube.com/watch?v=gf43TcWjBrE&quot; target=&quot;_blank&quot;&gt;Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Thinking Inside the Container- A Continuous Delivery Story - Use Case Track - 
+&lt;a href=&quot;https://www.youtube.com/watch?v=YViFZBoKqjg&quot; target=&quot;_blank&quot;&gt;Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How to Extend the Terraform Provider List - 
+&lt;a href=&quot;https://www.youtube.com/watch?v=2BvpqmFpchI&quot; target=&quot;_blank&quot;&gt;Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Fabio - A Stateless Load Balancer - 
+&lt;a href=&quot;https://www.youtube.com/watch?v=fJ3qHbgZsU0&quot; target=&quot;_blank&quot;&gt;Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Visual Studio Code 1.3 Released -
+&lt;a href=&quot;https://blog.micro.mu/2016/03/20/micro.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Fisherman: A plugin manager for fish -
+&lt;a href=&quot;https://github.com/fisherman/fisherman#fisherman&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;tsugliani/vdude: My Fish Shell theme -
+&lt;a href=&quot;https://github.com/tsugliani/vdude&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Tech News - Week 27</title>
