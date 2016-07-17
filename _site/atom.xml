@@ -4,13 +4,72 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-07-09T13:55:25+02:00</updated>
+ <updated>2016-07-17T18:25:05+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
    <email>timo.sugliani@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Tech News - Week 29</title>
+   <link href="http://techlinks.tsugliani.fr/2016/Week-29/"/>
+   <updated>2016-07-15T00:00:00+02:00</updated>
+   <id>http://techlinks.tsugliani.fr/2016/Week-29</id>
+   <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Edge Gateway Deployment Speed in vCloud Director 8.10 -
+&lt;a href=&quot;https://fojta.wordpress.com/2016/07/10/edge-gateway-deployment-speed-in-vcloud-director-8-10/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Automate Let’s Encrypt Certificate for NSX Edge Load Balancer -
+&lt;a href=&quot;https://fojta.wordpress.com/2016/07/16/automate-lets-encrypt-certificate-for-nsx-edge-load-balancer/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Sneak peek: Veeam 9.5 vCloud Director Self Service Portal - 
+&lt;a href=&quot;http://anthonyspiteri.net/sneak-peek-veeam-9-5-vcloud-director-self-service-portal/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How CPU related metrics in vSphere may be misinterpreted -
+&lt;a href=&quot;https://vmpete.com/2016/07/14/how-cpu-related-metrics-in-vsphere-may-be-misinterpreted/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Virtual SAN Performance Service and Performance Tools - 
+&lt;a href=&quot;https://blogs.vmware.com/virtualblocks/2016/07/12/virtual-san-performance-service/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Configuring NSX Edge Services in Async Mode via API - 
+&lt;a href=&quot;http://cloudmaniac.net/nsx-async-api-call/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;NUMA Deep Dive Part 3: Cache Coherency -
+&lt;a href=&quot;http://frankdenneman.nl/2016/07/11/numa-deep-dive-part-3-cache-coherency/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;NUMA Deep Dive Part 4: Local Memory Optimization -
+&lt;a href=&quot;http://frankdenneman.nl/2016/07/13/numa-deep-dive-4-local-memory-optimization/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSphere HTML5 Web Client 1.14 -
+&lt;a href=&quot;https://labs.vmware.com/flings/vsphere-html5-web-client#changelog&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Quick Tip – Minor changes on how to customize vSphere 6.0 Update 2 Web Client login UI -
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/07/quick-tip-minor-changes-on-how-to-customize-vsphere-6-0-update-2-web-client-login-ui.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Container Volumes in VIC v0.4.0 -
+&lt;a href=&quot;http://cormachogan.com/2016/07/15/container-volumes-vic-v0-4-0/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;NSX-v – How to find Object IDs for almost everything! -
+&lt;a href=&quot;http://www.sneaku.com/2016/07/13/how-to-find-object-ids-for-almost-everything/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;NSX-v 6.2.3 – DFW UI Enhancements -
+&lt;a href=&quot;http://www.sneaku.com/2016/07/14/nsx-v-6-2-3-dfw-ui-enhancements/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How to automate vSphere MOB operations using PowerShell? - 
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/07/how-to-automate-vsphere-mob-operations-using-powershell.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How to audit vSphere Standalone VMRC or HTML5 VMRC connections? - 
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/07/how-to-audit-vsphere-standalone-vmrc-or-html5-vmrc-connections.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Overview Container Orchestration Tools -
+&lt;a href=&quot;http://blog.elsdoerfer.name/2016/07/10/overview-container-orchestration-tools/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Actually, Slack really sucks -
+&lt;a href=&quot;https://medium.com/@chrisjbatts/actually-slack-really-sucks-625802f1420a#.t433taqn0&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Jepsen: VoltDB 6.3 - 
+&lt;a href=&quot;https://aphyr.com/posts/331-jepsen-voltdb-6-3&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Our Nightmare on Amazon ECS -
+&lt;a href=&quot;http://www.appuri.com/blog/-our-docker-nightmare-on-amazon-ecs/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;NetApp Docker Volume Plugin -
+&lt;a href=&quot;https://github.com/NetApp/netappdvp#netapp-docker-volume-plugin&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Grafana 3.1.0 Released -
+&lt;a href=&quot;http://grafana.org/blog/2016/07/12/grafana-3-1-released.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Tech News - Week 28</title>
