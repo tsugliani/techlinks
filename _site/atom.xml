@@ -4,13 +4,111 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-07-17T18:25:05+02:00</updated>
+ <updated>2016-07-24T13:24:55+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
    <email>timo.sugliani@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Tech News - Week 30</title>
+   <link href="http://techlinks.tsugliani.fr/2016/Week-30/"/>
+   <updated>2016-07-22T00:00:00+02:00</updated>
+   <id>http://techlinks.tsugliani.fr/2016/Week-30</id>
+   <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;vCloud Architecture Toolkit -
+&lt;a href=&quot;http://www.vmware.com/solutions/cloud-computing/vcat-sp.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Gathering Health Status of vCloud Director Edge Gateways -
+&lt;a href=&quot;https://fojta.wordpress.com/2016/07/18/gathering-health-status-of-vcloud-director-edge-gateways/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware Validated Design for SDDC 2.0 – Now Available -
+&lt;a href=&quot;http://blogs.vmware.com/consulting/2016/07/validated-design-sddc-2-0-now-available.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware Validated Design for Software-Defined Data Center 2.0 Poster -
+&lt;a href=&quot;https://communities.vmware.com/thread/540400&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Remotely query an ESXi host without adding it to vCenter Server - 
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/07/remotely-query-an-esxi-host-without-adding-it-to-vcenter-server.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How to easily disable vMotion &amp;amp; Cross vCenter vMotion for a particular Virtual Machine? -
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/07/how-to-easily-disable-vmotion-cross-vcenter-vmotion-for-a-particular-virtual-machine.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vRops Backup done right -
+&lt;a href=&quot;https://michaelryom.dk/vrops-backup-done-right/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VSAN: Upgrading from 6.1 to 6.2 Hybrid to All Flash - Part 1 -
+&lt;a href=&quot;http://anthonyspiteri.net/vsan-upgrading-6-x-6-2-hybrid-flash/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VSAN: Upgrading from 6.1 to 6.2 Hybrid to All Flash - Part 2 -
+&lt;a href=&quot;http://anthonyspiteri.net/vsan-upgrading-6-1-6-2-hybrid-flash-part-2/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Getting started with vSphere Integrated Containers (short video) -
+&lt;a href=&quot;http://cormachogan.com/2016/07/18/getting-started-vsphere-integrated-container-short-video/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Deploy Mesos on Photon Controller (video) - 
+&lt;a href=&quot;http://cormachogan.com/2016/07/19/deploy-mesos-photon-controller-video/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Container Networks in VIC v0.4.0 -
+&lt;a href=&quot;http://cormachogan.com/2016/07/20/container-networks-vic-v0-4-0/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Playing around with Tintri Global Center and Tintri storage systems -
+&lt;a href=&quot;http://www.yellow-bricks.com/2016/07/21/playing-around-tintri-global-center-storage-systems/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;@DuncanYB’s recommended reads part 2 -
+&lt;a href=&quot;http://www.yellow-bricks.com/2016/07/20/duncanybs-recommended-reads-part-2/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;DFW rules using SG not correctly being applied to VMs after NSX 6.2.3 install or upgrade - 
+&lt;a href=&quot;https://kb.vmware.com/kb/2146227&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;NSX API call flowstats badly documented /app required -
+&lt;a href=&quot;http://blog.bertello.org/2016/07/18/nsx-api-call-flowstats-badly-documented-app-required/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSphere HTML5 Web Client 1.15 -
+&lt;a href=&quot;https://labs.vmware.com/flings/vsphere-html5-web-client#changelog&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware Harbor 0.3.0 Released - 
+&lt;a href=&quot;https://github.com/vmware/harbor#harbor&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;pyvcloud v16 released: Python SDK for VMware vCloud Director - 
+&lt;a href=&quot;https://github.com/vmware/pyvcloud#pyvcloud&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vca-cli v17 released: Command Line Interface for VMware vCloud Director - 
+&lt;a href=&quot;https://github.com/vmware/vca-cli#vca-cli&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Avoiding Scope Creep -
+&lt;a href=&quot;http://designreviver.com/updates/avoiding-scope-creep/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Random Acts of Optimization -
+&lt;a href=&quot;https://engineering.riotgames.com/news/random-acts-optimization&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;SuperRoot: Launching a High-SLA Production Service at Twitter -
+&lt;a href=&quot;https://blog.twitter.com/2016/superroot-launching-a-high-sla-production-service-at-twitter&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;WTF is Operations ? #Serverless -
+&lt;a href=&quot;https://charity.wtf/2016/05/31/wtf-is-operations-serverless/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;an HAProxy, segfaulted, choose-your-own stack frame adventure - 
+&lt;a href=&quot;https://engineering.udacity.com/haproxy-segfault-adventure-18cc1a7e1171#.f1z2buukh&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Solving the stateful service problem in container orchestration -
+&lt;a href=&quot;http://blog.traintracks.io/solving-the-stateful-service-problem-in-container-orchestration/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;DevOps Bookmarks -
+&lt;a href=&quot;http://www.devopsbookmarks.com/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;POSHOrigin - #Powershell #VMware #DSC series -
+&lt;a href=&quot;https://devblackops.io/poshorigin-part-1-summary/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Building a Simple Release Pipeline in PowerShell Using psake, Pester, and PSDeploy -
+&lt;a href=&quot;https://devblackops.io/building-a-simple-release-pipeline-in-powershell-using-psake-pester-and-psdeploy/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vimgifs - 
+&lt;a href=&quot;https://vimgifs.com/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;snap: A powerful open telemetry framework - 
+&lt;a href=&quot;http://snap-telemetry.io/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A tcpdump Primer with Examples - 
+&lt;a href=&quot;https://danielmiessler.com/study/tcpdump/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;perf-tooling.today: Performance related articles -
+&lt;a href=&quot;http://www.perf-tooling.today/articles&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Stack Overflow: Docker documentation snippets - 
+&lt;a href=&quot;https://stackoverflow.com/documentation/docker/topics&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A beautiful Slack command line interface (CLI -&amp;gt; uses 20mb memory) -
+&lt;a href=&quot;https://github.com/yasintoy/Slack-Gitsin&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Windows File System Proxy - FUSE for Windows -
+&lt;a href=&quot;https://github.com/billziss-gh/winfsp#winfsp---windows-file-system-proxy&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Kubernetes Certificate Manager - 
+&lt;a href=&quot;https://github.com/kelseyhightower/kube-cert-manager#kubernetes-certificate-manager&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Kubernetes 1.3.3 Released -
+&lt;a href=&quot;https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG.md/#v133&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Vagrant 1.8.5 Released -
+&lt;a href=&quot;https://github.com/mitchellh/vagrant/blob/v1.8.5/CHANGELOG.md#185-july-18-2016&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Scott’s Technology Short Take #69 -
+&lt;a href=&quot;http://blog.scottlowe.org/2016/07/22/technology-short-take-69/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Tech News - Week 29</title>
