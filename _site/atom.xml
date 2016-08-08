@@ -4,13 +4,81 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-07-31T21:34:11+02:00</updated>
+ <updated>2016-08-08T11:08:14+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
    <email>timo.sugliani@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Tech News - Week 32</title>
+   <link href="http://techlinks.tsugliani.fr/2016/Week-32/"/>
+   <updated>2016-08-05T00:00:00+02:00</updated>
+   <id>http://techlinks.tsugliani.fr/2016/Week-32</id>
+   <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How to correctly test the performance of Virtual SAN 6.2 deduplication feature - 
+&lt;a href=&quot;http://blogs.vmware.com/performance/2016/08/how-to-perf-test-vsan-deduplication.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSphere HTML5 Web Client 1.17 Released -
+&lt;a href=&quot;https://labs.vmware.com/flings/vsphere-html5-web-client#changelog&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ESXi Embedded Host Client v1.7.1 Released -
+&lt;a href=&quot;https://labs.vmware.com/flings/esxi-embedded-host-client#change-log&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Common OVF Tool v1.7.0 Released -
+&lt;a href=&quot;https://github.com/glennmatthews/cot/releases/tag/v1.7.0&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Inside the mind of a master procrastinator -
+&lt;a href=&quot;http://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Nobody Cares How Hard You Work -
+&lt;a href=&quot;http://99u.com/articles/51908/nobody-cares-how-hard-you-work&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Human Cost of Tech Debt -
+&lt;a href=&quot;http://www.daedtech.com/human-cost-tech-debt/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Designing Modern Teams - 
+&lt;a href=&quot;https://medium.com/@davidjbland/designing-modern-teams-d53516b1e7d8#.ih0wzjb8u&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Standing on Distributed Shoulders of Giants -
+&lt;a href=&quot;http://queue.acm.org/detail.cfm?ref=rss&amp;amp;id=2953944&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Difference Between “Remote” and “Remote-First” -
+&lt;a href=&quot;https://readthink.com/the-difference-between-remote-and-remote-first-7dd38458855f#.mtcxtek2s&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;I Love Go; I Hate Go - 
+&lt;a href=&quot;https://medium.com/@ahl/i-love-go-i-hate-go-3356ee6b169c#.mgy87idum&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Hard Drive Stats for Q2 2016 -
+&lt;a href=&quot;https://www.backblaze.com/blog/hard-drive-failure-rates-q2-2016/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Adding Hyper-V support to 2016 TP5 Docker VM -
+&lt;a href=&quot;https://stefanscherer.github.io/adding-hyper-v-support-to-2016-tp5-docker-vm/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Kubeform: Kubernetes Clusters in any Cloud -
+&lt;a href=&quot;https://capgemini.github.io/devops/kubeform/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Introducing Winston - Event driven Diagnostic and Remediation Platform -
+&lt;a href=&quot;http://techblog.netflix.com/2016/08/introducing-winston-event-driven.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;IDEs are Moving to the Cloud -
+&lt;a href=&quot;http://thenewstack.io/integrated-development-environments-moving-cloud/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Using A Static Site Generator At Scale: Lessons Learned - 
+&lt;a href=&quot;https://www.smashingmagazine.com/2016/08/using-a-static-site-generator-at-scale-lessons-learned/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Google and Facebook share proposed new Open Rack Standard with 48-volt power architecture -
+&lt;a href=&quot;https://cloudplatform.googleblog.com/2016/08/Google-and-Facebook-share-proposed-new-Open-Rack-Standard-with-48-volt-power-architecture.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Docker image with StatsD, Graphite, Grafana 2 and a Kamon Dashboard -
+&lt;a href=&quot;https://github.com/kamon-io/docker-grafana-graphite#statsd--graphite--grafana-2--kamon-dashboards&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Building Docker 1.12 on a Raspberry Pi - 
+&lt;a href=&quot;http://blog.hypriot.com/post/building-docker-directly-on-a-raspberry-pi/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Approaching Graphite 1.0 - 
+&lt;a href=&quot;https://blog.raintank.io/approaching-graphite-1-0/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Minio Cloud Storage - 
+&lt;a href=&quot;https://minio.io/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Terraform 0.7
+&lt;a href=&quot;https://www.hashicorp.com/blog/terraform-0-7.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Free Network Diagnostic Tool - mylg v0.2.1 released - 
+&lt;a href=&quot;http://mylg.io/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Visual Studio Code 1.4 Released (Powershell Fixes) -
+&lt;a href=&quot;http://code.visualstudio.com/updates/July_2016&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Tech News - Week 31</title>
@@ -355,7 +423,7 @@
   &lt;li&gt;Fabio - A Stateless Load Balancer - 
 &lt;a href=&quot;https://www.youtube.com/watch?v=fJ3qHbgZsU0&quot; target=&quot;_blank&quot;&gt;Video&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Visual Studio Code 1.3 Released -
-&lt;a href=&quot;https://blog.micro.mu/2016/03/20/micro.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&quot;http://code.visualstudio.com/updates/June_2016&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Fisherman: A plugin manager for fish -
 &lt;a href=&quot;https://github.com/fisherman/fisherman#fisherman&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;tsugliani/vdude: My Fish Shell theme -
