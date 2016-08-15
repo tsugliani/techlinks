@@ -4,13 +4,91 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-08-08T11:14:12+02:00</updated>
+ <updated>2016-08-15T14:41:27+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
    <email>timo.sugliani@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Tech News - Week 33</title>
+   <link href="http://techlinks.tsugliani.fr/2016/Week-33/"/>
+   <updated>2016-08-12T00:00:00+02:00</updated>
+   <id>http://techlinks.tsugliani.fr/2016/Week-33</id>
+   <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;PowerCLI Script to calculate VSAN vCAN Points per Month - 
+&lt;a href=&quot;http://anthonyspiteri.net/vsan-vcan-points-per-month-powercli-script/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How to Increase VCSA External PSC Disk Space in vSphere 6 - 
+&lt;a href=&quot;http://www.virten.net/2016/08/how-to-increase-vcsa-external-psc-disk-space-in-vsphere-6/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Working with maintenance mode in vROPS via PowerCLI -
+&lt;a href=&quot;http://www.virtu-al.net/2016/08/10/working-maintenance-mode-vrops-via-powercli/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Homelab: CloudFlare dynamic dns update script (cf-ddns.sh) - 
+&lt;a href=&quot;http://vninja.net/homelab/cloudflare-dynamic-dns-update-script-cf-ddns-sh/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware Horizon Client (PCoIP &amp;amp; Blast) Connection Workflow - 
+&lt;a href=&quot;https://www.rayheffer.com/vmware-horizon-client-pcoip-blast-connection-workflow/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Operationalize SDDC program - 
+&lt;a href=&quot;http://virtual-red-dot.info/operationalize-sddc-program/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VSAN Upgrades–NVMe &amp;amp; SATADOM -
+&lt;a href=&quot;http://www.virtuallanger.com/2016/08/11/vsan-upgrades-nvme-satadom/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ACI Automation Deep Dive - Part 1 -
+&lt;a href=&quot;http://static-void.io/aci-automation-p1/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Supermicro X10SDV-4C-7TP4F server Bill-of-Materials -
+&lt;a href=&quot;http://www.bussink.ch/?p=1766&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSphere HTML5 Web Client 2.0 Released -
+&lt;a href=&quot;https://labs.vmware.com/flings/vsphere-html5-web-client#changelog&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Microservices - Not A Free Lunch! -
+&lt;a href=&quot;http://highscalability.com/blog/2014/4/8/microservices-not-a-free-lunch.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Distributed Logging Architecture in the Container Era - 
+&lt;a href=&quot;https://blog.treasuredata.com/blog/2016/08/03/distributed-logging-architecture-in-the-container-era/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Facebook moving to JBOF (just a bunch of flash) - 
+&lt;a href=&quot;http://silvertonconsulting.com/blog/2016/08/13/facebook-moving-to-jbof-just-a-bunch-of-flash/#sthash.KkXkpAXR.GKegiw8y.dpbs&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Watchtower: Automatic Updates for Docker Containers - 
+&lt;a href=&quot;https://www.ctl.io/developers/blog/post/watchtower-automatic-updates-for-docker-containers/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How Containers, Microservices and AI Will Lead to the Operatorless Data Center -
+&lt;a href=&quot;http://thenewstack.io/how-containers-microservices-and-ai-will-lead-to-the-operatorless-data-center/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;15 Things You Should Know About Ansible -
+&lt;a href=&quot;http://codeheaven.io/15-things-you-should-know-about-ansible/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ensuring a Command Module Task is Repeatable with Ansible - 
+&lt;a href=&quot;http://ryaneschinger.com/blog/ensuring-command-module-task-is-repeatable-with-ansible/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The missing piece in containers: storage! -
+&lt;a href=&quot;http://blog.infinit.sh/the-missing-piece-in-containers-storage/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;TNS Research: A Scan of the Container Vulnerability Scanner Landscape -
+&lt;a href=&quot;http://thenewstack.io/draft-vulnerability-scanners/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Microservices: Real Architectural Patterns - 
+&lt;a href=&quot;https://medium.com/@skamille/microservices-real-architectural-patterns-68bd83bbb6cd#.708f4mvj1&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Samsung Introduces 64-Layer V-NAND &amp;amp; A 32TB SAS SSD -
+&lt;a href=&quot;http://www.storagereview.com/samsung_introduces_64layer_vnand_a_32tb_sas_ssd&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The complete guide to Go net/http timeouts -
+&lt;a href=&quot;https://blog.cloudflare.com/the-complete-guide-to-golang-net-http-timeouts/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Concourse CI: CI that scales with your project -
+&lt;a href=&quot;https://concourse.ci/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;GoConvey: Write behavioral tests in your editor. Get live results in your browser -
+&lt;a href=&quot;http://goconvey.co/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Go’s march to low-latency GC -
+&lt;a href=&quot;https://blog.twitch.tv/gos-march-to-low-latency-gc-a6fa96f06eb7#.mftkxs2mw&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Kafka in a Nutshell - 
+&lt;a href=&quot;https://sookocheff.com/post/kafka/kafka-in-a-nutshell/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Go Walkthrough: bytes + strings packages -
+&lt;a href=&quot;https://medium.com/@benbjohnson/go-walkthrough-bytes-strings-packages-499be9f4b5bd#.y427or9ec&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Like on Git: Chrome extension to save links on your Github repository  -
+&lt;a href=&quot;https://github.com/Idnan/like-on-git#like-on-git&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Paw: The most advanced API tool for Mac (3.0 Free Upgrade for 2.x users) - 
+&lt;a href=&quot;https://paw.cloud/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;jq: A lightweight and flexible command-line JSON processor - 
+&lt;a href=&quot;https://stedolan.github.io/jq/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Tech News - Week 32</title>
