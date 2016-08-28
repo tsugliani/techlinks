@@ -4,13 +4,123 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-08-15T14:41:27+02:00</updated>
+ <updated>2016-08-28T17:08:08+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
    <email>timo.sugliani@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Tech News - Week 35</title>
+   <link href="http://techlinks.tsugliani.fr/2016/Week-35/"/>
+   <updated>2016-08-26T00:00:00+02:00</updated>
+   <id>http://techlinks.tsugliani.fr/2016/Week-35</id>
+   <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;NUMA Deep Dive Part 5: ESXi VMkernel NUMA Constructs - 
+&lt;a href=&quot;http://frankdenneman.nl/2016/08/22/numa-deep-dive-part-5-esxi-vmkernel-numa-constructs/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Storage and Availability Technical Documents - 
+&lt;a href=&quot;https://storagehub.vmware.com/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vRealize Operations 6.3: What’s New, Hint it just got even better - 
+&lt;a href=&quot;http://blogs.vmware.com/management/2016/08/vrealize-operations-6-3-whats-new.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;NSX for vSphere 6.2.4 Released - 
+&lt;a href=&quot;http://pubs.vmware.com/Release_Notes/en/nsx/6.2.4/releasenotes_nsx_vsphere_624.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Testing Distributed Firewall heap usage -
+&lt;a href=&quot;http://networkinferno.net/testing-distributed-firewall-heap-usage&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;License NSX via automation with PowerCLI - 
+&lt;a href=&quot;http://networkinferno.net/license-nsx-via-automation-with-powercli&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Release: NSX SDN-LAB v3.5 with advanced designs, vRealize Log + Network Insight and more -
+&lt;a href=&quot;http://www.networkskyx.com/2016/08/27/release-nsx-sdn-lab-v3-5-with-advanced-designs-vrealize-log-network-insight-and-more/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Auto create Nano server for ESXi with Powershell - 
+&lt;a href=&quot;https://michaelryom.dk/auto-create-nano-server-for-esxi-with-powershell/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Context, Visibility and Containment – NSX Securing “Anywhere” Part V - 
+&lt;a href=&quot;https://blogs.vmware.com/networkvirtualization/2016/08/nsx-securing-anywhere-part-v.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Micro-segmentation Benchmark – NSX Securing “Anywhere” Part VI - 
+&lt;a href=&quot;https://blogs.vmware.com/networkvirtualization/2016/08/micro-segmentation-benchmark-nsx-securing-anywhere-part-vi.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Use VMware Perl SDK to manage a vSphere infrastructure -
+&lt;a href=&quot;https://room28.it/index.php/2016/07/11/use-vmware-perl-sdk-to-manage-a-vsphere-infrastructure/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Virtual SAN Enterprise Network Design and Implementation with Brocade -
+&lt;a href=&quot;http://www.punchingclouds.com/2016/08/27/virtual-san-enterprise-network-design-implementation-brocade/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VSAN SwapThickProvisionDisabled OneLiner -
+&lt;a href=&quot;http://www.hypervisor.fr/?p=5766&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Log Insight 3.6: Enhanced Query API - 
+&lt;a href=&quot;http://sflanders.net/2016/08/23/log-insight-3-6-enhanced-query-api/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSphere HTML5 Web Client 2.2 Released -
+&lt;a href=&quot;https://labs.vmware.com/flings/vsphere-html5-web-client#changelog&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;HCIBench v1.5.0.1 Released -
+&lt;a href=&quot;https://labs.vmware.com/flings/hcibench#summary&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;rbvmomi 1.9.2 Released (vSphere 6 Support) - 
+&lt;a href=&quot;https://rubygems.org/gems/rbvmomi/versions/1.9.2&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Harbor 0.3.5 Released - 
+&lt;a href=&quot;https://github.com/vmware/harbor#harbor&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vagrant-guests-photon 1.0.4 Released - 
+&lt;a href=&quot;https://github.com/vmware/vagrant-guests-photon#vagrant-guests-photon--&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Easy Conference Tunneling - OSX, Sidestep, and Cloud Servers -
+&lt;a href=&quot;http://blog.codybunch.com/2016/08/25/Easy-Conference-Tunneling-Sidestep-Cloud-Servers/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ultimate PowerShell Prompt Customization and Git Setup Guide - 
+&lt;a href=&quot;https://hodgkins.io/ultimate-powershell-prompt-and-git-setup&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Kubernetes Secret Manager - 
+&lt;a href=&quot;https://github.com/upmc-enterprises/kubernetes-secret-manager#kubernetes-secret-manager&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Color Schemes for ConEmu - 
+&lt;a href=&quot;https://github.com/joonro/ConEmu-Color-Themes#color-schemes-for-conemu&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;GitLab 8.11 released with Issue Boards and Merge Conflict Resolution -
+&lt;a href=&quot;https://about.gitlab.com/2016/08/22/gitlab-8-11-released/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;I Contributed To An Open-Source Editor, And So Can You -
+&lt;a href=&quot;https://www.smashingmagazine.com/2016/08/contributing-open-source/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;@DuncanYB’s recommended reads part 4 - 
+&lt;a href=&quot;http://www.yellow-bricks.com/2016/08/26/duncanybs-recommended-reads-part-4/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tech News - Week 34</title>
+   <link href="http://techlinks.tsugliani.fr/2016/Week-34/"/>
+   <updated>2016-08-19T00:00:00+02:00</updated>
+   <id>http://techlinks.tsugliani.fr/2016/Week-34</id>
+   <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Custom Pattern as a Classification Value on NSX Data Security Regulation - 
+&lt;a href=&quot;http://blog.bertello.org/2016/07/18/custom-nsx-data-security-regulation/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Quick Tip – How to retrieve the ESXi Update Level using the vSphere API? - 
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/08/quick-tip-how-to-retrieve-the-esxi-update-level-using-the-vsphere-api.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Automate vRealize Orchestrator with PowerShell: Introducing PowervRO -
+&lt;a href=&quot;http://www.jonathanmedd.net/2016/08/automate-vrealize-orchestrator-with-powershell-introducing-powervro.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Intel Xeon D-1518 (X10SDV-4C-7TP4F) ESXi &amp;amp; Storage server build notes -
+&lt;a href=&quot;http://www.bussink.ch/?p=1787&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSphere HTML5 Web Client 2.1 Released -
+&lt;a href=&quot;https://labs.vmware.com/flings/vsphere-html5-web-client#changelog&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMFork for pyVmomi v1.0.2 Released - 
+&lt;a href=&quot;https://labs.vmware.com/flings/vmfork-for-pyvmomi#summary&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware VSAN 6.2 All-Flash Review -
+&lt;a href=&quot;http://www.storagereview.com/vmware_vsan_62_allflash_review&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Microsoft open sources PowerShell, brings it to Linux and OS X -
+&lt;a href=&quot;https://techcrunch.com/2016/08/18/microsoft-open-sources-powershell-brings-it-to-linux-and-os-x/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Solving the routing mess for services using Docker - 
+&lt;a href=&quot;https://medium.com/@lherrera/solving-the-routing-mess-for-services-in-docker-73492c37b335#.whwslsshf&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Simpler GitHub Pages publishing -
+&lt;a href=&quot;https://github.com/blog/2228-simpler-github-pages-publishing&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Kubernetes Namespaces: use cases and insights - 
+&lt;a href=&quot;http://blog.kubernetes.io/2016/08/kubernetes-namespaces-use-cases-insights.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Tech News - Week 33</title>
