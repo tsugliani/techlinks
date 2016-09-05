@@ -4,7 +4,7 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-09-05T16:08:18+02:00</updated>
+ <updated>2016-09-05T16:31:46+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
@@ -32,6 +32,12 @@
 &lt;a href=&quot;https://www.youtube.com/watch?v=b6Mll8sfcgA&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;VMworld 2016: NET9989 - VMware NSX, Network Bridge to Multi-Cloud Future - 
 &lt;a href=&quot;https://youtu.be/3xHFK_8Ba58&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMworld 2016: The Power Hour: Deep Dive, DevOps, and New Features of PowerCLI -
+&lt;a href=&quot;http://bit.ly/2cmxO5R&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMworld 2016: Enforcing a vSphere Cluster Design with PowerCLI Automation -
+&lt;a href=&quot;http://bit.ly/2bRVS25&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMworld 2016: vSphere 6.x Host Resource Deep Dive -
+&lt;a href=&quot;http://bit.ly/2c28BwW&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;VMware Cloud Foundation FAQ - 
 &lt;a href=&quot;http://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/datasheet/products/vmware-cloud-foundation-faq.pdf&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Introducing VMware Validated Design 3.0 - 
