@@ -4,13 +4,118 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-08-28T17:08:08+02:00</updated>
+ <updated>2016-09-05T16:08:18+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
    <email>timo.sugliani@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Tech News - Week 36</title>
+   <link href="http://techlinks.tsugliani.fr/2016/Week-36/"/>
+   <updated>2016-09-02T00:00:00+02:00</updated>
+   <id>http://techlinks.tsugliani.fr/2016/Week-36</id>
+   <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;vCloud Director – retain IP/Mac - 
+&lt;a href=&quot;http://sostechblog.com/2016/08/30/vcloud-director-retain-ipmac/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware NSX-v 6.2.4 Compatible with vCloud Director 8.0.1 &amp;amp; 8.1.0 - 
+&lt;a href=&quot;http://partnerweb.vmware.com/comp_guide2/sim/interop_matrix.php#interop&amp;amp;29=977,1013&amp;amp;93=1914&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Reboot All Hosts in vCloud Director - new script provided by one of my readers - 
+&lt;a href=&quot;https://fojta.wordpress.com/2016/03/18/reboot-all-hosts-in-vcloud-director/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMworld 2016: Cross Cloud Platform - Raw Thoughts -
+&lt;a href=&quot;http://anthonyspiteri.net/vmworld-2016-cloud-foundantion-raw-thoughts/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMworld 2016: VMware vSphere Integrated Containers Demo - 
+&lt;a href=&quot;https://www.youtube.com/watch?v=b6Mll8sfcgA&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMworld 2016: NET9989 - VMware NSX, Network Bridge to Multi-Cloud Future - 
+&lt;a href=&quot;https://youtu.be/3xHFK_8Ba58&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware Cloud Foundation FAQ - 
+&lt;a href=&quot;http://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/datasheet/products/vmware-cloud-foundation-faq.pdf&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Introducing VMware Validated Design 3.0 - 
+&lt;a href=&quot;https://cto.vmware.com/introducing-vmware-validated-design-3-0/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How to install and configure vRealize Network Insight 3.0 - 
+&lt;a href=&quot;https://vlearner.blogspot.fr/2016/09/how-to-install-and-configure-vrealize.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;An Industry Roadmap: From storage to data management #STO7903 by @xtosk - 
+&lt;a href=&quot;http://www.yellow-bricks.com/2016/09/01/industry-roadmap-storage-data-management-sto7903-xtosk/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How to Add a Linux Machine as PowerShell Host in vRO (Linux PS over SSH) (SKKB1030) - 
+&lt;a href=&quot;http://kaloferov.com/blog/how-to-add-a-linux-machine-as-powershell-host-in-vro-skkb1030/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Log Insight 3.6: Official API Documentation! - 
+&lt;a href=&quot;http://sflanders.net/2016/08/29/log-insight-3-6-official-api-documentation/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Log Insight 3.6: Syslog Event Forwarder Tags - 
+&lt;a href=&quot;http://sflanders.net/2016/09/01/log-insight-3-6-syslog-event-forwarder-tags/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Photon OS with sshfs from source - 
+&lt;a href=&quot;https://medium.com/@hartsock/photon-os-with-sshfs-from-source-941a12cc554c&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSphere Integrated Containers – The Next Step -
+&lt;a href=&quot;http://thinkcloud.nl/2016/08/30/vsphere-integrated-containers/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Photon Platform Architecture -
+&lt;a href=&quot;http://thinkcloud.nl/2016/08/30/photon-platform-architecture/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware Remote Console 9.0 Released -
+&lt;a href=&quot;https://my.vmware.com/web/vmware/details?downloadGroup=VMRC90&amp;amp;productId=491&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSphere Integrated Containers v0.5.5 Released + Documentation - 
+&lt;a href=&quot;https://vmware.github.io/vic/&quot; target=&quot;_blank&quot;&gt;Link 1&lt;/a&gt; |
+&lt;a href=&quot;https://github.com/vmware/vic-product&quot; target=&quot;_blank&quot;&gt;Link 2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSphere HTML5 Web Client 2.3 Released -
+&lt;a href=&quot;https://labs.vmware.com/flings/vsphere-html5-web-client#changelog&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware Admiral: Highly Scalable Container Management Platform -
+&lt;a href=&quot;https://vmware.github.io/admiral/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;PowerNSX v2 Released - 
+&lt;a href=&quot;http://networkinferno.net/released-powernsx-v2&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vmxtoolkit: Powershell extension to VMware Workstation - 
+&lt;a href=&quot;https://github.com/bottkars/vmxtoolkit#vmxtoolkit&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Vester: Easily validate and remediate your vSphere configuration -
+&lt;a href=&quot;https://github.com/WahlNetwork/Vester#vester&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Add RPM builder for VMware Photon OS #24116 = Official Docker 1.13+ RPMS for Photon OS - 
+&lt;a href=&quot;https://github.com/docker/docker/pull/24116&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A Docker Fork: Talk of a Split Is Now on the Table -
+&lt;a href=&quot;http://thenewstack.io/docker-fork-talk-split-now-table/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;2 weeks with Terraform - 
+&lt;a href=&quot;https://charity.wtf/2016/02/23/two-weeks-with-terraform/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;DevOps vs SRE: Delayed coverage of the dumbest War - 
+&lt;a href=&quot;https://charity.wtf/2016/06/30/devops-vs-sre-delayed-coverage-of-the-dumbest-war/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ansible Best Practices: The Essentials - 
+&lt;a href=&quot;https://www.ansible.com/blog/ansible-best-practices-essentials&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;So a product manager asks you to fix a bug… - 
+&lt;a href=&quot;https://medium.freecodecamp.com/youre-asked-to-make-a-fix-e156b802ad92&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Why is stretched ACI infinitvely better than OTV ? -
+&lt;a href=&quot;http://blog.ipspace.net/2016/09/why-is-stretched-aci-infinitely-better.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Beta News – Flash Player NPAPI for Linux -
+&lt;a href=&quot;http://blogs.adobe.com/flashplayer/2016/08/beta-news-flash-player-npapi-for-linux.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;400,000 GitHub repositories, 1 billion files, 14 terabytes of code: Spaces or Tabs? - 
+&lt;a href=&quot;https://medium.com/@hoffa/400-000-github-repositories-1-billion-files-14-terabytes-of-code-spaces-or-tabs-7cfe0b5dd7fd&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;New CentOS Atomic Host with Package Layering Support - 
+&lt;a href=&quot;http://www.projectatomic.io/blog/2016/08/new-centos-atomic-host-with-package-layering-support/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Zalando’s Restful API Guidelines - 
+&lt;a href=&quot;https://github.com/zalando/restful-api-guidelines#developing-restful-apis-a-comprehensive-set-of-guidelines-by-zalando&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;30K Page Views for $0.21: A Serverless Story - 
+&lt;a href=&quot;https://fmlnerd.com/2016/08/16/30k-page-views-for-0-21-a-serverless-story/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Hardest Part About Microservices: Your Data - 
+&lt;a href=&quot;http://blog.christianposta.com/microservices/the-hardest-part-about-microservices-data/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Terraform module for creating Kubernetes cluster running on CoreOS in an AWS VPC - 
+&lt;a href=&quot;https://github.com/kz8s/tack#terraform-aws-coreos-kubernetes&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Deploy a Kubernetes cluster using Terraform and Ansible on top of CoreOS. - 
+&lt;a href=&quot;https://github.com/samsung-cnct/kraken#kraken&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;kops: the easiest way to get a production Kubernetes up and running - 
+&lt;a href=&quot;https://github.com/kubernetes/kops#kops---kubernetes-ops&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Awesome Go Patterns: A curated list of Go patterns and idioms -
+&lt;a href=&quot;http://tmrts.com/go-patterns/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Tipboard - in-house, tasty, local dashboarding system - 
+&lt;a href=&quot;http://allegro.tech/tipboard/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;netdata: real-time performance monitoring, now scaled out! - 
+&lt;a href=&quot;http://my-netdata.io/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Fork: a fast and friendly git client for Mac - 
+&lt;a href=&quot;https://git-fork.com/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Tech News - Week 35</title>
