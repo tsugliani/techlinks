@@ -4,13 +4,152 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-09-05T16:31:46+02:00</updated>
+ <updated>2016-09-19T13:47:43+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
    <email>timo.sugliani@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Tech News - Week 38</title>
+   <link href="http://techlinks.tsugliani.fr/2016/Week-38/"/>
+   <updated>2016-09-16T00:00:00+02:00</updated>
+   <id>http://techlinks.tsugliani.fr/2016/Week-38</id>
+   <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Collect vCloud Director Cell Logs with Log Insight Agent - 
+&lt;a href=&quot;https://fojta.wordpress.com/2016/09/16/collect-vcloud-director-cell-logs-with-log-insight-agent/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Force HA Failover on NSX Edges - 
+&lt;a href=&quot;http://cloudmaniac.net/force-ha-failover-on-nsx-edges/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;NSXv – DFW Log Format Change - 
+&lt;a href=&quot;http://www.sneaku.com/2016/09/17/nsxv-dfw-log-format-change/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;@DuncanYB’s recommended reads part 5 - 
+&lt;a href=&quot;http://www.yellow-bricks.com/2016/09/18/duncanybs-recommended-reads-part-5/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware ESXi Claim Rules unleashed -
+&lt;a href=&quot;http://virtualguido.blogspot.fr/2016/09/vmware-esxi-claim-rules-unleashed.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;NSX - Custom Regex queries for Log Insight - 
+&lt;a href=&quot;http://networkinferno.net/custom-regex-queries-for-log-insight&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware Integrated OpenStack 3.0 Released - 
+&lt;a href=&quot;http://pubs.vmware.com/Release_Notes/en/integrated-openstack/30/vmware-integrated-openstack-3-release-notes.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Automating vCenter Server 5.5 repoint to a new SSO 5.5 -
+&lt;a href=&quot;https://haveyoutriedreinstalling.com/2016/09/12/automating-vcenter-server-5-5-repoint-to-a-new-sso-5-5/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vCenter Server Appliance (VCSA) Migration Tool officially GAs w/vSphere 6.0 Update 2m -
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/09/vcenter-server-appliance-vcsa-migration-tool-officially-gas-wvsphere-6-0-update-2m.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSphere HTML5 Web Client 2.5 Released -
+&lt;a href=&quot;https://labs.vmware.com/flings/vsphere-html5-web-client#changelog&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ESXi Embedded Host Client 1.9.1 Released -
+&lt;a href=&quot;https://labs.vmware.com/flings/esxi-embedded-host-client#changelog&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Getting started with vCheck -
+&lt;a href=&quot;https://rnelson0.com/2016/09/16/getting-started-with-vcheck/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Automatically Configuring an F5 BIG-IP Load Balancer for PSC 6.0 HA - 
+&lt;a href=&quot;https://haveyoutriedreinstalling.com/2016/09/13/automatically-configuring-an-f5-big-ip-load-balancer-for-psc-6-0-ha/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How VMware Integrated Containers May Introduce Docker to the Enterprise - 
+&lt;a href=&quot;http://thenewstack.io/vmware-integrated-containers-may-introduce-docker-enterprise/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Home Lab Decision Making – NUC and Supermicro -
+&lt;a href=&quot;https://notesfrommwhite.net/2016/09/18/home-lab-decision-making-nuc-and-supermicro/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vmware/govmomi 1.9 Released - Go library for the VMware vSphere API  - 
+&lt;a href=&quot;https://github.com/vmware/govmomi/releases/tag/v0.9.0&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Your Life Is Tetris. Stop Playing It Like Chess. -
+&lt;a href=&quot;https://medium.com/the-mission/your-life-is-tetris-stop-playing-it-like-chess-4baac6b2750d&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;250 GB/day of logs with Graylog: The good, the bad and the ugly - 
+&lt;a href=&quot;https://thehftguy.wordpress.com/2016/09/12/250-gbday-of-logs-with-graylog-the-good-the-bad-and-the-ugly/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How a loud noise brought a data center to its knees - 
+&lt;a href=&quot;http://www.zdnet.com/article/how-a-loud-noise-brought-a-data-center-to-its-knees/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Using Vagrant with AWS - 
+&lt;a href=&quot;http://blog.scottlowe.org/2016/09/15/using-vagrant-with-aws/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Announcing Envoy: C++ L7 proxy and communication bus - 
+&lt;a href=&quot;https://eng.lyft.com/announcing-envoy-c-l7-proxy-and-communication-bus-92520b6c8191&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The state of the Octoverse 2016 -
+&lt;a href=&quot;https://octoverse.github.com/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Kubernetes The Hard Way: Updated for AWS Cloud Platform -
+&lt;a href=&quot;https://github.com/kelseyhightower/kubernetes-the-hard-way&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Technology Short Take #71 - 
+&lt;a href=&quot;http://blog.scottlowe.org/2016/09/09/technology-short-take-71/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Consul 0.7 Released  - 
+&lt;a href=&quot;https://www.hashicorp.com/blog/consul-0-7.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Netmiko: Multi-vendor library to simplify Paramiko SSH connections to network devices - 
+&lt;a href=&quot;https://github.com/ktbyers/netmiko#netmiko&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tech News - Week 37</title>
+   <link href="http://techlinks.tsugliani.fr/2016/Week-37/"/>
+   <updated>2016-09-09T00:00:00+02:00</updated>
+   <id>http://techlinks.tsugliani.fr/2016/Week-37</id>
+   <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;PowerCLI Stops Working After NSX 6.2.4 Upgrade -
+&lt;a href=&quot;https://fojta.wordpress.com/2016/09/08/powercli-stops-working-after-nsx-6-2-4-upgrade/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;PowerNSX – Validating logging status on DFW rules - 
+&lt;a href=&quot;http://networkinferno.net/powernsx-validating-logging-status-on-dfw-rules&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;What’s new with vRealize Operations 6.3 - 
+&lt;a href=&quot;http://virtual-red-dot.info/whats-new-with-vrealize-operations-6-3/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Sharing VMworld slides - 
+&lt;a href=&quot;http://www.yellow-bricks.com/2016/09/07/sharing-vmworld-slides/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Direct playback &amp;amp; download URLs for all VMworld US 2016 sessions -
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/09/direct-playback-urls-for-all-vmworld-us-2016-sessions.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMworld US 2016 Breakout Sessions -
+&lt;a href=&quot;https://github.com/lamw/vmworld2016-session-urls#vmworld-us-2016-breakout-sessions&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt; |
+&lt;a href=&quot;http://vstuff.org/VMworld2016-Vegas/&quot; target=&quot;_blank&quot;&gt;Download&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Stickers/Shirts - 
+&lt;a href=&quot;http://www.yellow-bricks.com/stickersshirts/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Disable Virtual SAN health check alarms -
+&lt;a href=&quot;http://www.ivobeerens.nl/2016/09/07/disable-virtual-san-health-check-alarms/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vmware/priam: Go CLI tool for VMware Identity Manager portal - 
+&lt;a href=&quot;https://github.com/vmware/priam#priam---a-go-cli-for-vmware-identity-manager&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;NGINX as a Reverse Proxy for Docker Swarm Clusters -
+&lt;a href=&quot;https://blog.codeship.com/nginx-reverse-proxy-docker-swarm-clusters/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Using Vault as a Certificate Authority for Kubernetes - 
+&lt;a href=&quot;https://www.digitalocean.com/company/blog/vault-and-kubernetes/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Scaleway : pas assez cher mon fils ! [&lt;em&gt;FRENCH&lt;/em&gt;] - 
+&lt;a href=&quot;https://vblog.io/scaleway-pas-assez-cher-mon-fils/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;GitHub: Improving collaboration with forks - 
+&lt;a href=&quot;https://github.com/blog/2247-improving-collaboration-with-forks&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Using Docker Datacenter to launch load test - 
+&lt;a href=&quot;http://blogs.cornell.edu/cloudification/2016/09/03/using-docker-datacenter-to-launch-load-test/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ASP.NET Core continuous deployment with Docker Hub -
+&lt;a href=&quot;https://stefanprodan.com/2016/aspnetcore-cd-pipeline-docker-hub/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Docker Kata 003: Live debugging -
+&lt;a href=&quot;https://medium.com/@Jesse_White/docker-kata-003-130c81bc3c39&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Jenkins makes a UX splash with Blue Ocean - 
+&lt;a href=&quot;http://blog.alexellis.io/jenkins-splashes-with-blue-ocean/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Docker Datacenter for AWS - 
+&lt;a href=&quot;https://sreeninet.wordpress.com/2016/09/03/docker-datacenter-for-aws/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Docker Service and Swarm Mode to Create Couchbase Cluster - 
+&lt;a href=&quot;http://blog.couchbase.com/2016/september/docker-service-swarm-mode-couchbase-cluster&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Oh shit, git! - 
+&lt;a href=&quot;http://ohshitgit.com/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A space error: $370 million for an integer overflow - 
+&lt;a href=&quot;https://hownot2code.com/2016/09/02/a-space-error-370-million-for-an-integer-overflow/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Outage Post-Mortem for August 22nd - 
+&lt;a href=&quot;https://building.buildkite.com/outage-post-mortem-for-august-23rd-82b619a3679b&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;InfluxDB 1.0 GA Released: A Retrospective and What’s Next - 
+&lt;a href=&quot;https://www.influxdata.com/influxdb-1-0-ga-released-a-retrospective-and-whats-next/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Wireshark 2.2 Released - 
+&lt;a href=&quot;https://www.wireshark.org/download.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;EdgeMAX EdgeRouter software release v1.9.0 - 
+&lt;a href=&quot;http://community.ubnt.com/t5/EdgeMAX-Updates-Blog/EdgeMAX-EdgeRouter-software-release-v1-9-0/bc-p/1643335&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Tech News - Week 36</title>
