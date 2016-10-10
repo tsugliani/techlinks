@@ -4,7 +4,7 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-10-10T12:37:20+02:00</updated>
+ <updated>2016-10-10T12:38:33+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
@@ -42,10 +42,8 @@
 &lt;a href=&quot;https://haveyoutriedreinstalling.com/2016/09/12/automating-vcenter-server-5-5-repoint-to-a-new-sso-5-5/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;vCenter Server Appliance (VCSA) Migration Tool officially GAs w/vSphere 6.0 Update 2m -
 &lt;a href=&quot;http://www.virtuallyghetto.com/2016/09/vcenter-server-appliance-vcsa-migration-tool-officially-gas-wvsphere-6-0-update-2m.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;VMXNET3 driver now included in Mac OS X 10.11 (El Capitan)+ -
-&lt;a href=&quot;http://www.virtuallyghetto.com/2016/10/vmxnet3-driver-now-included-in-mac-os-x-10-11-el-capitan.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;VMXNET3 driver now included in Mac OS X 10.11 (El Capitan)+ -
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/10/vmxnet3-driver-now-included-in-mac-os-x-10-11-el-capitan.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;SDDC Dashboards: The Kitchen -
 &lt;a href=&quot;http://virtual-red-dot.info/sddc-dashboards-kitchen/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Easyvirt DCscope, un Nantais à l’assaut de vRealize Operations (&lt;em&gt;FRENCH&lt;/em&gt;) -
