@@ -4,13 +4,226 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-09-19T13:47:43+02:00</updated>
+ <updated>2016-10-10T12:37:20+02:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
    <email>timo.sugliani@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Tech News - Week 41</title>
+   <link href="http://techlinks.tsugliani.fr/2016/Week-41/"/>
+   <updated>2016-10-07T00:00:00+02:00</updated>
+   <id>http://techlinks.tsugliani.fr/2016/Week-41</id>
+   <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;vCloud Director 8.0.2 for Service Providers Release Notes -
+&lt;a href=&quot;http://pubs.vmware.com/Release_Notes/en/vcd/802/rel_notes_vcloud_director_802.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Automating the iland cloud using Microsoft Powershell and PowerCLI - Part One - 
+&lt;a href=&quot;http://blog.iland.com/cloud/automating-the-iland-cloud-using-microsoft-powershell-and-powercli-part-one&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;First Look: vRealize Network Insight (Arkin)
+&lt;a href=&quot;http://anthonyspiteri.net/first-look-vrealize-network-insight-arkin/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware Validated Design for SDDC 3.0 Now Generally Available - 
+&lt;a href=&quot;https://tenthirtyam.org/2016/09/29/vvd-sddc-3-0-ga/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Why to take part in VMware VMworld 2016 Europe Hackathon? - 
+&lt;a href=&quot;http://notes.doodzzz.net/2016/09/28/why-to-take-part-in-vmware-vmworld-2016-hackathon/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Some nice enhancements to Docker Volume Driver for vSphere v0.7 - 
+&lt;a href=&quot;http://cormachogan.com/2016/10/06/nice-enhancements-docker-volume-driver-vsphere-v0-7/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Monitor Your DHCP Scopes With vRealise Log Insight -
+&lt;a href=&quot;http://www.simonlong.co.uk/blog/2016/10/07/monitor-your-dhcp-scopes-with-vrealise-log-insight/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;NSX - Custom Regex queries for Log Insight - 
+&lt;a href=&quot;http://networkinferno.net/custom-regex-queries-for-log-insight&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware Integrated OpenStack 3.0 Released - 
+&lt;a href=&quot;http://pubs.vmware.com/Release_Notes/en/integrated-openstack/30/vmware-integrated-openstack-3-release-notes.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Automating vCenter Server 5.5 repoint to a new SSO 5.5 -
+&lt;a href=&quot;https://haveyoutriedreinstalling.com/2016/09/12/automating-vcenter-server-5-5-repoint-to-a-new-sso-5-5/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vCenter Server Appliance (VCSA) Migration Tool officially GAs w/vSphere 6.0 Update 2m -
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/09/vcenter-server-appliance-vcsa-migration-tool-officially-gas-wvsphere-6-0-update-2m.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;VMXNET3 driver now included in Mac OS X 10.11 (El Capitan)+ -
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/10/vmxnet3-driver-now-included-in-mac-os-x-10-11-el-capitan.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;SDDC Dashboards: The Kitchen -
+&lt;a href=&quot;http://virtual-red-dot.info/sddc-dashboards-kitchen/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Easyvirt DCscope, un Nantais à l’assaut de vRealize Operations (&lt;em&gt;FRENCH&lt;/em&gt;) -
+&lt;a href=&quot;https://labs.vmware.com/flings/esxi-embedded-host-client#changelog&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Building vSphere Plugins with the HTML Client SDK Fling -
+&lt;a href=&quot;http://blogs.vmware.com/vsphere/2016/10/vsphere-html-client-sdk-fling.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How to tell if an ESXi host is a VSAN Witness Virtual Appliance programmatically? - 
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/09/how-to-tell-if-an-esxi-host-is-a-vsan-witness-virtual-appliance-programmatically.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Check the size of your Config + Stats, Events, Alarms &amp;amp; Tasks (SEAT) data in the VCDB? - 
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/09/how-to-check-the-size-of-your-config-stats-events-alarms-tasks-seat-data-in-the-vcdb.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;FlashArray vRealize Orchestrator workflow package 1.7 released -
+&lt;a href=&quot;http://www.codyhosterman.com/2016/09/1-7-release-of-the-flasharray-workflow-package-for-vrealize-orchestrator/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Creating a new virtual/hard disk with vrealize orchestrator -
+&lt;a href=&quot;http://www.codyhosterman.com/2016/10/creating-a-new-virtualhard-disk-with-vrealize-orchestrator/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Query ESXi Hosts Serial Numbers  - 
+&lt;a href=&quot;https://fojta.wordpress.com/2016/10/01/query-esxi-hosts-serial-numbers/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;One year on Google Cloud - Whats great, Whats not -
+&lt;a href=&quot;http://blog.dripstat.com/one-year-on-google-cloud-whats-great-whats-not/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Overlay Problem: Getting In and Out - 
+&lt;a href=&quot;http://packetlife.net/blog/2016/sep/30/overlay-problem-getting-in-out/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Bringing Pokémon GO to life on Google Cloud - 
+&lt;a href=&quot;https://cloudplatform.googleblog.com/2016/09/bringing-Pokemon-GO-to-life-on-Google-Cloud.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Grafana Screencasts #10 - Dashboard Discovery &amp;amp; Sharing - 
+&lt;a href=&quot;https://www.youtube.com/watch?v=iUj6DwfBh88&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The software engineer’s guide to asserting dominance in the workplace - 
+&lt;a href=&quot;https://medium.com/feature-creep/the-software-engineer-s-guide-to-asserting-office-dominance-ddea7b598df7&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How it feels to learn JavaScript in 2016 -
+&lt;a href=&quot;https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Introducing InfraKit, A Toolkit For Creating/Managing Declarative, Self-Healing Infrastructure -
+&lt;a href=&quot;https://blog.docker.com/2016/10/introducing-infrakit-an-open-source-toolkit-for-declarative-infrastructure&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Running OpenStack Rally tests from a Docker container - 
+&lt;a href=&quot;http://blog.jreypo.io/openstack/networking/docker/running-openstack-rally-tests-from-a-docker-container/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;I Don’t Want to Talk to my Cloud Provider  - 
+&lt;a href=&quot;http://technodrone.blogspot.com/2016/10/i-dont-want-to-talk-to-my-cloud-provider.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Breaking into WPA Enterprise networks with Air-Hammer - 
+&lt;a href=&quot;http://mikeallen.org/blog/2016-10-06-breaking-into-wpa-enterprise-networks-with-air-hammer/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;TLS Version intolerance: Working around bugs in legacy TLS stacks - 
+&lt;a href=&quot;https://timtaubert.de/blog/2016/09/tls-version-intolerance/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Packer templates for macOS: Updated for 10.12 Sierra -
+&lt;a href=&quot;https://github.com/boxcutter/macos#packer-templates-for-macos&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;NVMe falling below SATA Pricing ? Get Ready, it’s happening -
+&lt;a href=&quot;https://www.servethehome.com/nvme-falling-below-sata-pricing-get-ready/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;11 f**k ups whilst making a chatbot -
+&lt;a href=&quot;https://medium.com/wk-ventures/11-f-k-ups-whilst-making-a-chatbot-10b71d837e2a&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A Service Mesh for Kubernetes, Part I: Top-Line Service Metrics -
+&lt;a href=&quot;https://blog.buoyant.io/2016/10/04/a-service-mesh-for-kubernetes-part-i-top-line-service-metrics/index.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How to save the princess in 8 programming languages -
+&lt;a href=&quot;https://toggl.com/programming-princess&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Chivalry is dead, and so is testing. -
+&lt;a href=&quot;https://medium.com/api-corner/chivalry-is-dead-and-so-is-testing-8e9103251f15&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A Triple-Provider Vagrant Environment -
+&lt;a href=&quot;http://blog.scottlowe.org/2016/10/05/triple-provider-vagrant-environment/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Playing with OpenStack Vagrant provider - 
+&lt;a href=&quot;http://blog.jreypo.io/openstack/devops/sysadmin/playing-with-openstack-vagrant-provider/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;RethinkDB is shutting down -
+&lt;a href=&quot;https://rethinkdb.com/blog/rethinkdb-shutdown/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Python: Hues - 
+&lt;a href=&quot;https://github.com/prashnts/hues#hues&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Art of README - 
+&lt;a href=&quot;https://github.com/noffle/art-of-readme#art-of-readme&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;GitHub Dumps REST Calls for Facebook’s GraphQL - 
+&lt;a href=&quot;http://thenewstack.io/github-dumps-rest-graphql-api/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How I fixed my Wi-Fi by ditching shitty consumer hardware
+&lt;a href=&quot;http://thenextweb.com/gadgets/2016/09/29/how-i-fixed-my-wifi-by-stopping-buying-shitty-consumer-hardware/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tech News - Week 40</title>
+   <link href="http://techlinks.tsugliani.fr/2016/Week-40/"/>
+   <updated>2016-09-30T00:00:00+02:00</updated>
+   <id>http://techlinks.tsugliani.fr/2016/Week-40</id>
+   <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;VMware vCloud: This VM has a compliance failure against its Storage Policy. - 
+&lt;a href=&quot;http://pingforinfo.com/vmware-vcloud-this-vm-has-a-compliance-failure-against-its-storage-policy/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;PowerCLI to deploy VMs in VMware vCloud and connect to network - 
+&lt;a href=&quot;http://pingforinfo.com/powercli-script-to-deploy-vms-in-vmware-vcloud-and-connect-to-network/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware vRealize Network Insight Health and Availability - 
+&lt;a href=&quot;https://www.youtube.com/watch?v=UNvXxfC8ZAs&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware Validated Designs Documentation 3.0 - 
+&lt;a href=&quot;https://www.vmware.com/support/pubs/vmware-validated-design-pubs.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Use vNIC filter_hash in Log Insight -
+&lt;a href=&quot;http://networkinferno.net/use-vnic-filter_hash-in-log-insight&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware Virtual SAN 6.2: Proof of Concept Guide - 
+&lt;a href=&quot;https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/products/vsan/vmware-virtual-san6.2-proof-of-concept-guide.pdf&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Architecture of Harbor: An Open Source Enterprise-class Registry Server -
+&lt;a href=&quot;http://www.think-foundry.com/architecture-of-harbor-an-open-source-enterprise-class-registry-server/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Photon Controller v1.0 is available - 
+&lt;a href=&quot;http://cormachogan.com/2016/09/27/photon-controller-v1-0-available/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware Photon Administration Guide  - 
+&lt;a href=&quot;https://github.com/vmware/photon/blob/master/docs/photon-admin-guide.md#photon-os-administration-guide&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Networking in vSphere Integrated Containers - 
+&lt;a href=&quot;https://github.com/vmware/vic/tree/master/doc/design/networking#networking-in-vic&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Seeding Veeam Cloud Connect – Part 3: replication jobs -
+&lt;a href=&quot;http://www.virtualtothecore.com/en/seeding-veeam-cloud-connect-part-3-replication-jobs/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;About SaltStack - 
+&lt;a href=&quot;http://www.yet.org/2016/09/salt/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Introducing TLS 1.3 - 
+&lt;a href=&quot;https://blog.cloudflare.com/introducing-tls-1-3/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Getting Started with HTTP/2: Part 2 -
+&lt;a href=&quot;https://www.viget.com/articles/getting-started-with-http-2-part-2&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;DC/OS 1.8: Stepping up container security and orchestration -
+&lt;a href=&quot;https://mesosphere.com/blog/2016/09/16/dcos-1-8-networking-container-security/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Windows 10 has an undocumented certificate pinning feature - 
+&lt;a href=&quot;http://hexatomium.github.io/2016/09/24/hidden-w10-pins/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Why I started to use Go more than Python or Ruby ? - 
+&lt;a href=&quot;https://www.whitesmith.co/blog/why-i-started-to-use-golang-more-than-python-or-ruby/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Why I’m Now Using VirtualBox with Vagrant -
+&lt;a href=&quot;http://blog.scottlowe.org/2016/09/28/why-now-using-virtualbox-with-vagrant/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Red Hat, Google Engineers Work on a Way for Kubernetes to Run Containers Without Docker -
+&lt;a href=&quot;http://thenewstack.io/oci-building-way-kubernetes-run-containers-without-docker/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Why Your Keyboard is Bad for Your Body - 
+&lt;a href=&quot;https://blog.forrestthewoods.com/why-your-keyboard-is-bad-for-your-body-40376fcec8c5&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;LXD, ZFS and bridged networking on Ubuntu 16.04 LTS  - 
+&lt;a href=&quot;https://bayton.org/2016/05/lxd-zfs-and-bridged-networking-on-ubuntu-16-04-lts/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;NFV, Skills &amp;amp; Mutable vs. Immutable Infrastructure -
+&lt;a href=&quot;http://ipengineer.net/2016/09/nfv-skills-mutable-vs-immutable-infrastructure-2/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tech News - Week 39</title>
+   <link href="http://techlinks.tsugliani.fr/2016/Week-39/"/>
+   <updated>2016-09-23T00:00:00+02:00</updated>
+   <id>http://techlinks.tsugliani.fr/2016/Week-39</id>
+   <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;NSX Bytes: vCloud Director cannot deploy NSX Edges - 
+&lt;a href=&quot;http://anthonyspiteri.net/nsx-bytes-vcloud-director-cant-deploy-nsx-edges/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;NSX Central CLI Update on 6.2.3/6.2.4 - 
+&lt;a href=&quot;http://www.sneaku.com/2016/09/17/central-cli-update-1-for-nsx-6-2-36-2-4/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;NSXv – DFW Log Format Change - 
+&lt;a href=&quot;http://www.sneaku.com/2016/09/17/nsxv-dfw-log-format-change/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Orphaned Files Revisited - 
+&lt;a href=&quot;http://www.lucd.info/2016/09/13/orphaned-files-revisited/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Checking if VCSA migrated from a Windows vCenter Server ? -
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/09/how-to-tell-if-your-vcenter-server-appliance-vcsa-was-migrated-from-a-windows-vcenter-server.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Log Insight 3.6: Content Pack Upgrade Instructions - 
+&lt;a href=&quot;http://sflanders.net/2016/09/19/log-insight-3-6-content-pack-upgrade-instructions/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;GraphQL: A query language for your API -
+&lt;a href=&quot;http://graphql.org/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Visual Studio Code: Troubleshooting PowerShell Extension Issues - 
+&lt;a href=&quot;https://github.com/PowerShell/vscode-powershell/blob/master/docs/troubleshooting.md&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Scalable Stream Processing: A Survey of Storm, Samza, Spark and Flink - 
+&lt;a href=&quot;https://medium.baqend.com/real-time-stream-processors-a-survey-and-decision-guidance-6d248f692056&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;There is no REST API - 
+&lt;a href=&quot;http://blog.howarddierking.com/2016/09/15/there-is-no-rest-api/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;HashiConf 2016 Youtube - 
+&lt;a href=&quot;https://www.youtube.com/playlist?list=PL81sUbsFNc5bDS1lH0HPJFyBnAP8Iv4t0&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Welcome to Python cheatsheet! -
+&lt;a href=&quot;https://www.pythonsheets.com/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;httpstat: curl statistics made simple -
+&lt;a href=&quot;https://github.com/reorx/httpstat#httpstat&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Tech News - Week 38</title>
