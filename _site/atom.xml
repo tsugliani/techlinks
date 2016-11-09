@@ -4,13 +4,275 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-10-10T12:38:33+02:00</updated>
+ <updated>2016-11-09T15:35:01+01:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
    <email>timo.sugliani@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Tech News - Week 45</title>
+   <link href="http://techlinks.tsugliani.fr/2016/Week-45/"/>
+   <updated>2016-11-04T00:00:00+01:00</updated>
+   <id>http://techlinks.tsugliani.fr/2016/Week-45</id>
+   <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;migrate2vcsa Resources - 
+&lt;a href=&quot;https://github.com/lamw/migrate2vcsa-resources#migrate2vcsa-resources&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Will I get Photon OS when I upgrade my VCSA 5.5/6.0 to VCSA 6.5? - 
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/11/will-i-get-photon-os-when-i-upgrade-my-vcsa-5-56-0-to-vcsa-6-5.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vCenter Server Appliance (VCSA) 6.5 What’s New Rundown - 
+&lt;a href=&quot;http://emadyounis.com/vcenter/vcenter-server-appliance-vcsa-6-5-whats-new-rundown/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Log Insight 3.6 and vRealize Operations Manager 6.3 Integration Enhancements - 
+&lt;a href=&quot;http://sflanders.net/2016/11/01/log-insight-3-6-vrealize-operations-manager-6-3-integration-enhancements/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Host not Ready Error When Installing NSX Agents - 
+&lt;a href=&quot;http://frankdenneman.nl/2016/11/04/host-not-ready/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Copy NSX-Edge - 
+&lt;a href=&quot;http://networkinferno.net/copy-nsx-edge&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Automating deployment of 8-way ECMP - 
+&lt;a href=&quot;http://networkinferno.net/automating-deployment-of-8-way-ecmp&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Configure new automatic Space Reclamation (VMFS UNMAP) using vSphere 6.5 APIs - 
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/10/configure-new-automatic-space-reclamation-vmfs-unmap-using-vsphere-6-5-apis.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Migrating from VCSA embedded PSC to external PSC - 
+&lt;a href=&quot;https://blah.cloud/virtualisation/migrating-vcsa-embedded-psc-external-psc&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware ESXi - I/O Block Size in Virtual Environments - 
+&lt;a href=&quot;http://virtualguido.blogspot.fr/2016/11/vmware-esxi-io-block-size-in-virtual.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Understanding the Impact of a Noisy Neighbor Using vRealize Operations - 
+&lt;a href=&quot;http://blogs.vmware.com/management/2016/11/understanding-impact-noisy-neighbor-using-vrealize-operations.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSphere visibility for Network Team - 
+&lt;a href=&quot;http://virtual-red-dot.info/vsphere-visibility-network-team/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Direct playback &amp;amp; download URLs for VMworld EU 2016 sessions - 
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/11/direct-playback-urls-for-vmworld-eu-2016-sessions.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware Integrated OpenStack – Collapse Compute &amp;amp; Edge Clusters - 
+&lt;a href=&quot;http://virtualelephant.com/2016/11/02/vmware-integrated-openstack-collapse-compute-edge-clusters/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Super easy way of getting ESXi installation date in vSphere 6.5 - 
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/10/super-easy-way-of-getting-esxi-installation-date-in-vsphere-6-5.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware{code} Hackathon: One for All and All for One - 
+&lt;a href=&quot;https://teebeedee.org/2016/11/vmwarecode-hackathon-one-one/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Can Storage Policies be used with VIC? - 
+&lt;a href=&quot;http://cormachogan.com/2016/11/02/can-storage-policies-used-vic/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSphere Integrated Containers Engine Version v0.7.0 Released - 
+&lt;a href=&quot;https://github.com/vmware/vic/releases/tag/v0.7.0&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Docker in Production: A History of Failure -
+&lt;a href=&quot;https://thehftguy.wordpress.com/2016/11/01/docker-in-production-an-history-of-failure/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ansible 2.2 News -
+&lt;a href=&quot;https://www.ansible.com/press/ansible-22-delivers-new-automation-capabilities-for-containers-networks-and-cloud&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Linux containers in 500 lines of code - 
+&lt;a href=&quot;https://blog.lizzie.io/linux-containers-in-500-loc.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Hyper.sh Mixes Containers, Hypervisors, and Something Called ‘Hypernetes’ - 
+&lt;a href=&quot;http://thenewstack.io/hyper-sh-mixes-containers-hypervisors-something-called-hypernetes/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;clumsy 0.2: Network worsener simulator -
+&lt;a href=&quot;https://jagt.github.io/clumsy/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tech News - Week 44</title>
+   <link href="http://techlinks.tsugliani.fr/2016/Week-44/"/>
+   <updated>2016-10-28T00:00:00+02:00</updated>
+   <id>http://techlinks.tsugliani.fr/2016/Week-44</id>
+   <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Debunking 3 common MYTHS around vCloud Director - 
+&lt;a href=&quot;http://anthonyspiteri.net/worth-a-repost-debunking-three-common-myths-around-vcloud-director-longlivevcd/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;NSX Bytes: Important Bug in 6.2.4 to be aware of - 
+&lt;a href=&quot;http://anthonyspiteri.net/nsx-bytes-important-bug-in-6-2-4-to-be-aware-of/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vCloud Availability PowerCLI Monitoring Cmdlets - 
+&lt;a href=&quot;https://fojta.wordpress.com/2016/10/24/vcloud-availability-powercli-monitoring-cmdlets/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSphere visibility for Storage Team - 
+&lt;a href=&quot;http://virtual-red-dot.info/vsphere-visibility-storage-team/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How to run a Docker Container on the vCenter Server Appliance (VCSA) 6.5? - 
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/10/how-to-run-a-docker-container-on-the-vcenter-server-appliance-vcsa-6-5.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;5 ways to a run PowerCLI script using the PowerCLI Docker Container - 
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/10/5-different-ways-to-run-powercli-script-using-powercli-core-docker-container.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Introducing VMware Tools 10.1 and 10.0.12 - 
+&lt;a href=&quot;http://blogs.vmware.com/vsphere/2016/10/introducing-vmware-tools-10-1-10-0-12.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How to deploy the vCenter Server Appliance (VCSA) 6.5 running on Fusion &amp;amp; Workstation? - 
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/10/how-to-deploy-the-vcenter-server-appliance-vcsa-6-5-running-on-vmware-fusion-workstation.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Virtual NVMe and Nested ESXi 6.5? - 
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/10/virtual-nvme-and-nested-esxi-6-5.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Myth of the Root Cause: How Complex Web Systems Fail -
+&lt;a href=&quot;http://blog.scalyr.com/2016/10/the-myth-of-the-root-cause/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Giving Your Product A Soul -
+&lt;a href=&quot;https://www.smashingmagazine.com/2016/10/giving-your-product-a-soul/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Running containers without Docker - 
+&lt;a href=&quot;http://jvns.ca/blog/2016/10/26/running-container-without-docker/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Bending the Dynamic vs Static Language Tradeoff - 
+&lt;a href=&quot;http://jamie-wong.com/bending-the-pl-curve/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Changelog.com is Open Source - 
+&lt;a href=&quot;https://changelog.com/posts/changelog-is-open-source&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Managing AWS Infrastructure with Ansible - 
+&lt;a href=&quot;http://blog.scottlowe.org/2016/10/23/managing-aws-infrastructure-ansible/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Designing a modern multi-tenant DC network - 
+&lt;a href=&quot;https://blah.cloud/architecture/designing-modern-private-cloud-network/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Cisco Application Centric - Infrastructure Design Guide Release 2.0 (ACI) -
+&lt;a href=&quot;http://www.cisco.com/c/en/us/solutions/collateral/data-center-virtualization/application-centric-infrastructure/white-paper-c11-737909.pdf&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;DTrace for Linux 2016 -
+&lt;a href=&quot;http://www.brendangregg.com/blog/2016-10-27/dtrace-for-linux-2016.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Linux Performance - 
+&lt;a href=&quot;http://www.brendangregg.com/linuxperf.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Seven (More) Deadly Sins of Microservices - 
+&lt;a href=&quot;http://thenewstack.io/seven-deadly-sins-microservices/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;OpenShift Application Platform - 
+&lt;a href=&quot;https://github.com/openshift/origin#openshift-application-platform&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Open Broadcaster Software - Stream your desktop - 
+&lt;a href=&quot;https://obsproject.com/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Introducing Microsoft Surface Studio - 
+&lt;a href=&quot;https://www.youtube.com/watch?v=BzMLA8YIgG0&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Life after Google - 
+&lt;a href=&quot;https://medium.com/@cmcluck/yesterday-was-my-last-day-at-google-ae3e08f750a3&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Solarized color settings for Windows command prompt - 
+&lt;a href=&quot;https://github.com/neilpa/cmd-colors-solarized#solarized---command-prompt-theme&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;AWS Data Transfer Costs Pictured! - 
+&lt;a href=&quot;https://raw.githubusercontent.com/open-guides/og-aws/master/figures/aws-data-transfer-costs.png&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tech News - Week 43</title>
+   <link href="http://techlinks.tsugliani.fr/2016/Week-43/"/>
+   <updated>2016-10-21T00:00:00+02:00</updated>
+   <id>http://techlinks.tsugliani.fr/2016/Week-43</id>
+   <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;PowerCLI Core is now available on Docker Hub! - 
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/10/powercli-core-is-now-available-on-docker-hub.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Preparing for a vCenter Server Migration using the vSphere 6.02m Migration Tool – Part 3 - 
+&lt;a href=&quot;http://blogs.vmware.com/vsphere/2016/10/preparing-vcenter-server-migration-using-vsphere-6-0-update-2m-migration-tool-part-3.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A Look at VMware’s vCenter Server Appliance (VCSA) 6.5 Release - 
+&lt;a href=&quot;http://wahlnetwork.com/2016/10/18/vcsa-6-5-release/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Big Improvements to vSphere HA and DRS in 6.5 Release - 
+&lt;a href=&quot;http://wahlnetwork.com/2016/10/18/big-improvements-vsphere-ha-drs-6-5-release/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSphere 6.5 what’s new – VMFS 6 / Core Storage - 
+&lt;a href=&quot;http://www.yellow-bricks.com/2016/10/18/vsphere-6-5-whats-new-vmfs-6-core-storage/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;What is new for Virtual SAN 6.5? - 
+&lt;a href=&quot;http://www.yellow-bricks.com/2016/10/18/new-virtual-san-6-5/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSphere 6.5 what’s new – HA - 
+&lt;a href=&quot;http://www.yellow-bricks.com/2016/10/19/vsphere-6-5-whats-new-ha/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSphere 6.5 what’s new – VVols - 
+&lt;a href=&quot;http://www.yellow-bricks.com/2016/10/20/vsphere-6-5-whats-new-vvols/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Documenting the NSX-v DFW with PowerNSX - 
+&lt;a href=&quot;https://tonysangha.com/2016/10/20/documenting-the-nsx-v-dfw-with-powernsx/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;PowerCli Core Fling for MAC! How-to guide - 
+&lt;a href=&quot;https://johannstander.com/2016/10/19/powercli-core-fling-for-mac-how-to-guide/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Log Insight: Configuration APIs - 
+&lt;a href=&quot;http://sflanders.net/2016/10/19/log-insight-configuration-apis/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;What a great time – VMworld 2016 Hackathon rules! - 
+&lt;a href=&quot;https://notesfrommwhite.net/2016/10/18/what-a-great-time-vmworld-2016-hackaton-rules/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How to check the size of your Config &amp;amp; SEAT data in the VCDB in vPostgres? - 
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/10/how-to-check-the-size-of-your-config-seat-data-in-the-vcdb-in-vpostgres.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Nested ESXi Enhancements in vSphere 6.5 -
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/10/nested-esxi-enhancements-in-vsphere-6-5.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware Gets Serious about RESTful APIs and Expanding PowerCLI  - 
+&lt;a href=&quot;http://wahlnetwork.com/2016/10/18/vmware-gets-serious-restful-apis-expanding-powercli/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Vagrant-Photon OS Bug and Workaround - 
+&lt;a href=&quot;http://blog.scottlowe.org/2016/10/20/vagrant-photon-bug-workaround/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;PowerCLI Core v1.0 Fling released - 
+&lt;a href=&quot;https://labs.vmware.com/flings/powercli-core&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Does My Design Project Need a Strategy? -
+&lt;a href=&quot;https://www.viget.com/articles/does-my-design-project-need-a-strategy&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Principles of Automation - 
+&lt;a href=&quot;https://keepingitclassless.net/2016/10/principles-of-automation/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Building Network-Friendly Single-Page Apps - 
+&lt;a href=&quot;https://blog.newrelic.com/2016/10/17/network-friendly-single-page-apps/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Fixing Python Performance with Rust - 
+&lt;a href=&quot;https://blog.sentry.io/2016/10/19/fixing-python-performance-with-rust.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Kubernetes, Mesos, and Swarm: Comparing the Rancher Orchestration Engine Options - 
+&lt;a href=&quot;http://rancher.com/comparing-rancher-orchestration-engine-options/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Network Automation with Salt and NAPALM -
+&lt;a href=&quot;http://bit.ly/2fCiKWd&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;docker/infrakit: A Quick Tutorial -
+&lt;a href=&quot;https://github.com/docker/infrakit/blob/master/docs/tutorial.md&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Combining Heat with OpenStack Vagrant provider - 
+&lt;a href=&quot;http://blog.jreypo.io/openstack/devops/sysadmin/combining-heat-with-openstack-vagrant-provider/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Patching windows servers with Ansible - 
+&lt;a href=&quot;http://www.virtualtothecore.com/en/patching-windows-servers-ansible/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;What’s New in Sophos XG Firewall v16 - 
+&lt;a href=&quot;https://vimeo.com/184602161&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;typora: a truly minimal markdown editor - 
+&lt;a href=&quot;https://www.typora.io/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tech News - Week 42</title>
+   <link href="http://techlinks.tsugliani.fr/2016/Week-42/"/>
+   <updated>2016-10-14T00:00:00+02:00</updated>
+   <id>http://techlinks.tsugliani.fr/2016/Week-42</id>
+   <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;vCloud Director SP 8.0.2 - Important upgrade for Zerto clients - 
+&lt;a href=&quot;http://anthonyspiteri.net/released-vcloud-director-sp-8-0-2-important-upgrade-for-zerto-clients/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;NSX Bytes: NSX Edge feature and performance matrix - 
+&lt;a href=&quot;http://anthonyspiteri.net/nsx-bytes-updated-nsx-edge-feature-and-performance-matrix/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Automating vCloud with Microsoft Powershell – Part Two, Automatic Shutdown and Startup - 
+&lt;a href=&quot;http://blog.iland.com/cloud/automating-the-iland-with-microsoft-powershell-and-powercli-part-two&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Preparing for a vCenter Server Migration using the vSphere 6.0U2m Migration Tool – Part 2 - 
+&lt;a href=&quot;http://blogs.vmware.com/vsphere/2016/10/preparing-vcenter-server-migration-using-vsphere-6-0-update-2m-migration-tool-part-2.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Getting Comfortable with vPostgres and the vCenter Server Appliance – Part 3 - 
+&lt;a href=&quot;http://blogs.vmware.com/vsphere/2016/10/getting-comfortable-vpostgres-vcenter-server-appliance-part-3.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware Cloud™ on AWS – A Closer Look - 
+&lt;a href=&quot;http://frankdenneman.nl/2016/10/13/vmware-cloud-aws-closer-look/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Deploy a Linux VM using Customization Wizard using Perl SDK -
+&lt;a href=&quot;https://room28.it/index.php/2016/10/10/deploy-a-linux-vm-using-customization-wizard-using-perl-sdk/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Hacking Photon OS to Do Your Bidding  - 
+&lt;a href=&quot;http://www.timcarr.net/?p=471&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;No SDN Kubernetes -
+&lt;a href=&quot;https://medium.com/@rothgar/no-sdn-kubernetes-5a0cb32070dd&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Organising remote access to your home lab with Sophos UTM - 
+&lt;a href=&quot;http://vmnomad.blogspot.fr/2016/09/remote-access-with-sophos-utm.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Build your infrastructure with Terraform, Nomad and Consul on Scaleway - 
+&lt;a href=&quot;https://blog.online.net/2016/09/14/build-your-infrastructure-with-terraform-nomad-and-consul-on-scaleway/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Revisiting BGP on Linux w/ Cumulus Topology Converter - 
+&lt;a href=&quot;http://blog.codybunch.com/2016/08/22/Revisiting-BGP-on-Linux-w-Cumulus-Topology-Converter/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Configuring Windows machines for Ansible - 
+&lt;a href=&quot;http://www.virtualtothecore.com/en/configuring-windows-machines-for-ansible/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Build Your Own Slack App and Bot -
+&lt;a href=&quot;https://www.viget.com/articles/how-to-build-your-own-slack-app-and-bot&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Vault 0.6.2 - Let’s talk about it -
+&lt;a href=&quot;https://www.hashicorp.com/blog/vault-0.6.2.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A Survival Guide for Containerizing your Infrastructure — Part 1: Why switch? - 
+&lt;a href=&quot;https://medium.com/google-cloud/a-survival-guide-for-containerizing-your-infrastructure-part-1-why-switch-8e8dee9fc66&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Static types in Python, oh my(py)! - 
+&lt;a href=&quot;http://blog.zulip.org/2016/10/13/static-types-in-python-oh-mypy/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Technology Short Take #72 - 
+&lt;a href=&quot;http://blog.scottlowe.org/2016/10/10/technology-short-take-72/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Tech News - Week 41</title>
