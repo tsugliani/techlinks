@@ -4,13 +4,328 @@
  <title>Tech Links</title>
  <link href="http://techlinks.tsugliani.fr/atom.xml" rel="self"/>
  <link href="http://techlinks.tsugliani.fr/"/>
- <updated>2016-11-09T15:35:01+01:00</updated>
+ <updated>2016-12-05T19:58:06+01:00</updated>
  <id>http://techlinks.tsugliani.fr</id>
  <author>
    <name>Timo Sugliani</name>
    <email>timo.sugliani@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Tech News - Week 49</title>
+   <link href="http://techlinks.tsugliani.fr/2016/Week-49/"/>
+   <updated>2016-12-02T00:00:00+01:00</updated>
+   <id>http://techlinks.tsugliani.fr/2016/Week-49</id>
+   <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;PowerCLI: Saying Farewell to Snapins! - 
+&lt;a href=&quot;http://blogs.vmware.com/PowerCLI/2016/11/saying-farewell-snapins.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VCSA 6.5 CLI Installer now supports new ovftool argument pass-through feature -
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/11/vcsa-6-5-cli-installer-now-supports-new-ovftool-argument-pass-through-feature.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Automating the installation of VUM UMDS for Linux in vSphere 6.5 - 
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/11/automating-the-installation-of-vum-update-manager-download-service-umds-for-linux-in-vsphere-6-5.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Quick look - vSphere 6.5 Storage Space Reclamation - 
+&lt;a href=&quot;http://anthonyspiteri.net/quick-look-vsphere-6-5-storage-space-reclamation/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;What’s new in ESXi 6.5 Storage Part III: Thin Hot Extend - 
+&lt;a href=&quot;http://www.codyhosterman.com/2016/11/whats-new-in-esxi-6-5-storage-part-iii-thinhotextend/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;HCI Automated Deployment &amp;amp; Configuration: vSphere, vSAN, NSX, VIO The DevOps Way - 
+&lt;a href=&quot;http://www.punchingclouds.com/2016/11/29/hci-automated-deployment-configuration-vsphere-vsan-nsx-vio-the-devops-way/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vCenter 6.5: #SRM, #vSphere Replication, #NSX problems after SSL change (LS_Update_certs.py) - 
+&lt;a href=&quot;http://vlenzker.net/2016/11/vcenter-6-5-srm-vsphere-replication-nsx-problems-after-ssl-change-ls_update_certs-py/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Log Insight 4.0: Agent Enhancements - 
+&lt;a href=&quot;http://sflanders.net/2016/11/29/log-insight-4-0-agent-enhancements/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Log Insight Webhook Shim Updated - 
+&lt;a href=&quot;http://sflanders.net/2016/11/30/log-insight-webhook-shim-updated/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vCenter 6.5: Dude, where’re my services? - 
+&lt;a href=&quot;https://haveyoutriedreinstalling.com/2016/11/27/vcenter-6-5-dude-wherere-my-services/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSphere 6.5 Core Storage White Paper Now Available - 
+&lt;a href=&quot;http://cormachogan.com/2016/11/28/vsphere-6-5-core-storage-white-paper-now-available/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Deploy Kubernetes as a service on Photon Controller v1.1 - 
+&lt;a href=&quot;http://cormachogan.com/2016/11/29/deploy-kubernetes-as-a-service-on-photon-controller-v1-1/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Deploy Kubernetes manually on Photon Controller v1.1 and vSAN - 
+&lt;a href=&quot;http://cormachogan.com/2016/11/30/deploy-kubernetes-manually-on-photon-controller-v11-and-vsan/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware Tools Not Installed on Windows 2016, but … -
+&lt;a href=&quot;https://notesfrommwhite.net/2016/11/27/vmware-tools-not-installed-on-windows-2016-but/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Using Ubiquiti Networks in the home and lab - 
+&lt;a href=&quot;https://michaelryom.dk/using-ubiquiti-networks-in-the-home-and-lab&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Troubleshoot OpenStack Neutron + NSX -
+&lt;a href=&quot;http://virtualelephant.com/2016/11/29/troubleshoot-openstack-neutron-nsx/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware ESXi Mac Learning dvFilter 2.0 Released (ESXi 6.5 Support) - 
+&lt;a href=&quot;https://labs.vmware.com/flings/esxi-mac-learning-dvfilter#changelog&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Liveblog: Scaling to Your First 10 Million Users - 
+&lt;a href=&quot;http://blog.scottlowe.org/2016/11/29/scaling-first-10mil-users/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How I built a Lego Rack for the Intel NUCs - 
+&lt;a href=&quot;http://www.devtty.uk/homelab/How-I-Built-a-Lego-Rack-for-the-Intel-NUCs/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How to break Python - 
+&lt;a href=&quot;http://www.b-list.org/weblog/2016/nov/28/break-python/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Kubernetes resource graphing with Heapster, InfluxDB and Grafana - 
+&lt;a href=&quot;http://agiletesting.blogspot.fr/2016/11/kubernetes-resource-graphing-with.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Q-in-VNI and EFP for Hosting Providers -
+&lt;a href=&quot;http://yves-louis.com/DCI/?p=1381&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Neat Project to Install PowerShell Modules from GitHub Projects - 
+&lt;a href=&quot;http://wahlnetwork.com/2016/12/01/neat-project-install-powershell-modules-github-projects/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Spotlight: Consul KV CLI - 
+&lt;a href=&quot;https://www.hashicorp.com/blog/consul-kv-cli.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Getting to know Consul - 
+&lt;a href=&quot;https://flynnbundy.com/service-discovery/2016/11/26/getting-to-know-consul.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Runkit: Prototype and explore your ideas - 
+&lt;a href=&quot;https://runkit.com/home&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;GpuRamDrive - 
+&lt;a href=&quot;https://github.com/prsyahmi/GpuRamDrive&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;tsugliani/vdude: my fish prompt - 
+&lt;a href=&quot;https://github.com/tsugliani/vdude&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tech News - Week 48</title>
+   <link href="http://techlinks.tsugliani.fr/2016/Week-48/"/>
+   <updated>2016-11-25T00:00:00+01:00</updated>
+   <id>http://techlinks.tsugliani.fr/2016/Week-48</id>
+   <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Configure Active Directory Federation for vCloud Director Organization - 
+&lt;a href=&quot;https://fojta.wordpress.com/2016/11/22/configure-active-directory-federation-for-vcloud-director-organization/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;New vSphere 6.5 REST API and API Explorer - 
+&lt;a href=&quot;http://cloudmaniac.net/vsphere-api-explorer/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vGhetto Automated vSphere Lab Deployment for vSphere 6.0u2 &amp;amp; vSphere 6.5 -
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/11/vghetto-automated-vsphere-lab-deployment-for-vsphere-6-0u2-vsphere-6-5.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Photon Platform v1.1 is Now Available for Download on GitHub - 
+&lt;a href=&quot;http://blogs.vmware.com/cloudnative/photon-platform-v1-1-now-available-download-github/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Custom script bundle is now possible with Auto Deploy in vSphere 6.5 - 
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/11/custom-script-bundle-is-now-possible-with-auto-deploy-in-vsphere-6-5.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Virtual SAN High Availability Across Routed Networks - 
+&lt;a href=&quot;http://www.punchingclouds.com/2016/11/22/virtual-san-high-availability-across-routed-networks/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Awaiting too long for this!!! vCenter HA – Part 1 -
+&lt;a href=&quot;http://billho.website/?p=141&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Awaiting too long for this!!! vCenter HA – Part 2 -
+&lt;a href=&quot;http://billho.website/?p=152&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Awaiting too long for this!!! vCenter HA – Part 3 -
+&lt;a href=&quot;http://billho.website/?p=205&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Awaiting too long for this!!! vCenter HA – Part 4 -
+&lt;a href=&quot;http://billho.website/?p=230&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Log Insight 4.0: Supported Deployment API - 
+&lt;a href=&quot;http://sflanders.net/2016/11/21/log-insight-4-0-supported-deployment-api/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Photon Controller v1.1 and vSAN interoperability - 
+&lt;a href=&quot;http://cormachogan.com/2016/11/23/photon-controller-v1-1-vsan-interoperability/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;New ESXCLI Commands in vSphere 6.5 - 
+&lt;a href=&quot;http://www.virten.net/2016/11/new-esxcli-commands-in-vsphere-6-5/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ESXi 6.5 Release Notes for free license and white box users - 
+&lt;a href=&quot;http://www.v-front.de/2016/11/esxi-65-release-notes-for-free-license.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Unikernels and The End of the General Purpose Operating System - 
+&lt;a href=&quot;http://www.morethanseven.net/2016/11/21/the-end-of-the-general-purpose-operating-system-unikernels/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The coming of the Kubernetes distributions - 
+&lt;a href=&quot;http://www.morethanseven.net/2016/11/23/the-coming-of-the-kubernetes-distributions/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Hype Driven Development - 
+&lt;a href=&quot;https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22#.j21l2v65q&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Using GNOME Keyring as Git Credential Helper - 
+&lt;a href=&quot;http://blog.scottlowe.org/2016/11/21/gnome-keyring-git-credential-helper/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Why the fuss about serverless?
+&lt;a href=&quot;https://hackernoon.com/why-the-fuss-about-serverless-4370b1596da0#.ujdxuxksm&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Stacked Pull Requests: Keeping GitHub Diffs Small -
+&lt;a href=&quot;https://graysonkoonce.com/stacked-pull-requests-keeping-github-diffs-small/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Project Clarity released - 
+&lt;a href=&quot;https://vmware.github.io/clarity/index.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Windows Subsystem for Linux Distribution Switcher - 
+&lt;a href=&quot;https://github.com/RoliSoft/WSL-Distribution-Switcher&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;dclone: Generate a docker command-line from a running container - 
+&lt;a href=&quot;https://github.com/casualjim/dclone&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Consul 0.7.1 - 
+&lt;a href=&quot;https://www.hashicorp.com/blog/consul-0.7.1.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tech News - Week 47</title>
+   <link href="http://techlinks.tsugliani.fr/2016/Week-47/"/>
+   <updated>2016-11-18T00:00:00+01:00</updated>
+   <id>http://techlinks.tsugliani.fr/2016/Week-47</id>
+   <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;All vSphere 6.5 release notes &amp;amp; download links -
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/11/vsphere65.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ESXi 6.5 Virtual Appliance is now available - 
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/11/esxi-6-5-virtual-appliance-is-now-available.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;New Release: PowerCLI 6.5 R1 - 
+&lt;a href=&quot;http://blogs.vmware.com/PowerCLI/2016/11/new-release-powercli-6-5-r1.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;PowerCLI 6.5 Release 1 and vSAN - 
+&lt;a href=&quot;http://cormachogan.com/2016/11/18/powercli-6-5-release-1-vsan/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How to enable vCenter Server High Availability (VCHA) in vSphere 6.5 w/single ESXi host? - 
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/11/how-to-enable-vcenter-server-high-availability-vcha-in-vsphere-6-5-wsingle-esxi-host.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Default hashing algorithm changed in OVFTool 4.2 - 
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/11/default-hashing-algorithm-changed-in-ovftool-4-2-preventing-ovfova-import-using-vsphere-c-client.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vCenter HA Failover Scenarios - 
+&lt;a href=&quot;https://haveyoutriedreinstalling.com/2016/11/16/vcenter-ha-failover-scenarios/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vCenter HA Gotcha’s (vSphere 6.5) - 
+&lt;a href=&quot;https://haveyoutriedreinstalling.com/2016/11/15/vcenter-ha-gotchas-vsphere-6-5/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSphere 6.5 Repointing Woes - 
+&lt;a href=&quot;https://haveyoutriedreinstalling.com/2016/11/18/vsphere-6-5-repointing-woes/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;NSX Identity Firewall – Deep Dive - 
+&lt;a href=&quot;http://www.routetocloud.com/2016/11/nsx-identity-firewall-deep-dive/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;NSX Full Stack deployment - 
+&lt;a href=&quot;http://networkinferno.net/nsx-full-stack-deployment&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;SysSet – A Syslog Configuration Tool for NSX Edges - 
+&lt;a href=&quot;http://networkinferno.net/sysset-a-syslog-configuration-tool-for-nsx-edges&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The vSAN Witness Appliance in vCloud Air: Part 1 (Overview) - 
+&lt;a href=&quot;https://blogs.vmware.com/virtualblocks/2016/11/16/vsan-witness-in-vca-p1/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The vSAN Witness Appliance in vCloud Air: Part 2 (OVA Upload) - 
+&lt;a href=&quot;https://blogs.vmware.com/virtualblocks/2016/11/16/vsan-witness-in-vca-p2/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The vSAN Witness Appliance in vCloud Air: Part 3 (Network) - 
+&lt;a href=&quot;http://blogs.vmware.com/virtualblocks/2016/11/16/vsan-witness-in-vca-p3/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The vSAN Witness Appliance in vCloud Air: Part 4 (Deployment) -
+&lt;a href=&quot;https://blogs.vmware.com/virtualblocks/2016/11/16/vsan-witness-in-vca-p4/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;What’s new in ESXi 6.5 Storage Part I: UNMAP - 
+&lt;a href=&quot;http://www.codyhosterman.com/2016/11/whats-new-in-esxi-6-5-storage-part-i-unmap/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;What’s new in ESXi 6.5 Storage Part II: Resignaturing -
+&lt;a href=&quot;http://www.codyhosterman.com/2016/11/whats-new-in-esxi-6-5-storage-part-ii-resignaturing/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Container Engine is a Commodity - 
+&lt;a href=&quot;http://bensdoings.com/2016/11/18/the-container-engine-is-a-commodity/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Video: Downloading and Installing VICe 0.7.0 - 
+&lt;a href=&quot;http://bensdoings.com/2016/11/14/downloading-and-installing-vice/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Log Insight API and JSON no content to map due to end-of-input -
+&lt;a href=&quot;http://sflanders.net/2016/11/17/log-insight-api-json-no-content-map-due-end-input/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Log Insight 4.0 Available Now! - 
+&lt;a href=&quot;http://sflanders.net/2016/11/16/log-insight-4-0-available-now/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VCSA 6.5 Installer Gotchas - 
+&lt;a href=&quot;http://sflanders.net/2016/11/18/vcsa-6-5-installer-gotchas/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware Validated Design (VVD) 3.0.2 Released - 
+&lt;a href=&quot;https://www.vmware.com/go/vvd-sddc&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Deploying VIC v0.7.0 in multi-cluster, multi-DVS infras - 
+&lt;a href=&quot;http://cormachogan.com/2016/11/17/deploying-vic-v0-7-0-multi-cluster-multi-dvs-infras/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;USB Ethernet driver for ESXi 6.5 - 
+&lt;a href=&quot;http://www.devtty.uk/homelab/USB-Ethernet-driver-for-ESXi-6.5/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;New Home Lab Build - 
+&lt;a href=&quot;https://vwilmo.wordpress.com/2016/11/14/new-home-lab-build/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Homelab – Supermicro 5028d-tnt4 storage driver performance issues and fix - 
+&lt;a href=&quot;http://anthonyspiteri.net/homelab-supermicro-5020d-tnt4-storage-driver-performance-issues-and-fix/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;USB 3.0 Ethernet Adapter (NIC) driver for ESXi 6.5 - 
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/11/usb-3-0-ethernet-adapter-nic-driver-for-esxi-6-5.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware Certificate Toolkit v0.1.9 Released - 
+&lt;a href=&quot;http://pierrelx.com/vmware-certificate-toolkit-v0-1-8/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vmware/pyvmomi 6.5 released -
+&lt;a href=&quot;https://github.com/vmware/pyvmomi&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSphere Integrated Containers documentation - 
+&lt;a href=&quot;https://vmware.github.io/vic-product/index.html#getting-started&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;You Are Not Paid to Write Code - 
+&lt;a href=&quot;http://bravenewgeek.com/you-are-not-paid-to-write-code&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Veriflow Launches Disruptive Platform - 
+&lt;a href=&quot;http://www.veriflow.net/veriflow-launches-disruptive-platform-survey-reveals-complexity-change-human-factors-cause-network-outages-vulnerabilities/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A History of Hard Drives - 
+&lt;a href=&quot;https://www.backblaze.com/blog/history-hard-drives/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Seagate Unveils the IronWolf Pro 10TB NAS HDD - 
+&lt;a href=&quot;http://www.storagereview.com/seagate_unveils_the_ironwolf_pro_10tb_nas_hdd&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Avere Systems - is it a cache, is it a tier, does it even matter? - 
+&lt;a href=&quot;https://blog.edmorgan.info/sfd11/2016/11/14/SFD11-Avere.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How To Setup VPC Peering With Ansible -
+&lt;a href=&quot;http://darrylcauldwell.com/ansible-vpc-peering/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Technology Short Take #73 -
+&lt;a href=&quot;http://blog.scottlowe.org/2016/11/18/technology-short-take-73/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Atomic Series. Part 1 - Introduction to Atomic Host - 
+&lt;a href=&quot;http://blog.jreypo.io/red%20hat/linux/cloud-native/the-atomic-series-part-1-introduction-to-atomic-host/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;My Python Virtual Env Setup Instructions - 
+&lt;a href=&quot;http://www.sneaku.com/2016/11/17/my-python-virtual-env-setup-instructions/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Nomad 0.5 - 
+&lt;a href=&quot;https://www.hashicorp.com/blog/nomad-0-5.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;GoAccess: Awesome open source real-time web log analyzer GUI/Console - 
+&lt;a href=&quot;https://goaccess.io/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tech News - Week 46</title>
+   <link href="http://techlinks.tsugliani.fr/2016/Week-46/"/>
+   <updated>2016-11-11T00:00:00+01:00</updated>
+   <id>http://techlinks.tsugliani.fr/2016/Week-46</id>
+   <content type="html">&lt;h3 id=&quot;vmware-related&quot;&gt;VMware related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Updates to VMDK partitions &amp;amp; disk resizing in VCSA 6.5 - 
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/11/updates-to-vmdk-partitions-disk-resizing-in-vcsa-6-5.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;An update on how to retrieve useful information from a vSphere login? - 
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/11/an-update-on-how-to-retrieve-useful-information-from-a-vsphere-login.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vCenter Server Database retention purge schedule - 
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/11/vcenter-server-database-retention-purge-schedule.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VCSA alarm for VCDB space utilization in vSphere 6.5 - 
+&lt;a href=&quot;http://www.virtuallyghetto.com/2016/11/vcsa-alarm-for-vcdb-space-utilization-in-vsphere-6-5.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSphere 6.5 Feature Preview: vCenter High Availability - 
+&lt;a href=&quot;https://haveyoutriedreinstalling.com/2016/11/10/vsphere-6-5-feature-preview-vcenter-high-availability/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSphere 6.5 Feature Preview: vCenter Server Appliance - 
+&lt;a href=&quot;https://haveyoutriedreinstalling.com/2016/11/07/vsphere-6-5-feature-preview-vcenter-server-appliance/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;NSX in Real Life - 
+&lt;a href=&quot;http://billho.website/?p=56&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vRealize Operation Manager, Who Needs it? - 
+&lt;a href=&quot;http://billho.website/?p=74&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Log Insight 3.6: User Impersonation - 
+&lt;a href=&quot;http://sflanders.net/2016/11/07/log-insight-3-6-user-impersonation/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Log Insight Agent: Static Fields - 
+&lt;a href=&quot;http://sflanders.net/2016/11/09/log-insight-agent-static-fields/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Log Insight Agent : Excluding Events with Blacklist - 
+&lt;a href=&quot;http://sflanders.net/2016/11/10/log-insight-agent-excluding-events-blacklist/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;vSAN 2 Nodes ROBO Setup - 
+&lt;a href=&quot;http://billho.website/?p=40&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VMware Virtual SAN (vSAN) Day 2 Operation – Scaling your vSAN - 
+&lt;a href=&quot;http://billho.website/?p=106&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Unable to remove the Guest Introspection service - 
+&lt;a href=&quot;http://www.ivobeerens.nl/2016/11/09/unable-remove-guest-introspection-service/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Kubernetes on vSphere - 
+&lt;a href=&quot;http://cormachogan.com/2016/11/10/run-kubernetes-natively-vsphere/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;VIC in a Nutshell -
+&lt;a href=&quot;http://bensdoings.com/2016/11/10/vic-in-a-nutshell/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How is VICe Differerent? - 
+&lt;a href=&quot;http://bensdoings.com/2016/11/10/how-is-vice-differerent/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Quickly Identify Whether My Virtual Machines Get All CPU Resources They Need - 
+&lt;a href=&quot;http://shirazerosagon.blogspot.fr/2016/11/quickly-identify-cpu-contention-with-vrops.html&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Cloud Native And Container with VMware - 
+&lt;a href=&quot;http://billho.website/?p=130&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The End of the General Purpose Operating System - 
+&lt;a href=&quot;http://www.morethanseven.net/2016/11/05/the-end-of-the-general-purpose-operating-system-as-it-happens/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Is Apple’s Cloud Key Vault a crypto backdoor? - 
+&lt;a href=&quot;https://blog.cryptographyengineering.com/2016/08/13/is-apples-cloud-key-vault-crypto/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Pictures from the 100G DWDM interop lab -
+&lt;a href=&quot;http://plajjan.github.io/pictures-from-100G-dwdm-interop-lab/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;An Introduction to the VirtualBox CLI -
+&lt;a href=&quot;http://blog.scottlowe.org//2016/11/10/intro-to-vbox-cli/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Thinking Out Loud: The Future of Kubernetes - 
+&lt;a href=&quot;http://blog.scottlowe.org//2016/11/09/thinking-out-loud-future-of-kubernetes/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;An Advanced Elasticsearch Architecture for High-volume Reindexing - 
+&lt;a href=&quot;https://thoughts.t37.net/abusing-an-innocent-elasticsearch-cluster-for-a-mass-reindex-without-disturbing-your-clients-360384fca105&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Surface Book review (2016): The laptop to beat doesn’t come cheap -
+&lt;a href=&quot;https://www.engadget.com/2016/11/10/surface-book-review-2016/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Guesswork and Gambling - 
+&lt;a href=&quot;http://bensdoings.com/2016/11/10/guesswork-and-gambling/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Why should students learn to write code? -
+&lt;a href=&quot;https://major.io/2016/10/10/why-should-students-learn-to-write-code/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Homebrew 1.1.0 Released - 
+&lt;a href=&quot;http://brew.sh/2016/11/07/homebrew-1.1.0/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Tech News - Week 45</title>
